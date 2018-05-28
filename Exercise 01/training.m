@@ -1,7 +1,7 @@
 fprintf('------------------ TRAINING ----------------\n');
 
 % Constants used for 'training.m' & 'test.m'
-NUMBER_OF_SPEAKERS = 4;
+NUMBER_OF_SPEAKERS = 10;
 NUMBER_OF_TESTS_PER_SPEAKER = 20;
 
 % Calculate GMM for each speaker
