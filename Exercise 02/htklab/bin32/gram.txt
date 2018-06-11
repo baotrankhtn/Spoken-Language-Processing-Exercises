@@ -1,0 +1,3 @@
+$digit = moojt | hai | ba | boosn | nawm | sasu | bary | tasm | chisn | khoong;
+
+(<$digit>)
