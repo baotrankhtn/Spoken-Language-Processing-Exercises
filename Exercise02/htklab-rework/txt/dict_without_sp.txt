@@ -1,0 +1,4859 @@
+A	[A]	A
+AI	[AI]	AI
+AM	[AM]	A M
+AN	[AN]	A N
+ANG	[ANG]	A NG
+ANH	[ANH]	A NH
+AO	[AO]	AO
+AU	[AU]	AU
+B	[B]	B 
+BA	[BA]	B A
+BAN	[BAN]	B A N
+BANG	[BANG]	B A NG
+BANH	[BANH]	B A NH
+BAO	[BAO]	B AO
+BAY	[BAY]	B AY
+BE	[BE]	B E
+BEN	[BEN]	B E N
+BENG	[BENG]	B E NG
+BI	[BI]	B I
+BIA	[BIA]	B IA
+BINH	[BINH]	B I NH
+BIÊN	[BIÊN]	B IÊ N
+BIÊNG	[BIÊNG]	B IÊ NG
+BIẾC	[BIẾC]	B IẾ C
+BIẾM	[BIẾM]	B IẾ M
+BIẾN	[BIẾN]	B IẾ N
+BIẾNG	[BIẾNG]	B IẾ NG
+BIẾT	[BIẾT]	B IẾ T
+BIẾU	[BIẾU]	B IẾU
+BIỀN	[BIỀN]	B IỀ N
+BIỂN	[BIỂN]	B IỂ N
+BIỂU	[BIỂU]	B IỂU
+BIỆN	[BIỆN]	B IỆ N
+BIỆT	[BIỆT]	B IỆ T
+BO	[BO]	B O
+BOA	[BOA]	B OA
+BOM	[BOM]	B O M
+BON	[BON]	B O N
+BONG	[BONG]	B O NG
+BU	[BU]	B U
+BUNG	[BUNG]	B U NG
+BUÔN	[BUÔN]	B UÔ N
+BUÔNG	[BUÔNG]	B UÔ NG
+BUÝT	[BUÝT]	B UÝ T
+BUỐT	[BUỐT]	B UỐ T
+BUỒN	[BUỒN]	B UỒ N
+BUỒNG	[BUỒNG]	B UỒ NG
+BUỔI	[BUỔI]	B UỔI
+BUỘC	[BUỘC]	B UỘ C
+BÀ	[BÀ]	B À
+BÀI	[BÀI]	B ÀI
+BÀN	[BÀN]	B À N
+BÀNG	[BÀNG]	B À NG
+BÀNH	[BÀNH]	B À NH
+BÀO	[BÀO]	B ÀO
+BÀU	[BÀU]	B ÀU
+BÀY	[BÀY]	B ÀY
+BÁ	[BÁ]	B Á
+BÁC	[BÁC]	B Á C
+BÁCH	[BÁCH]	B Á CH
+BÁI	[BÁI]	B ÁI
+BÁM	[BÁM]	B Á M
+BÁN	[BÁN]	B Á N
+BÁNG	[BÁNG]	B Á NG
+BÁNH	[BÁNH]	B Á NH
+BÁO	[BÁO]	B ÁO
+BÁT	[BÁT]	B Á T
+BÁU	[BÁU]	B ÁU
+BÂNG	[BÂNG]	B Â NG
+BÂU	[BÂU]	B ÂU
+BÂY	[BÂY]	B ÂY
+BÃ	[BÃ]	B Ã
+BÃI	[BÃI]	B ÃI
+BÃO	[BÃO]	B ÃO
+BÈ	[BÈ]	B È
+BÈN	[BÈN]	B È N
+BÈO	[BÈO]	B ÈO
+BÉ	[BÉ]	B É
+BÉN	[BÉN]	B É N
+BÉNG	[BÉNG]	B É NG
+BÉO	[BÉO]	B ÉO
+BÉT	[BÉT]	B É T
+BÊ	[BÊ]	B Ê
+BÊN	[BÊN]	B Ê N
+BÊNH	[BÊNH]	B Ê NH
+BÊU	[BÊU]	B ÊU
+BÌ	[BÌ]	B Ì
+BÌA	[BÌA]	B ÌA
+BÌNH	[BÌNH]	B Ì NH
+BÌU	[BÌU]	B ÌU
+BÍ	[BÍ]	B Í
+BÍCH	[BÍCH]	B Í CH
+BÍNH	[BÍNH]	B Í NH
+BÍU	[BÍU]	B ÍU
+BÒ	[BÒ]	B Ò
+BÓ	[BÓ]	B Ó
+BÓC	[BÓC]	B Ó C
+BÓI	[BÓI]	B ÓI
+BÓN	[BÓN]	B Ó N
+BÓNG	[BÓNG]	B Ó NG
+BÓP	[BÓP]	B Ó P
+BÓT	[BÓT]	B Ó T
+BÔI	[BÔI]	B ÔI
+BÔNG	[BÔNG]	B Ô NG
+BÕM	[BÕM]	B Õ M
+BÕNG	[BÕNG]	B Õ NG
+BÙ	[BÙ]	B Ù
+BÙA	[BÙA]	B ÙA
+BÙI	[BÙI]	B ÙI
+BÙN	[BÙN]	B Ù N
+BÙNG	[BÙNG]	B Ù NG
+BÚ	[BÚ]	B Ú
+BÚA	[BÚA]	B ÚA
+BÚN	[BÚN]	B Ú N
+BÚNG	[BÚNG]	B Ú NG
+BÚP	[BÚP]	B Ú P
+BÚT	[BÚT]	B Ú T
+BĂN	[BĂN]	B Ă N
+BĂNG	[BĂNG]	B Ă NG
+BĨNH	[BĨNH]	B Ĩ NH
+BĨU	[BĨU]	B ĨU
+BŨM	[BŨM]	B Ũ M
+BƠ	[BƠ]	B Ơ
+BƠI	[BƠI]	B ƠI
+BƠM	[BƠM]	B Ơ M
+BƯNG	[BƯNG]	B Ư NG
+BƯU	[BƯU]	B ƯU
+BƯƠI	[BƯƠI]	B ƯƠI
+BƯƠM	[BƯƠM]	B ƯƠ M
+BƯƠU	[BƯƠU]	B ƯƠU
+BƯỚC	[BƯỚC]	B ƯỚ C
+BƯỚNG	[BƯỚNG]	B ƯỚ NG
+BƯỞI	[BƯỞI]	B ƯỞI
+BẠ	[BẠ]	B Ạ
+BẠC	[BẠC]	B Ạ C
+BẠCH	[BẠCH]	B Ạ CH
+BẠI	[BẠI]	B ẠI
+BẠN	[BẠN]	B Ạ N
+BẠO	[BẠO]	B ẠO
+BẠT	[BẠT]	B Ạ T
+BẢ	[BẢ]	B Ả
+BẢN	[BẢN]	B Ả N
+BẢNG	[BẢNG]	B Ả NG
+BẢNH	[BẢNH]	B Ả NH
+BẢO	[BẢO]	B ẢO
+BẢY	[BẢY]	B ẢY
+BẤC	[BẤC]	B Ấ C
+BẤM	[BẤM]	B Ấ M
+BẤP	[BẤP]	B Ấ P
+BẤT	[BẤT]	B Ấ T
+BẤU	[BẤU]	B ẤU
+BẤY	[BẤY]	B ẤY
+BẦM	[BẦM]	B Ầ M
+BẦN	[BẦN]	B Ầ N
+BẦU	[BẦU]	B ẦU
+BẦY	[BẦY]	B ẦY
+BẨM	[BẨM]	B Ẩ M
+BẨN	[BẨN]	B Ẩ N
+BẪY	[BẪY]	B ẪY
+BẬC	[BẬC]	B Ậ C
+BẬN	[BẬN]	B Ậ N
+BẬP	[BẬP]	B Ậ P
+BẬT	[BẬT]	B Ậ T
+BẬY	[BẬY]	B ẬY
+BẮC	[BẮC]	B Ắ C
+BẮN	[BẮN]	B Ắ N
+BẮNG	[BẮNG]	B Ắ NG
+BẮP	[BẮP]	B Ắ P
+BẮT	[BẮT]	B Ắ T
+BẰM	[BẰM]	B Ằ M
+BẰNG	[BẰNG]	B Ằ NG
+BẴNG	[BẴNG]	B Ẵ NG
+BẶM	[BẶM]	B Ặ M
+BẶT	[BẶT]	B Ặ T
+BẸ	[BẸ]	B Ẹ
+BẸO	[BẸO]	B ẸO
+BẸP	[BẸP]	B Ẹ P
+BẸT	[BẸT]	B Ẹ T
+BẼN	[BẼN]	B Ẽ N
+BẾ	[BẾ]	B Ế
+BẾN	[BẾN]	B Ế N
+BẾP	[BẾP]	B Ế P
+BẾT	[BẾT]	B Ế T
+BỀ	[BỀ]	B Ề
+BỀN	[BỀN]	B Ề N
+BỀNH	[BỀNH]	B Ề NH
+BỀU	[BỀU]	B ỀU
+BỂ	[BỂ]	B Ể
+BỆ	[BỆ]	B Ệ
+BỆCH	[BỆCH]	B Ệ CH
+BỆN	[BỆN]	B Ệ N
+BỆNH	[BỆNH]	B Ệ NH
+BỆT	[BỆT]	B Ệ T
+BỆU	[BỆU]	B ỆU
+BỈ	[BỈ]	B Ỉ
+BỈNH	[BỈNH]	B Ỉ NH
+BỈU	[BỈU]	B ỈU
+BỊ	[BỊ]	B Ị
+BỊA	[BỊA]	B ỊA
+BỊCH	[BỊCH]	B Ị CH
+BỊN	[BỊN]	B Ị N
+BỊT	[BỊT]	B Ị T
+BỊU	[BỊU]	B ỊU
+BỌ	[BỌ]	B Ọ
+BỌC	[BỌC]	B Ọ C
+BỌN	[BỌN]	B Ọ N
+BỌNG	[BỌNG]	B Ọ NG
+BỌP	[BỌP]	B Ọ P
+BỌT	[BỌT]	B Ọ T
+BỎ	[BỎ]	B Ỏ
+BỐ	[BỐ]	B Ố
+BỐC	[BỐC]	B Ố C
+BỐI	[BỐI]	B ỐI
+BỐN	[BỐN]	B Ố N
+BỐNG	[BỐNG]	B Ố NG
+BỒ	[BỒ]	B Ồ
+BỒI	[BỒI]	B ỒI
+BỒN	[BỒN]	B Ồ N
+BỒNG	[BỒNG]	B Ồ NG
+BỔ	[BỔ]	B Ổ
+BỔN	[BỔN]	B Ổ N
+BỔNG	[BỔNG]	B Ổ NG
+BỖ	[BỖ]	B Ỗ
+BỖNG	[BỖNG]	B Ỗ NG
+BỘ	[BỘ]	B Ộ
+BỘC	[BỘC]	B Ộ C
+BỘI	[BỘI]	B ỘI
+BỘNG	[BỘNG]	B Ộ NG
+BỘT	[BỘT]	B Ộ T
+BỚI	[BỚI]	B ỚI
+BỚT	[BỚT]	B Ớ T
+BỜ	[BỜ]	B Ờ
+BỜI	[BỜI]	B ỜI
+BỜM	[BỜM]	B Ờ M
+BỞ	[BỞ]	B Ở
+BỞI	[BỞI]	B ỞI
+BỠ	[BỠ]	B Ỡ
+BỢ	[BỢ]	B Ợ
+BỢM	[BỢM]	B Ợ M
+BỢN	[BỢN]	B Ợ N
+BỤA	[BỤA]	B ỤA
+BỤC	[BỤC]	B Ụ C
+BỤI	[BỤI]	B ỤI
+BỤNG	[BỤNG]	B Ụ NG
+BỤT	[BỤT]	B Ụ T
+BỦA	[BỦA]	B ỦA
+BỦM	[BỦM]	B Ủ M
+BỨC	[BỨC]	B Ứ C
+BỨT	[BỨT]	B Ứ T
+BỪA	[BỪA]	B ỪA
+BỪNG	[BỪNG]	B Ừ NG
+BỬU	[BỬU]	B ỬU
+BỮA	[BỮA]	B ỮA
+BỰ	[BỰ]	B Ự
+BỰC	[BỰC]	B Ự C
+C	[C]	C 
+CA	[CA]	C A
+CAI	[CAI]	C AI
+CAM	[CAM]	C A M
+CAN	[CAN]	C A N
+CANH	[CANH]	C A NH
+CAO	[CAO]	C AO
+CAY	[CAY]	C AY
+CHA	[CHA]	CH A
+CHAI	[CHAI]	CH AI
+CHAN	[CHAN]	CH A N
+CHANG	[CHANG]	CH A NG
+CHANH	[CHANH]	CH A NH
+CHAO	[CHAO]	CH AO
+CHAY	[CHAY]	CH AY
+CHE	[CHE]	CH E
+CHEM	[CHEM]	CH E M
+CHEN	[CHEN]	CH E N
+CHENG	[CHENG]	CH E NG
+CHEO	[CHEO]	CH EO
+CHI	[CHI]	CH I
+CHIA	[CHIA]	CH IA
+CHIM	[CHIM]	CH I M
+CHINH	[CHINH]	CH I NH
+CHIÊM	[CHIÊM]	CH IÊ M
+CHIÊN	[CHIÊN]	CH IÊ N
+CHIÊNG	[CHIÊNG]	CH IÊ NG
+CHIÊU	[CHIÊU]	CH IÊU
+CHIẾC	[CHIẾC]	CH IẾ C
+CHIẾM	[CHIẾM]	CH IẾ M
+CHIẾN	[CHIẾN]	CH IẾ N
+CHIẾNG	[CHIẾNG]	CH IẾ NG
+CHIẾT	[CHIẾT]	CH IẾ T
+CHIẾU	[CHIẾU]	CH IẾU
+CHIỀN	[CHIỀN]	CH IỀ N
+CHIỀU	[CHIỀU]	CH IỀU
+CHIỂU	[CHIỂU]	CH IỂU
+CHO	[CHO]	CH O
+CHOANG	[CHOANG]	CH OA NG
+CHONG	[CHONG]	CH O NG
+CHOÀNG	[CHOÀNG]	CH OÀ NG
+CHOÁNG	[CHOÁNG]	CH OÁ NG
+CHOÈN	[CHOÈN]	CH OÈ N
+CHOẠC	[CHOẠC]	CH OẠ C
+CHOẠNG	[CHOẠNG]	CH OẠ NG
+CHOẢNG	[CHOẢNG]	CH OẢ NG
+CHOẮT	[CHOẮT]	CH OẮ T
+CHU	[CHU]	CH U
+CHUA	[CHUA]	CH UA
+CHUI	[CHUI]	CH UI
+CHUM	[CHUM]	CH U M
+CHUNG	[CHUNG]	CH U NG
+CHUYÊN	[CHUYÊN]	CH UYÊ N
+CHUYẾN	[CHUYẾN]	CH UYẾ N
+CHUYỀN	[CHUYỀN]	CH UYỀ N
+CHUYỂN	[CHUYỂN]	CH UYỂ N
+CHUYỆN	[CHUYỆN]	CH UYỆ N
+CHUÔI	[CHUÔI]	CH UÔI
+CHUÔNG	[CHUÔNG]	CH UÔ NG
+CHUẨN	[CHUẨN]	CH UẨ N
+CHUỐC	[CHUỐC]	CH UỐ C
+CHUỐI	[CHUỐI]	CH UỐI
+CHUỐT	[CHUỐT]	CH UỐ T
+CHUỒI	[CHUỒI]	CH UỒI
+CHUỒN	[CHUỒN]	CH UỒ N
+CHUỒNG	[CHUỒNG]	CH UỒ NG
+CHUỖI	[CHUỖI]	CH UỖI
+CHUỘC	[CHUỘC]	CH UỘ C
+CHUỘNG	[CHUỘNG]	CH UỘ NG
+CHUỘT	[CHUỘT]	CH UỘ T
+CHÀ	[CHÀ]	CH À
+CHÀI	[CHÀI]	CH ÀI
+CHÀM	[CHÀM]	CH À M
+CHÀNG	[CHÀNG]	CH À NG
+CHÀNH	[CHÀNH]	CH À NH
+CHÀO	[CHÀO]	CH ÀO
+CHÀY	[CHÀY]	CH ÀY
+CHÁC	[CHÁC]	CH Á C
+CHÁI	[CHÁI]	CH ÁI
+CHÁN	[CHÁN]	CH Á N
+CHÁNH	[CHÁNH]	CH Á NH
+CHÁO	[CHÁO]	CH ÁO
+CHÁT	[CHÁT]	CH Á T
+CHÁU	[CHÁU]	CH ÁU
+CHÁY	[CHÁY]	CH ÁY
+CHÂM	[CHÂM]	CH Â M
+CHÂN	[CHÂN]	CH Â N
+CHÂU	[CHÂU]	CH ÂU
+CHÃ	[CHÃ]	CH Ã
+CHÃO	[CHÃO]	CH ÃO
+CHÈ	[CHÈ]	CH È
+CHÈN	[CHÈN]	CH È N
+CHÈO	[CHÈO]	CH ÈO
+CHÉ	[CHÉ]	CH É
+CHÉM	[CHÉM]	CH É M
+CHÉN	[CHÉN]	CH É N
+CHÉO	[CHÉO]	CH ÉO
+CHÉP	[CHÉP]	CH É P
+CHÉT	[CHÉT]	CH É T
+CHÊ	[CHÊ]	CH Ê
+CHÊM	[CHÊM]	CH Ê M
+CHÊNH	[CHÊNH]	CH Ê NH
+CHÌ	[CHÌ]	CH Ì
+CHÌM	[CHÌM]	CH Ì M
+CHÌU	[CHÌU]	CH ÌU
+CHÍ	[CHÍ]	CH Í
+CHÍCH	[CHÍCH]	CH Í CH
+CHÍN	[CHÍN]	CH Í N
+CHÍNH	[CHÍNH]	CH Í NH
+CHÍT	[CHÍT]	CH Í T
+CHÒ	[CHÒ]	CH Ò
+CHÒNG	[CHÒNG]	CH Ò NG
+CHÓ	[CHÓ]	CH Ó
+CHÓE	[CHÓE]	CH ÓE
+CHÓI	[CHÓI]	CH ÓI
+CHÓNG	[CHÓNG]	CH Ó NG
+CHÓT	[CHÓT]	CH Ó T
+CHÔN	[CHÔN]	CH Ô N
+CHÔNG	[CHÔNG]	CH Ô NG
+CHÙ	[CHÙ]	CH Ù
+CHÙA	[CHÙA]	CH ÙA
+CHÙI	[CHÙI]	CH ÙI
+CHÙM	[CHÙM]	CH Ù M
+CHÚ	[CHÚ]	CH Ú
+CHÚA	[CHÚA]	CH ÚA
+CHÚC	[CHÚC]	CH Ú C
+CHÚI	[CHÚI]	CH ÚI
+CHÚNG	[CHÚNG]	CH Ú NG
+CHÚT	[CHÚT]	CH Ú T
+CHĂM	[CHĂM]	CH Ă M
+CHĂN	[CHĂN]	CH Ă N
+CHĂNG	[CHĂNG]	CH Ă NG
+CHĨN	[CHĨN]	CH Ĩ N
+CHŨI	[CHŨI]	CH ŨI
+CHŨN	[CHŨN]	CH Ũ N
+CHƠ	[CHƠ]	CH Ơ
+CHƠI	[CHƠI]	CH ƠI
+CHƯ	[CHƯ]	CH Ư
+CHƯA	[CHƯA]	CH ƯA
+CHƯNG	[CHƯNG]	CH Ư NG
+CHƯƠNG	[CHƯƠNG]	CH ƯƠ NG
+CHƯỚC	[CHƯỚC]	CH ƯỚ C
+CHƯỚNG	[CHƯỚNG]	CH ƯỚ NG
+CHƯỜM	[CHƯỜM]	CH ƯỜ M
+CHƯỢC	[CHƯỢC]	CH ƯỢ C
+CHẠCH	[CHẠCH]	CH Ạ CH
+CHẠM	[CHẠM]	CH Ạ M
+CHẠN	[CHẠN]	CH Ạ N
+CHẠNH	[CHẠNH]	CH Ạ NH
+CHẠP	[CHẠP]	CH Ạ P
+CHẠY	[CHẠY]	CH ẠY
+CHẢ	[CHẢ]	CH Ả
+CHẢI	[CHẢI]	CH ẢI
+CHẢO	[CHẢO]	CH ẢO
+CHẢY	[CHẢY]	CH ẢY
+CHẤM	[CHẤM]	CH Ấ M
+CHẤN	[CHẤN]	CH Ấ N
+CHẤP	[CHẤP]	CH Ấ P
+CHẤT	[CHẤT]	CH Ấ T
+CHẤU	[CHẤU]	CH ẤU
+CHẦM	[CHẦM]	CH Ầ M
+CHẦU	[CHẦU]	CH ẦU
+CHẨM	[CHẨM]	CH Ẩ M
+CHẨN	[CHẨN]	CH Ẩ N
+CHẬM	[CHẬM]	CH Ậ M
+CHẬP	[CHẬP]	CH Ậ P
+CHẬT	[CHẬT]	CH Ậ T
+CHẬU	[CHẬU]	CH ẬU
+CHẮC	[CHẮC]	CH Ắ C
+CHẮM	[CHẮM]	CH Ắ M
+CHẮN	[CHẮN]	CH Ắ N
+CHẮP	[CHẮP]	CH Ắ P
+CHẮT	[CHẮT]	CH Ắ T
+CHẰM	[CHẰM]	CH Ằ M
+CHẰN	[CHẰN]	CH Ằ N
+CHẰNG	[CHẰNG]	CH Ằ NG
+CHẲNG	[CHẲNG]	CH Ẳ NG
+CHẴN	[CHẴN]	CH Ẵ N
+CHẶN	[CHẶN]	CH Ặ N
+CHẶNG	[CHẶNG]	CH Ặ NG
+CHẶT	[CHẶT]	CH Ặ T
+CHẸN	[CHẸN]	CH Ẹ N
+CHẸO	[CHẸO]	CH ẸO
+CHẸP	[CHẸP]	CH Ẹ P
+CHẺ	[CHẺ]	CH Ẻ
+CHẼ	[CHẼ]	CH Ẽ
+CHẼN	[CHẼN]	CH Ẽ N
+CHẾ	[CHẾ]	CH Ế
+CHẾT	[CHẾT]	CH Ế T
+CHỀ	[CHỀ]	CH Ề
+CHỀNH	[CHỀNH]	CH Ề NH
+CHỂNH	[CHỂNH]	CH Ể NH
+CHỆCH	[CHỆCH]	CH Ệ CH
+CHỈ	[CHỈ]	CH Ỉ
+CHỈNH	[CHỈNH]	CH Ỉ NH
+CHỊ	[CHỊ]	CH Ị
+CHỊT	[CHỊT]	CH Ị T
+CHỊU	[CHỊU]	CH ỊU
+CHỌC	[CHỌC]	CH Ọ C
+CHỌI	[CHỌI]	CH ỌI
+CHỌN	[CHỌN]	CH Ọ N
+CHỌT	[CHỌT]	CH Ọ T
+CHỎ	[CHỎ]	CH Ỏ
+CHỎM	[CHỎM]	CH Ỏ M
+CHỎN	[CHỎN]	CH Ỏ N
+CHỐC	[CHỐC]	CH Ố C
+CHỐI	[CHỐI]	CH ỐI
+CHỐN	[CHỐN]	CH Ố N
+CHỐNG	[CHỐNG]	CH Ố NG
+CHỐT	[CHỐT]	CH Ố T
+CHỒI	[CHỒI]	CH ỒI
+CHỒM	[CHỒM]	CH Ồ M
+CHỒN	[CHỒN]	CH Ồ N
+CHỒNG	[CHỒNG]	CH Ồ NG
+CHỔI	[CHỔI]	CH ỔI
+CHỖ	[CHỖ]	CH Ỗ
+CHỘP	[CHỘP]	CH Ộ P
+CHỚ	[CHỚ]	CH Ớ
+CHỚI	[CHỚI]	CH ỚI
+CHỜ	[CHỜ]	CH Ờ
+CHỜN	[CHỜN]	CH Ờ N
+CHỞ	[CHỞ]	CH Ở
+CHỢ	[CHỢ]	CH Ợ
+CHỢP	[CHỢP]	CH Ợ P
+CHỢT	[CHỢT]	CH Ợ T
+CHỤC	[CHỤC]	CH Ụ C
+CHỤM	[CHỤM]	CH Ụ M
+CHỤP	[CHỤP]	CH Ụ P
+CHỦ	[CHỦ]	CH Ủ
+CHỦNG	[CHỦNG]	CH Ủ NG
+CHỨ	[CHỨ]	CH Ứ
+CHỨA	[CHỨA]	CH ỨA
+CHỨC	[CHỨC]	CH Ứ C
+CHỨNG	[CHỨNG]	CH Ứ NG
+CHỪ	[CHỪ]	CH Ừ
+CHỪNG	[CHỪNG]	CH Ừ NG
+CHỬA	[CHỬA]	CH ỬA
+CHỬI	[CHỬI]	CH ỬI
+CHỬNG	[CHỬNG]	CH Ử NG
+CHỮ	[CHỮ]	CH Ữ
+CHỮA	[CHỮA]	CH ỮA
+CHỮNG	[CHỮNG]	CH Ữ NG
+CHỰC	[CHỰC]	CH Ự C
+CO	[CO]	C O
+COI	[COI]	C OI
+CON	[CON]	C O N
+CONG	[CONG]	C O NG
+CU	[CU]	C U
+CUA	[CUA]	C UA
+CUN	[CUN]	C U N
+CUNG	[CUNG]	C U NG
+CUÔNG	[CUÔNG]	C UÔ NG
+CUỐC	[CUỐC]	C UỐ C
+CUỐI	[CUỐI]	C UỐI
+CUỐN	[CUỐN]	C UỐ N
+CUỐNG	[CUỐNG]	C UỐ NG
+CUỒN	[CUỒN]	C UỒ N
+CUỒNG	[CUỒNG]	C UỒ NG
+CUỖM	[CUỖM]	C UỖ M
+CUỘC	[CUỘC]	C UỘ C
+CUỘI	[CUỘI]	C UỘI
+CUỘN	[CUỘN]	C UỘ N
+CÀ	[CÀ]	C À
+CÀI	[CÀI]	C ÀI
+CÀNG	[CÀNG]	C À NG
+CÀNH	[CÀNH]	C À NH
+CÀO	[CÀO]	C ÀO
+CÀU	[CÀU]	C ÀU
+CÀY	[CÀY]	C ÀY
+CÁ	[CÁ]	C Á
+CÁC	[CÁC]	C Á C
+CÁCH	[CÁCH]	C Á CH
+CÁI	[CÁI]	C ÁI
+CÁM	[CÁM]	C Á M
+CÁN	[CÁN]	C Á N
+CÁNG	[CÁNG]	C Á NG
+CÁNH	[CÁNH]	C Á NH
+CÁO	[CÁO]	C ÁO
+CÁP	[CÁP]	C Á P
+CÁT	[CÁT]	C Á T
+CÁU	[CÁU]	C ÁU
+CÁY	[CÁY]	C ÁY
+CÂM	[CÂM]	C Â M
+CÂN	[CÂN]	C Â N
+CÂU	[CÂU]	C ÂU
+CÂY	[CÂY]	C ÂY
+CÃI	[CÃI]	C ÃI
+CÒ	[CÒ]	C Ò
+CÒI	[CÒI]	C ÒI
+CÒM	[CÒM]	C Ò M
+CÒN	[CÒN]	C Ò N
+CÒNG	[CÒNG]	C Ò NG
+CÓ	[CÓ]	C Ó
+CÓC	[CÓC]	C Ó C
+CÓNG	[CÓNG]	C Ó NG
+CÓP	[CÓP]	C Ó P
+CÓT	[CÓT]	C Ó T
+CÔ	[CÔ]	C Ô
+CÔI	[CÔI]	C ÔI
+CÔM	[CÔM]	C Ô M
+CÔN	[CÔN]	C Ô N
+CÔNG	[CÔNG]	C Ô NG
+CÕI	[CÕI]	C ÕI
+CÕNG	[CÕNG]	C Õ NG
+CÙ	[CÙ]	C Ù
+CÙI	[CÙI]	C ÙI
+CÙN	[CÙN]	C Ù N
+CÙNG	[CÙNG]	C Ù NG
+CÚ	[CÚ]	C Ú
+CÚC	[CÚC]	C Ú C
+CÚI	[CÚI]	C ÚI
+CÚM	[CÚM]	C Ú M
+CÚNG	[CÚNG]	C Ú NG
+CÚP	[CÚP]	C Ú P
+CÚT	[CÚT]	C Ú T
+CĂM	[CĂM]	C Ă M
+CĂN	[CĂN]	C Ă N
+CĂNG	[CĂNG]	C Ă NG
+CŨ	[CŨ]	C Ũ
+CŨI	[CŨI]	C ŨI
+CŨN	[CŨN]	C Ũ N
+CŨNG	[CŨNG]	C Ũ NG
+CƠ	[CƠ]	C Ơ
+CƠI	[CƠI]	C ƠI
+CƠM	[CƠM]	C Ơ M
+CƠN	[CƠN]	C Ơ N
+CƯ	[CƯ]	C Ư
+CƯA	[CƯA]	C ƯA
+CƯNG	[CƯNG]	C Ư NG
+CƯU	[CƯU]	C ƯU
+CƯƠNG	[CƯƠNG]	C ƯƠ NG
+CƯỚC	[CƯỚC]	C ƯỚ C
+CƯỚI	[CƯỚI]	C ƯỚI
+CƯỚP	[CƯỚP]	C ƯỚ P
+CƯỜI	[CƯỜI]	C ƯỜI
+CƯỜM	[CƯỜM]	C ƯỜ M
+CƯỜNG	[CƯỜNG]	C ƯỜ NG
+CƯỠI	[CƯỠI]	C ƯỠI
+CƯỠNG	[CƯỠNG]	C ƯỠ NG
+CẠC	[CẠC]	C Ạ C
+CẠCH	[CẠCH]	C Ạ CH
+CẠM	[CẠM]	C Ạ M
+CẠN	[CẠN]	C Ạ N
+CẠNH	[CẠNH]	C Ạ NH
+CẠO	[CẠO]	C ẠO
+CẠP	[CẠP]	C Ạ P
+CẠU	[CẠU]	C ẠU
+CẠY	[CẠY]	C ẠY
+CẢ	[CẢ]	C Ả
+CẢI	[CẢI]	C ẢI
+CẢM	[CẢM]	C Ả M
+CẢN	[CẢN]	C Ả N
+CẢNG	[CẢNG]	C Ả NG
+CẢNH	[CẢNH]	C Ả NH
+CẢO	[CẢO]	C ẢO
+CẤM	[CẤM]	C Ấ M
+CẤP	[CẤP]	C Ấ P
+CẤT	[CẤT]	C Ấ T
+CẤU	[CẤU]	C ẤU
+CẤY	[CẤY]	C ẤY
+CẦM	[CẦM]	C Ầ M
+CẦN	[CẦN]	C Ầ N
+CẦU	[CẦU]	C ẦU
+CẦY	[CẦY]	C ẦY
+CẨM	[CẨM]	C Ẩ M
+CẨN	[CẨN]	C Ẩ N
+CẨU	[CẨU]	C ẨU
+CẪNG	[CẪNG]	C Ẫ NG
+CẬN	[CẬN]	C Ậ N
+CẬP	[CẬP]	C Ậ P
+CẬT	[CẬT]	C Ậ T
+CẬU	[CẬU]	C ẬU
+CẬY	[CẬY]	C ẬY
+CẮC	[CẮC]	C Ắ C
+CẮM	[CẮM]	C Ắ M
+CẮN	[CẮN]	C Ắ N
+CẮP	[CẮP]	C Ắ P
+CẮT	[CẮT]	C Ắ T
+CẰM	[CẰM]	C Ằ M
+CẰN	[CẰN]	C Ằ N
+CẲNG	[CẲNG]	C Ẳ NG
+CẶM	[CẶM]	C Ặ M
+CẶN	[CẶN]	C Ặ N
+CẶP	[CẶP]	C Ặ P
+CỌ	[CỌ]	C Ọ
+CỌC	[CỌC]	C Ọ C
+CỌN	[CỌN]	C Ọ N
+CỌNG	[CỌNG]	C Ọ NG
+CỌP	[CỌP]	C Ọ P
+CỌT	[CỌT]	C Ọ T
+CỎ	[CỎ]	C Ỏ
+CỎI	[CỎI]	C ỎI
+CỎM	[CỎM]	C Ỏ M
+CỐ	[CỐ]	C Ố
+CỐC	[CỐC]	C Ố C
+CỐI	[CỐI]	C ỐI
+CỐM	[CỐM]	C Ố M
+CỐNG	[CỐNG]	C Ố NG
+CỐT	[CỐT]	C Ố T
+CỒ	[CỒ]	C Ồ
+CỒM	[CỒM]	C Ồ M
+CỒN	[CỒN]	C Ồ N
+CỒNG	[CỒNG]	C Ồ NG
+CỔ	[CỔ]	C Ổ
+CỔNG	[CỔNG]	C Ổ NG
+CỖ	[CỖ]	C Ỗ
+CỖI	[CỖI]	C ỖI
+CỘ	[CỘ]	C Ộ
+CỘI	[CỘI]	C ỘI
+CỘNG	[CỘNG]	C Ộ NG
+CỘP	[CỘP]	C Ộ P
+CỘT	[CỘT]	C Ộ T
+CỚ	[CỚ]	C Ớ
+CỜ	[CỜ]	C Ờ
+CỜI	[CỜI]	C ỜI
+CỞI	[CỞI]	C ỞI
+CỠ	[CỠ]	C Ỡ
+CỢT	[CỢT]	C Ợ T
+CỤ	[CỤ]	C Ụ
+CỤC	[CỤC]	C Ụ C
+CỤI	[CỤI]	C ỤI
+CỤM	[CỤM]	C Ụ M
+CỤP	[CỤP]	C Ụ P
+CỤT	[CỤT]	C Ụ T
+CỦ	[CỦ]	C Ủ
+CỦA	[CỦA]	C ỦA
+CỦI	[CỦI]	C ỦI
+CỦNG	[CỦNG]	C Ủ NG
+CỨ	[CỨ]	C Ứ
+CỨA	[CỨA]	C ỨA
+CỨNG	[CỨNG]	C Ứ NG
+CỨU	[CỨU]	C ỨU
+CỪ	[CỪ]	C Ừ
+CỪU	[CỪU]	C ỪU
+CỬ	[CỬ]	C Ử
+CỬA	[CỬA]	C ỬA
+CỬI	[CỬI]	C ỬI
+CỬU	[CỬU]	C ỬU
+CỮ	[CỮ]	C Ữ
+CỰ	[CỰ]	C Ự
+CỰA	[CỰA]	C ỰA
+CỰC	[CỰC]	C Ự C
+CỰU	[CỰU]	C ỰU
+D	[D]	D 
+DA	[DA]	D A
+DAI	[DAI]	D AI
+DANG	[DANG]	D A NG
+DANH	[DANH]	D A NH
+DAO	[DAO]	D AO
+DI	[DI]	D I
+DIM	[DIM]	D I M
+DINH	[DINH]	D I NH
+DIÊM	[DIÊM]	D IÊ M
+DIÊN	[DIÊN]	D IÊ N
+DIÊU	[DIÊU]	D IÊU
+DIẾC	[DIẾC]	D IẾ C
+DIẾT	[DIẾT]	D IẾ T
+DIẾU	[DIẾU]	D IẾU
+DIỀU	[DIỀU]	D IỀU
+DIỄM	[DIỄM]	D IỄ M
+DIỄN	[DIỄN]	D IỄ N
+DIỆC	[DIỆC]	D IỆ C
+DIỆM	[DIỆM]	D IỆ M
+DIỆN	[DIỆN]	D IỆ N
+DIỆP	[DIỆP]	D IỆ P
+DIỆT	[DIỆT]	D IỆ T
+DIỆU	[DIỆU]	D IỆU
+DO	[DO]	D O
+DOANH	[DOANH]	D OA NH
+DOI	[DOI]	D OI
+DONG	[DONG]	D O NG
+DOÃN	[DOÃN]	D OÃ N
+DU	[DU]	D U
+DUA	[DUA]	D UA
+DUNG	[DUNG]	D U NG
+DUY	[DUY]	D UY
+DUYÊN	[DUYÊN]	D UYÊ N
+DUYỆT	[DUYỆT]	D UYỆ T
+DUỖI	[DUỖI]	D UỖI
+DÀ	[DÀ]	D À
+DÀI	[DÀI]	D ÀI
+DÀN	[DÀN]	D À N
+DÀNG	[DÀNG]	D À NG
+DÀNH	[DÀNH]	D À NH
+DÀO	[DÀO]	D ÀO
+DÀY	[DÀY]	D ÀY
+DÁC	[DÁC]	D Á C
+DÁM	[DÁM]	D Á M
+DÁN	[DÁN]	D Á N
+DÁNG	[DÁNG]	D Á NG
+DÁO	[DÁO]	D ÁO
+DÂM	[DÂM]	D Â M
+DÂN	[DÂN]	D Â N
+DÂNG	[DÂNG]	D Â NG
+DÂU	[DÂU]	D ÂU
+DÂY	[DÂY]	D ÂY
+DÃ	[DÃ]	D Ã
+DÃNG	[DÃNG]	D Ã NG
+DÃY	[DÃY]	D ÃY
+DÈ	[DÈ]	D È
+DÉP	[DÉP]	D É P
+DÊ	[DÊ]	D Ê
+DÌ	[DÌ]	D Ì
+DÌU	[DÌU]	D ÌU
+DÍ	[DÍ]	D Í
+DÍNH	[DÍNH]	D Í NH
+DÒ	[DÒ]	D Ò
+DÒI	[DÒI]	D ÒI
+DÒM	[DÒM]	D Ò M
+DÒNG	[DÒNG]	D Ò NG
+DÓ	[DÓ]	D Ó
+DÓC	[DÓC]	D Ó C
+DÓM	[DÓM]	D Ó M
+DÔI	[DÔI]	D ÔI
+DÔNG	[DÔNG]	D Ô NG
+DÕI	[DÕI]	D ÕI
+DÕNG	[DÕNG]	D Õ NG
+DÙ	[DÙ]	D Ù
+DÙI	[DÙI]	D ÙI
+DÙNG	[DÙNG]	D Ù NG
+DÚM	[DÚM]	D Ú M
+DĂM	[DĂM]	D Ă M
+DĂN	[DĂN]	D Ă N
+DĨ	[DĨ]	D Ĩ
+DĨA	[DĨA]	D ĨA
+DŨNG	[DŨNG]	D Ũ NG
+DƠI	[DƠI]	D ƠI
+DƯ	[DƯ]	D Ư
+DƯA	[DƯA]	D ƯA
+DƯNG	[DƯNG]	D Ư NG
+DƯƠNG	[DƯƠNG]	D ƯƠ NG
+DƯỚI	[DƯỚI]	D ƯỚI
+DƯỜNG	[DƯỜNG]	D ƯỜ NG
+DƯỠNG	[DƯỠNG]	D ƯỠ NG
+DƯỢC	[DƯỢC]	D ƯỢ C
+DƯỢT	[DƯỢT]	D ƯỢ T
+DẠ	[DẠ]	D Ạ
+DẠC	[DẠC]	D Ạ C
+DẠI	[DẠI]	D ẠI
+DẠM	[DẠM]	D Ạ M
+DẠN	[DẠN]	D Ạ N
+DẠNG	[DẠNG]	D Ạ NG
+DẠO	[DẠO]	D ẠO
+DẠT	[DẠT]	D Ạ T
+DẠY	[DẠY]	D ẠY
+DẢ	[DẢ]	D Ả
+DẢI	[DẢI]	D ẢI
+DẤN	[DẤN]	D Ấ N
+DẤP	[DẤP]	D Ấ P
+DẤU	[DẤU]	D ẤU
+DẤY	[DẤY]	D ẤY
+DẦM	[DẦM]	D Ầ M
+DẦN	[DẦN]	D Ầ N
+DẦU	[DẦU]	D ẦU
+DẨN	[DẨN]	D Ẩ N
+DẪM	[DẪM]	D Ẫ M
+DẪN	[DẪN]	D Ẫ N
+DẪU	[DẪU]	D ẪU
+DẪY	[DẪY]	D ẪY
+DẬM	[DẬM]	D Ậ M
+DẬP	[DẬP]	D Ậ P
+DẬY	[DẬY]	D ẬY
+DẮT	[DẮT]	D Ắ T
+DẰN	[DẰN]	D Ằ N
+DẰNG	[DẰNG]	D Ằ NG
+DẲNG	[DẲNG]	D Ẳ NG
+DẶC	[DẶC]	D Ặ C
+DẶM	[DẶM]	D Ặ M
+DẶN	[DẶN]	D Ặ N
+DẸP	[DẸP]	D Ẹ P
+DẸT	[DẸT]	D Ẹ T
+DẺO	[DẺO]	D ẺO
+DẾ	[DẾ]	D Ế
+DỀ	[DỀ]	D Ề
+DỀNH	[DỀNH]	D Ề NH
+DỄ	[DỄ]	D Ễ
+DỆT	[DỆT]	D Ệ T
+DỊ	[DỊ]	D Ị
+DỊCH	[DỊCH]	D Ị CH
+DỊP	[DỊP]	D Ị P
+DỊU	[DỊU]	D ỊU
+DỌA	[DỌA]	D ỌA
+DỌC	[DỌC]	D Ọ C
+DỌN	[DỌN]	D Ọ N
+DỎNG	[DỎNG]	D Ỏ NG
+DỐC	[DỐC]	D Ố C
+DỐI	[DỐI]	D ỐI
+DỐT	[DỐT]	D Ố T
+DỒI	[DỒI]	D ỒI
+DỒN	[DỒN]	D Ồ N
+DỖ	[DỖ]	D Ỗ
+DỖI	[DỖI]	D ỖI
+DỘI	[DỘI]	D ỘI
+DỘT	[DỘT]	D Ộ T
+DỚ	[DỚ]	D Ớ
+DỜI	[DỜI]	D ỜI
+DỜN	[DỜN]	D Ờ N
+DỞ	[DỞ]	D Ở
+DỠ	[DỠ]	D Ỡ
+DỤ	[DỤ]	D Ụ
+DỤC	[DỤC]	D Ụ C
+DỤNG	[DỤNG]	D Ụ NG
+DỨA	[DỨA]	D ỨA
+DỨT	[DỨT]	D Ứ T
+DỪA	[DỪA]	D ỪA
+DỪNG	[DỪNG]	D Ừ NG
+DỬ	[DỬ]	D Ử
+DỬNG	[DỬNG]	D Ử NG
+DỮ	[DỮ]	D Ữ
+DỰ	[DỰ]	D Ự
+DỰA	[DỰA]	D ỰA
+DỰC	[DỰC]	D Ự C
+DỰNG	[DỰNG]	D Ự NG
+E	[E]	E
+EM	[EM]	E M
+EO	[EO]	EO
+GA	[GA]	G A
+GAI	[GAI]	G AI
+GAM	[GAM]	G A M
+GAN	[GAN]	G A N
+GANG	[GANG]	G A NG
+GANH	[GANH]	G A NH
+GAO	[GAO]	G AO
+GAY	[GAY]	G AY
+GEN	[GEN]	G E N
+GHE	[GHE]	GH E
+GHEN	[GHEN]	GH E N
+GHI	[GHI]	GH I
+GHIM	[GHIM]	GH I M
+GHIỀN	[GHIỀN]	GH IỀ N
+GHÈ	[GHÈ]	GH È
+GHÈN	[GHÈN]	GH È N
+GHÉ	[GHÉ]	GH É
+GHÉM	[GHÉM]	GH É M
+GHÉP	[GHÉP]	GH É P
+GHÉT	[GHÉT]	GH É T
+GHÊ	[GHÊ]	GH Ê
+GHÌ	[GHÌ]	GH Ì
+GHÌM	[GHÌM]	GH Ì M
+GHẸ	[GHẸ]	GH Ẹ
+GHẸO	[GHẸO]	GH ẸO
+GHẺ	[GHẺ]	GH Ẻ
+GHẼ	[GHẼ]	GH Ẽ
+GHẾ	[GHẾ]	GH Ế
+GHỀ	[GHỀ]	GH Ề
+GHỀNH	[GHỀNH]	GH Ề NH
+GHỂNH	[GHỂNH]	GH Ể NH
+GIA	[GIA]	GI A
+GIAI	[GIAI]	GI AI
+GIAM	[GIAM]	GI A M
+GIAN	[GIAN]	GI A N
+GIANG	[GIANG]	GI A NG
+GIANH	[GIANH]	GI A NH
+GIAO	[GIAO]	GI AO
+GIEO	[GIEO]	GI EO
+GION	[GION]	GI O N
+GIUA	[GIUA]	GI UA
+GIUN	[GIUN]	GI U N
+GIÀ	[GIÀ]	GI À
+GIÀN	[GIÀN]	GI À N
+GIÀNH	[GIÀNH]	GI À NH
+GIÀU	[GIÀU]	GI ÀU
+GIÀY	[GIÀY]	GI ÀY
+GIÁ	[GIÁ]	GI Á
+GIÁC	[GIÁC]	GI Á C
+GIÁM	[GIÁM]	GI Á M
+GIÁN	[GIÁN]	GI Á N
+GIÁNG	[GIÁNG]	GI Á NG
+GIÁO	[GIÁO]	GI ÁO
+GIÁP	[GIÁP]	GI Á P
+GIÂY	[GIÂY]	GI ÂY
+GIÃ	[GIÃ]	GI Ã
+GIÃN	[GIÃN]	GI Ã N
+GIÃY	[GIÃY]	GI ÃY
+GIÈM	[GIÈM]	GI È M
+GIÉ	[GIÉ]	GI É
+GIÊNG	[GIÊNG]	GI Ê NG
+GIÒ	[GIÒ]	GI Ò
+GIÒN	[GIÒN]	GI Ò N
+GIÓ	[GIÓ]	GI Ó
+GIÓN	[GIÓN]	GI Ó N
+GIÓNG	[GIÓNG]	GI Ó NG
+GIÔNG	[GIÔNG]	GI Ô NG
+GIÙM	[GIÙM]	GI Ù M
+GIÚ	[GIÚ]	GI Ú
+GIÚP	[GIÚP]	GI Ú P
+GIĂM	[GIĂM]	GI Ă M
+GIĂNG	[GIĂNG]	GI Ă NG
+GIŨ	[GIŨ]	GI Ũ
+GIŨA	[GIŨA]	GI ŨA
+GIƠ	[GIƠ]	GI Ơ
+GIƯƠNG	[GIƯƠNG]	GI ƯƠ NG
+GIƯỚNG	[GIƯỚNG]	GI ƯỚ NG
+GIƯỜNG	[GIƯỜNG]	GI ƯỜ NG
+GIẠT	[GIẠT]	GI Ạ T
+GIẢ	[GIẢ]	GI Ả
+GIẢI	[GIẢI]	GI ẢI
+GIẢM	[GIẢM]	GI Ả M
+GIẢN	[GIẢN]	GI Ả N
+GIẢNG	[GIẢNG]	GI Ả NG
+GIẢNH	[GIẢNH]	GI Ả NH
+GIẤC	[GIẤC]	GI Ấ C
+GIẤM	[GIẤM]	GI Ấ M
+GIẤP	[GIẤP]	GI Ấ P
+GIẤU	[GIẤU]	GI ẤU
+GIẤY	[GIẤY]	GI ẤY
+GIẦM	[GIẦM]	GI Ầ M
+GIẦN	[GIẦN]	GI Ầ N
+GIẦY	[GIẦY]	GI ẦY
+GIẪM	[GIẪM]	GI Ẫ M
+GIẬM	[GIẬM]	GI Ậ M
+GIẬN	[GIẬN]	GI Ậ N
+GIẬP	[GIẬP]	GI Ậ P
+GIẬT	[GIẬT]	GI Ậ T
+GIẮT	[GIẮT]	GI Ắ T
+GIẰM	[GIẰM]	GI Ằ M
+GIẰNG	[GIẰNG]	GI Ằ NG
+GIẶC	[GIẶC]	GI Ặ C
+GIẶM	[GIẶM]	GI Ặ M
+GIẶN	[GIẶN]	GI Ặ N
+GIẶT	[GIẶT]	GI Ặ T
+GIẸO	[GIẸO]	GI ẸO
+GIẾM	[GIẾM]	GI Ế M
+GIẾNG	[GIẾNG]	GI Ế NG
+GIẾT	[GIẾT]	GI Ế T
+GIỀNG	[GIỀNG]	GI Ề NG
+GIỄU	[GIỄU]	GI ỄU
+GIỌ	[GIỌ]	GI Ọ
+GIỌNG	[GIỌNG]	GI Ọ NG
+GIỌT	[GIỌT]	GI Ọ T
+GIỎ	[GIỎ]	GI Ỏ
+GIỎI	[GIỎI]	GI ỎI
+GIỎN	[GIỎN]	GI Ỏ N
+GIỐNG	[GIỐNG]	GI Ố NG
+GIỒNG	[GIỒNG]	GI Ồ NG
+GIỖ	[GIỖ]	GI Ỗ
+GIỚI	[GIỚI]	GI ỚI
+GIỜ	[GIỜ]	GI Ờ
+GIỜI	[GIỜI]	GI ỜI
+GIỞ	[GIỞ]	GI Ở
+GIỠN	[GIỠN]	GI Ỡ N
+GIỤA	[GIỤA]	GI ỤA
+GIỤC	[GIỤC]	GI Ụ C
+GIỦI	[GIỦI]	GI ỦI
+GIỮ	[GIỮ]	GI Ữ
+GIỮA	[GIỮA]	GI ỮA
+GIỰT	[GIỰT]	GI Ự T
+GO	[GO]	G O
+GOM	[GOM]	G O M
+GU	[GU]	G U
+GUỐC	[GUỐC]	G UỐ C
+GUỘC	[GUỘC]	G UỘ C
+GÀ	[GÀ]	G À
+GÀI	[GÀI]	G ÀI
+GÀN	[GÀN]	G À N
+GÀNG	[GÀNG]	G À NG
+GÀNH	[GÀNH]	G À NH
+GÀO	[GÀO]	G ÀO
+GÀU	[GÀU]	G ÀU
+GÁC	[GÁC]	G Á C
+GÁI	[GÁI]	G ÁI
+GÁN	[GÁN]	G Á N
+GÁNH	[GÁNH]	G Á NH
+GÁO	[GÁO]	G ÁO
+GÁP	[GÁP]	G Á P
+GÁY	[GÁY]	G ÁY
+GÂN	[GÂN]	G Â N
+GÂY	[GÂY]	G ÂY
+GÃ	[GÃ]	G Ã
+GÃI	[GÃI]	G ÃI
+GÃY	[GÃY]	G ÃY
+GÌ	[GÌ]	G Ì
+GÌN	[GÌN]	G Ì N
+GÍ	[GÍ]	G Í
+GÒ	[GÒ]	G Ò
+GÒN	[GÒN]	G Ò N
+GÓA	[GÓA]	G ÓA
+GÓC	[GÓC]	G Ó C
+GÓI	[GÓI]	G ÓI
+GÓP	[GÓP]	G Ó P
+GÓT	[GÓT]	G Ó T
+GÔ	[GÔ]	G Ô
+GÔN	[GÔN]	G Ô N
+GÔNG	[GÔNG]	G Ô NG
+GÕ	[GÕ]	G Õ
+GÙ	[GÙ]	G Ù
+GÚ	[GÚ]	G Ú
+GÚT	[GÚT]	G Ú T
+GĂM	[GĂM]	G Ă M
+GŨI	[GŨI]	G ŨI
+GƯƠM	[GƯƠM]	G ƯƠ M
+GƯƠNG	[GƯƠNG]	G ƯƠ NG
+GƯỜM	[GƯỜM]	G ƯỜ M
+GƯỜNG	[GƯỜNG]	G ƯỜ NG
+GƯỢNG	[GƯỢNG]	G ƯỢ NG
+GẠ	[GẠ]	G Ạ
+GẠCH	[GẠCH]	G Ạ CH
+GẠN	[GẠN]	G Ạ N
+GẠO	[GẠO]	G ẠO
+GẠT	[GẠT]	G Ạ T
+GẢ	[GẢ]	G Ả
+GẢY	[GẢY]	G ẢY
+GẤP	[GẤP]	G Ấ P
+GẤU	[GẤU]	G ẤU
+GẤY	[GẤY]	G ẤY
+GẦM	[GẦM]	G Ầ M
+GẦN	[GẦN]	G Ầ N
+GẦU	[GẦU]	G ẦU
+GẦY	[GẦY]	G ẦY
+GẪM	[GẪM]	G Ẫ M
+GẪU	[GẪU]	G ẪU
+GẬP	[GẬP]	G Ậ P
+GẬT	[GẬT]	G Ậ T
+GẬY	[GẬY]	G ẬY
+GẮM	[GẮM]	G Ắ M
+GẮN	[GẮN]	G Ắ N
+GẮNG	[GẮNG]	G Ắ NG
+GẮP	[GẮP]	G Ắ P
+GẮT	[GẮT]	G Ắ T
+GẰN	[GẰN]	G Ằ N
+GẶM	[GẶM]	G Ặ M
+GẶNG	[GẶNG]	G Ặ NG
+GẶP	[GẶP]	G Ặ P
+GẶT	[GẶT]	G Ặ T
+GỈ	[GỈ]	G Ỉ
+GỌI	[GỌI]	G ỌI
+GỌN	[GỌN]	G Ọ N
+GỌT	[GỌT]	G Ọ T
+GỎI	[GỎI]	G ỎI
+GỎNG	[GỎNG]	G Ỏ NG
+GỐC	[GỐC]	G Ố C
+GỐI	[GỐI]	G ỐI
+GỐM	[GỐM]	G Ố M
+GỒ	[GỒ]	G Ồ
+GỒM	[GỒM]	G Ồ M
+GỒNG	[GỒNG]	G Ồ NG
+GỔ	[GỔ]	G Ổ
+GỖ	[GỖ]	G Ỗ
+GỘI	[GỘI]	G ỘI
+GỘP	[GỘP]	G Ộ P
+GỚM	[GỚM]	G Ớ M
+GỜM	[GỜM]	G Ờ M
+GỞI	[GỞI]	G ỞI
+GỠ	[GỠ]	G Ỡ
+GỢI	[GỢI]	G ỢI
+GỢN	[GỢN]	G Ợ N
+GỢT	[GỢT]	G Ợ T
+GỤC	[GỤC]	G Ụ C
+GỬI	[GỬI]	G ỬI
+H	[H]	H 
+HA	[HA]	H A
+HAI	[HAI]	H AI
+HAM	[HAM]	H A M
+HAN	[HAN]	H A N
+HANG	[HANG]	H A NG
+HAO	[HAO]	H AO
+HAY	[HAY]	H AY
+HE	[HE]	H E
+HEM	[HEM]	H E M
+HEN	[HEN]	H E N
+HEO	[HEO]	H EO
+HI	[HI]	H I
+HIA	[HIA]	H IA
+HIU	[HIU]	H IU
+HIÊN	[HIÊN]	H IÊ N
+HIÊNG	[HIÊNG]	H IÊ NG
+HIẾM	[HIẾM]	H IẾ M
+HIẾN	[HIẾN]	H IẾ N
+HIẾP	[HIẾP]	H IẾ P
+HIẾU	[HIẾU]	H IẾU
+HIỀN	[HIỀN]	H IỀ N
+HIỂM	[HIỂM]	H IỂ M
+HIỂN	[HIỂN]	H IỂ N
+HIỂU	[HIỂU]	H IỂU
+HIỆN	[HIỆN]	H IỆ N
+HIỆP	[HIỆP]	H IỆ P
+HIỆU	[HIỆU]	H IỆU
+HO	[HO]	H O
+HOA	[HOA]	H OA
+HOAN	[HOAN]	H OA N
+HOANG	[HOANG]	H OA NG
+HOAY	[HOAY]	H OAY
+HOI	[HOI]	H OI
+HOM	[HOM]	H O M
+HOÀ	[HOÀ]	H OÀ
+HOÀI	[HOÀI]	H OÀI
+HOÀN	[HOÀN]	H OÀ N
+HOÀNG	[HOÀNG]	H OÀ NG
+HOÀNH	[HOÀNH]	H OÀ NH
+HOÁ	[HOÁ]	H OÁ
+HOÁC	[HOÁC]	H OÁ C
+HOÃN	[HOÃN]	H OÃ N
+HOÉT	[HOÉT]	H OÉ T
+HOẠ	[HOẠ]	H OẠ
+HOẠCH	[HOẠCH]	H OẠ CH
+HOẠI	[HOẠI]	H OẠI
+HOẠN	[HOẠN]	H OẠ N
+HOẠT	[HOẠT]	H OẠ T
+HOẢNG	[HOẢNG]	H OẢ NG
+HOẮC	[HOẮC]	H OẮ C
+HOẮT	[HOẮT]	H OẮ T
+HOẲN	[HOẲN]	H OẲ N
+HOẶC	[HOẶC]	H OẶ C
+HU	[HU]	H U
+HUN	[HUN]	H U N
+HUNG	[HUNG]	H U NG
+HUY	[HUY]	H UY
+HUYNH	[HUYNH]	H UY NH
+HUYÊN	[HUYÊN]	H UYÊ N
+HUYẾT	[HUYẾT]	H UYẾ T
+HUYỀN	[HUYỀN]	H UYỀ N
+HUYỄN	[HUYỄN]	H UYỄ N
+HUYỆN	[HUYỆN]	H UYỆ N
+HUYỆT	[HUYỆT]	H UYỆ T
+HUÂN	[HUÂN]	H UÂ N
+HUÊ	[HUÊ]	H UÊ
+HUÝT	[HUÝT]	H UÝ T
+HUƠ	[HUƠ]	H UƠ
+HUẤN	[HUẤN]	H UẤ N
+HUẾ	[HUẾ]	H UẾ
+HUẾCH	[HUẾCH]	H UẾ CH
+HUỀ	[HUỀ]	H UỀ
+HUỆ	[HUỆ]	H UỆ
+HUỐNG	[HUỐNG]	H UỐ NG
+HUỲNH	[HUỲNH]	H UỲ NH
+HUỶ	[HUỶ]	H UỶ
+HY	[HY]	H Y
+HÀ	[HÀ]	H À
+HÀI	[HÀI]	H ÀI
+HÀM	[HÀM]	H À M
+HÀN	[HÀN]	H À N
+HÀNG	[HÀNG]	H À NG
+HÀNH	[HÀNH]	H À NH
+HÀO	[HÀO]	H ÀO
+HÀU	[HÀU]	H ÀU
+HÁ	[HÁ]	H Á
+HÁI	[HÁI]	H ÁI
+HÁM	[HÁM]	H Á M
+HÁN	[HÁN]	H Á N
+HÁNG	[HÁNG]	H Á NG
+HÁO	[HÁO]	H ÁO
+HÁT	[HÁT]	H Á T
+HÂM	[HÂM]	H Â M
+HÂN	[HÂN]	H Â N
+HÃI	[HÃI]	H ÃI
+HÃN	[HÃN]	H Ã N
+HÃNG	[HÃNG]	H Ã NG
+HÃNH	[HÃNH]	H Ã NH
+HÃO	[HÃO]	H ÃO
+HÃY	[HÃY]	H ÃY
+HÈ	[HÈ]	H È
+HÈN	[HÈN]	H È N
+HÉ	[HÉ]	H É
+HÉO	[HÉO]	H ÉO
+HÉT	[HÉT]	H É T
+HÊN	[HÊN]	H Ê N
+HÊNH	[HÊNH]	H Ê NH
+HÌ	[HÌ]	H Ì
+HÌNH	[HÌNH]	H Ì NH
+HÍ	[HÍ]	H Í
+HÍT	[HÍT]	H Í T
+HÒ	[HÒ]	H Ò
+HÒA	[HÒA]	H ÒA
+HÒN	[HÒN]	H Ò N
+HÓA	[HÓA]	H ÓA
+HÓC	[HÓC]	H Ó C
+HÓI	[HÓI]	H ÓI
+HÓM	[HÓM]	H Ó M
+HÓNG	[HÓNG]	H Ó NG
+HÓT	[HÓT]	H Ó T
+HÔ	[HÔ]	H Ô
+HÔI	[HÔI]	H ÔI
+HÔM	[HÔM]	H Ô M
+HÔN	[HÔN]	H Ô N
+HÔNG	[HÔNG]	H Ô NG
+HÙA	[HÙA]	H ÙA
+HÙN	[HÙN]	H Ù N
+HÙNG	[HÙNG]	H Ù NG
+HÚ	[HÚ]	H Ú
+HÚC	[HÚC]	H Ú C
+HÚI	[HÚI]	H ÚI
+HÚNG	[HÚNG]	H Ú NG
+HÚP	[HÚP]	H Ú P
+HÚT	[HÚT]	H Ú T
+HÚY	[HÚY]	H ÚY
+HĂM	[HĂM]	H Ă M
+HĂNG	[HĂNG]	H Ă NG
+HĨNH	[HĨNH]	H Ĩ NH
+HŨ	[HŨ]	H Ũ
+HŨM	[HŨM]	H Ũ M
+HƠI	[HƠI]	H ƠI
+HƠN	[HƠN]	H Ơ N
+HƯ	[HƯ]	H Ư
+HƯNG	[HƯNG]	H Ư NG
+HƯU	[HƯU]	H ƯU
+HƯƠNG	[HƯƠNG]	H ƯƠ NG
+HƯƠU	[HƯƠU]	H ƯƠU
+HƯỚC	[HƯỚC]	H ƯỚ C
+HƯỚM	[HƯỚM]	H ƯỚ M
+HƯỚNG	[HƯỚNG]	H ƯỚ NG
+HƯỜNG	[HƯỜNG]	H ƯỜ NG
+HƯỞNG	[HƯỞNG]	H ƯỞ NG
+HẠ	[HẠ]	H Ạ
+HẠC	[HẠC]	H Ạ C
+HẠCH	[HẠCH]	H Ạ CH
+HẠI	[HẠI]	H ẠI
+HẠM	[HẠM]	H Ạ M
+HẠN	[HẠN]	H Ạ N
+HẠNG	[HẠNG]	H Ạ NG
+HẠNH	[HẠNH]	H Ạ NH
+HẠO	[HẠO]	H ẠO
+HẠP	[HẠP]	H Ạ P
+HẠT	[HẠT]	H Ạ T
+HẢ	[HẢ]	H Ả
+HẢI	[HẢI]	H ẢI
+HẢM	[HẢM]	H Ả M
+HẢO	[HẢO]	H ẢO
+HẤNG	[HẤNG]	H Ấ NG
+HẤP	[HẤP]	H Ấ P
+HẤT	[HẤT]	H Ấ T
+HẤU	[HẤU]	H ẤU
+HẦM	[HẦM]	H Ầ M
+HẦU	[HẦU]	H ẦU
+HẦY	[HẦY]	H ẦY
+HẨM	[HẨM]	H Ẩ M
+HẪNG	[HẪNG]	H Ẫ NG
+HẬN	[HẬN]	H Ậ N
+HẬP	[HẬP]	H Ậ P
+HẬU	[HẬU]	H ẬU
+HẮC	[HẮC]	H Ắ C
+HẮN	[HẮN]	H Ắ N
+HẮNG	[HẮNG]	H Ắ NG
+HẮT	[HẮT]	H Ắ T
+HẰN	[HẰN]	H Ằ N
+HẰNG	[HẰNG]	H Ằ NG
+HẲN	[HẲN]	H Ẳ N
+HẴNG	[HẴNG]	H Ẵ NG
+HẶC	[HẶC]	H Ặ C
+HẸ	[HẸ]	H Ẹ
+HẸN	[HẸN]	H Ẹ N
+HẸP	[HẸP]	H Ẹ P
+HẺM	[HẺM]	H Ẻ M
+HẾN	[HẾN]	H Ế N
+HẾT	[HẾT]	H Ế T
+HỀ	[HỀ]	H Ề
+HỂ	[HỂ]	H Ể
+HỂN	[HỂN]	H Ể N
+HỂNH	[HỂNH]	H Ể NH
+HỄ	[HỄ]	H Ễ
+HỆ	[HỆ]	H Ệ
+HỆT	[HỆT]	H Ệ T
+HỈ	[HỈ]	H Ỉ
+HỈNH	[HỈNH]	H Ỉ NH
+HỌ	[HỌ]	H Ọ
+HỌA	[HỌA]	H ỌA
+HỌC	[HỌC]	H Ọ C
+HỌNG	[HỌNG]	H Ọ NG
+HỌP	[HỌP]	H Ọ P
+HỎA	[HỎA]	H ỎA
+HỎI	[HỎI]	H ỎI
+HỎM	[HỎM]	H Ỏ M
+HỎNG	[HỎNG]	H Ỏ NG
+HỐ	[HỐ]	H Ố
+HỐC	[HỐC]	H Ố C
+HỐI	[HỐI]	H ỐI
+HỐT	[HỐT]	H Ố T
+HỒ	[HỒ]	H Ồ
+HỒI	[HỒI]	H ỒI
+HỒN	[HỒN]	H Ồ N
+HỒNG	[HỒNG]	H Ồ NG
+HỔ	[HỔ]	H Ổ
+HỔI	[HỔI]	H ỔI
+HỔM	[HỔM]	H Ổ M
+HỔN	[HỔN]	H Ổ N
+HỔNG	[HỔNG]	H Ổ NG
+HỖ	[HỖ]	H Ỗ
+HỖN	[HỖN]	H Ỗ N
+HỘ	[HỘ]	H Ộ
+HỘC	[HỘC]	H Ộ C
+HỘI	[HỘI]	H ỘI
+HỘN	[HỘN]	H Ộ N
+HỘP	[HỘP]	H Ộ P
+HỘT	[HỘT]	H Ộ T
+HỚ	[HỚ]	H Ớ
+HỚN	[HỚN]	H Ớ N
+HỚP	[HỚP]	H Ớ P
+HỚT	[HỚT]	H Ớ T
+HỜN	[HỜN]	H Ờ N
+HỞ	[HỞ]	H Ở
+HỞI	[HỞI]	H ỞI
+HỢI	[HỢI]	H ỢI
+HỢM	[HỢM]	H Ợ M
+HỢP	[HỢP]	H Ợ P
+HỤ	[HỤ]	H Ụ
+HỤC	[HỤC]	H Ụ C
+HỤI	[HỤI]	H ỤI
+HỤT	[HỤT]	H Ụ T
+HỦ	[HỦ]	H Ủ
+HỦY	[HỦY]	H ỦY
+HỨA	[HỨA]	H ỨA
+HỨC	[HỨC]	H Ứ C
+HỨNG	[HỨNG]	H Ứ NG
+HỪ	[HỪ]	H Ừ
+HỪNG	[HỪNG]	H Ừ NG
+HỮU	[HỮU]	H ỮU
+HỰ	[HỰ]	H Ự
+HỰC	[HỰC]	H Ự C
+HỰU	[HỰU]	H ỰU
+I	[I]	I
+IM	[IM]	I M
+IN	[IN]	I N
+INH	[INH]	I NH
+K	[K]	K 
+KA	[KA]	K A
+KEM	[KEM]	K E M
+KEN	[KEN]	K E N
+KEO	[KEO]	K EO
+KHA	[KHA]	KH A
+KHAI	[KHAI]	KH AI
+KHAN	[KHAN]	KH A N
+KHANG	[KHANG]	KH A NG
+KHANH	[KHANH]	KH A NH
+KHAO	[KHAO]	KH AO
+KHE	[KHE]	KH E
+KHEN	[KHEN]	KH E N
+KHEO	[KHEO]	KH EO
+KHI	[KHI]	KH I
+KHINH	[KHINH]	KH I NH
+KHIÊM	[KHIÊM]	KH IÊ M
+KHIÊN	[KHIÊN]	KH IÊ N
+KHIÊNG	[KHIÊNG]	KH IÊ NG
+KHIÊU	[KHIÊU]	KH IÊU
+KHIẾM	[KHIẾM]	KH IẾ M
+KHIẾN	[KHIẾN]	KH IẾ N
+KHIẾP	[KHIẾP]	KH IẾ P
+KHIẾT	[KHIẾT]	KH IẾ T
+KHIẾU	[KHIẾU]	KH IẾU
+KHIỂN	[KHIỂN]	KH IỂ N
+KHO	[KHO]	KH O
+KHOA	[KHOA]	KH OA
+KHOAI	[KHOAI]	KH OAI
+KHOAN	[KHOAN]	KH OA N
+KHOANG	[KHOANG]	KH OA NG
+KHOANH	[KHOANH]	KH OA NH
+KHOE	[KHOE]	KH OE
+KHOM	[KHOM]	KH O M
+KHOÁ	[KHOÁ]	KH OÁ
+KHOÁC	[KHOÁC]	KH OÁ C
+KHOÁI	[KHOÁI]	KH OÁI
+KHOÁN	[KHOÁN]	KH OÁ N
+KHOÁT	[KHOÁT]	KH OÁ T
+KHOÈO	[KHOÈO]	KH OÈO
+KHOÉT	[KHOÉT]	KH OÉ T
+KHOĂN	[KHOĂN]	KH OĂ N
+KHOẢI	[KHOẢI]	KH OẢI
+KHOẢN	[KHOẢN]	KH OẢ N
+KHOẢNG	[KHOẢNG]	KH OẢ NG
+KHOẢNH	[KHOẢNH]	KH OẢ NH
+KHOẮT	[KHOẮT]	KH OẮ T
+KHOẺ	[KHOẺ]	KH OẺ
+KHU	[KHU]	KH U
+KHUA	[KHUA]	KH UA
+KHUM	[KHUM]	KH U M
+KHUNG	[KHUNG]	KH U NG
+KHUY	[KHUY]	KH UY
+KHUYA	[KHUYA]	KH UYA
+KHUYNH	[KHUYNH]	KH UY NH
+KHUYÊN	[KHUYÊN]	KH UYÊ N
+KHUYẾN	[KHUYẾN]	KH UYẾ N
+KHUYẾT	[KHUYẾT]	KH UYẾ T
+KHUÂN	[KHUÂN]	KH UÂ N
+KHUÂNG	[KHUÂNG]	KH UÂ NG
+KHUÂY	[KHUÂY]	KH UÂY
+KHUÔN	[KHUÔN]	KH UÔ N
+KHUẤT	[KHUẤT]	KH UẤ T
+KHUẤY	[KHUẤY]	KH UẤY
+KHUẨN	[KHUẨN]	KH UẨ N
+KHUỲNH	[KHUỲNH]	KH UỲ NH
+KHUỶU	[KHUỶU]	KH UỶU
+KHÀN	[KHÀN]	KH À N
+KHÀNG	[KHÀNG]	KH À NG
+KHÁ	[KHÁ]	KH Á
+KHÁC	[KHÁC]	KH Á C
+KHÁCH	[KHÁCH]	KH Á CH
+KHÁI	[KHÁI]	KH ÁI
+KHÁM	[KHÁM]	KH Á M
+KHÁN	[KHÁN]	KH Á N
+KHÁNG	[KHÁNG]	KH Á NG
+KHÁNH	[KHÁNH]	KH Á NH
+KHÁO	[KHÁO]	KH ÁO
+KHÁP	[KHÁP]	KH Á P
+KHÁT	[KHÁT]	KH Á T
+KHÂM	[KHÂM]	KH Â M
+KHÂU	[KHÂU]	KH ÂU
+KHÈ	[KHÈ]	KH È
+KHÈN	[KHÈN]	KH È N
+KHÈO	[KHÈO]	KH ÈO
+KHÉN	[KHÉN]	KH É N
+KHÉO	[KHÉO]	KH ÉO
+KHÉP	[KHÉP]	KH É P
+KHÉT	[KHÉT]	KH É T
+KHÊ	[KHÊ]	KH Ê
+KHÍ	[KHÍ]	KH Í
+KHÍA	[KHÍA]	KH ÍA
+KHÍCH	[KHÍCH]	KH Í CH
+KHÍT	[KHÍT]	KH Í T
+KHÍU	[KHÍU]	KH ÍU
+KHÒ	[KHÒ]	KH Ò
+KHÓ	[KHÓ]	KH Ó
+KHÓA	[KHÓA]	KH ÓA
+KHÓC	[KHÓC]	KH Ó C
+KHÓE	[KHÓE]	KH ÓE
+KHÓI	[KHÓI]	KH ÓI
+KHÔ	[KHÔ]	KH Ô
+KHÔI	[KHÔI]	KH ÔI
+KHÔN	[KHÔN]	KH Ô N
+KHÔNG	[KHÔNG]	KH Ô NG
+KHÙ	[KHÙ]	KH Ù
+KHÚ	[KHÚ]	KH Ú
+KHÚC	[KHÚC]	KH Ú C
+KHÚM	[KHÚM]	KH Ú M
+KHĂM	[KHĂM]	KH Ă M
+KHĂN	[KHĂN]	KH Ă N
+KHƠ	[KHƠ]	KH Ơ
+KHƠI	[KHƠI]	KH ƠI
+KHƯ	[KHƯ]	KH Ư
+KHƯƠM	[KHƯƠM]	KH ƯƠ M
+KHƯƠN	[KHƯƠN]	KH ƯƠ N
+KHƯƠNG	[KHƯƠNG]	KH ƯƠ NG
+KHƯỚC	[KHƯỚC]	KH ƯỚ C
+KHẠC	[KHẠC]	KH Ạ C
+KHẠNG	[KHẠNG]	KH Ạ NG
+KHẢ	[KHẢ]	KH Ả
+KHẢI	[KHẢI]	KH ẢI
+KHẢO	[KHẢO]	KH ẢO
+KHẢY	[KHẢY]	KH ẢY
+KHẤN	[KHẤN]	KH Ấ N
+KHẤP	[KHẤP]	KH Ấ P
+KHẤT	[KHẤT]	KH Ấ T
+KHẤU	[KHẤU]	KH ẤU
+KHẨN	[KHẨN]	KH Ẩ N
+KHẨU	[KHẨU]	KH ẨU
+KHẬT	[KHẬT]	KH Ậ T
+KHẮC	[KHẮC]	KH Ắ C
+KHẮM	[KHẮM]	KH Ắ M
+KHẮNG	[KHẮNG]	KH Ắ NG
+KHẮP	[KHẮP]	KH Ắ P
+KHẮT	[KHẮT]	KH Ắ T
+KHẲM	[KHẲM]	KH Ẳ M
+KHẲNG	[KHẲNG]	KH Ẳ NG
+KHẺ	[KHẺ]	KH Ẻ
+KHẼ	[KHẼ]	KH Ẽ
+KHẾ	[KHẾ]	KH Ế
+KHỀU	[KHỀU]	KH ỀU
+KHỆ	[KHỆ]	KH Ệ
+KHỆNH	[KHỆNH]	KH Ệ NH
+KHỈ	[KHỈ]	KH Ỉ
+KHỊT	[KHỊT]	KH Ị T
+KHỎA	[KHỎA]	KH ỎA
+KHỎE	[KHỎE]	KH ỎE
+KHỎI	[KHỎI]	KH ỎI
+KHỐ	[KHỐ]	KH Ố
+KHỐC	[KHỐC]	KH Ố C
+KHỐI	[KHỐI]	KH ỐI
+KHỐN	[KHỐN]	KH Ố N
+KHỐNG	[KHỐNG]	KH Ố NG
+KHỔ	[KHỔ]	KH Ổ
+KHỔNG	[KHỔNG]	KH Ổ NG
+KHỚ	[KHỚ]	KH Ớ
+KHỚP	[KHỚP]	KH Ớ P
+KHỜ	[KHỜ]	KH Ờ
+KHỞI	[KHỞI]	KH ỞI
+KHỤ	[KHỤ]	KH Ụ
+KHỦNG	[KHỦNG]	KH Ủ NG
+KHỨ	[KHỨ]	KH Ứ
+KHỨU	[KHỨU]	KH ỨU
+KHỪ	[KHỪ]	KH Ừ
+KHỰNG	[KHỰNG]	KH Ự NG
+KI	[KI]	K I
+KIA	[KIA]	K IA
+KIM	[KIM]	K I M
+KINH	[KINH]	K I NH
+KIÊM	[KIÊM]	K IÊ M
+KIÊN	[KIÊN]	K IÊ N
+KIÊNG	[KIÊNG]	K IÊ NG
+KIÊU	[KIÊU]	K IÊU
+KIẾM	[KIẾM]	K IẾ M
+KIẾN	[KIẾN]	K IẾ N
+KIẾP	[KIẾP]	K IẾ P
+KIỀM	[KIỀM]	K IỀ M
+KIỀN	[KIỀN]	K IỀ N
+KIỀNG	[KIỀNG]	K IỀ NG
+KIỀU	[KIỀU]	K IỀU
+KIỂM	[KIỂM]	K IỂ M
+KIỂNG	[KIỂNG]	K IỂ NG
+KIỂU	[KIỂU]	K IỂU
+KIỆM	[KIỆM]	K IỆ M
+KIỆN	[KIỆN]	K IỆ N
+KIỆT	[KIỆT]	K IỆ T
+KIỆU	[KIỆU]	K IỆU
+KO	[KO]	K O
+KY	[KY]	K Y
+KÈ	[KÈ]	K È
+KÈM	[KÈM]	K È M
+KÈN	[KÈN]	K È N
+KÈO	[KÈO]	K ÈO
+KÉM	[KÉM]	K É M
+KÉN	[KÉN]	K É N
+KÉO	[KÉO]	K ÉO
+KÉP	[KÉP]	K É P
+KÉT	[KÉT]	K É T
+KÊ	[KÊ]	K Ê
+KÊNH	[KÊNH]	K Ê NH
+KÊU	[KÊU]	K ÊU
+KÌ	[KÌ]	K Ì
+KÌA	[KÌA]	K ÌA
+KÌM	[KÌM]	K Ì M
+KÌNH	[KÌNH]	K Ì NH
+KÍ	[KÍ]	K Í
+KÍCH	[KÍCH]	K Í CH
+KÍN	[KÍN]	K Í N
+KÍNH	[KÍNH]	K Í NH
+KÍP	[KÍP]	K Í P
+KÍT	[KÍT]	K Í T
+KÝ	[KÝ]	K Ý
+KĨ	[KĨ]	K Ĩ
+KẸN	[KẸN]	K Ẹ N
+KẸO	[KẸO]	K ẸO
+KẸP	[KẸP]	K Ẹ P
+KẸT	[KẸT]	K Ẹ T
+KẺ	[KẺ]	K Ẻ
+KẺNG	[KẺNG]	K Ẻ NG
+KẺO	[KẺO]	K ẺO
+KẼ	[KẼ]	K Ẽ
+KẼM	[KẼM]	K Ẽ M
+KẼO	[KẼO]	K ẼO
+KẾ	[KẾ]	K Ế
+KẾCH	[KẾCH]	K Ế CH
+KẾT	[KẾT]	K Ế T
+KỀ	[KỀ]	K Ề
+KỀN	[KỀN]	K Ề N
+KỀNH	[KỀNH]	K Ề NH
+KỂ	[KỂ]	K Ể
+KỆ	[KỆ]	K Ệ
+KỆNH	[KỆNH]	K Ệ NH
+KỈ	[KỈ]	K Ỉ
+KỈNH	[KỈNH]	K Ỉ NH
+KỊ	[KỊ]	K Ị
+KỊCH	[KỊCH]	K Ị CH
+KỊP	[KỊP]	K Ị P
+KỊT	[KỊT]	K Ị T
+KỲ	[KỲ]	K Ỳ
+KỴ	[KỴ]	K Ỵ
+KỶ	[KỶ]	K Ỷ
+KỸ	[KỸ]	K Ỹ
+LA	[LA]	L A
+LAI	[LAI]	L AI
+LAM	[LAM]	L A M
+LAN	[LAN]	L A N
+LANG	[LANG]	L A NG
+LANH	[LANH]	L A NH
+LAO	[LAO]	L AO
+LAU	[LAU]	L AU
+LAY	[LAY]	L AY
+LE	[LE]	L E
+LEM	[LEM]	L E M
+LEN	[LEN]	L E N
+LEO	[LEO]	L EO
+LI	[LI]	L I
+LIA	[LIA]	L IA
+LIM	[LIM]	L I M
+LIN	[LIN]	L I N
+LINH	[LINH]	L I NH
+LIU	[LIU]	L IU
+LIÊM	[LIÊM]	L IÊ M
+LIÊN	[LIÊN]	L IÊ N
+LIÊNG	[LIÊNG]	L IÊ NG
+LIÊU	[LIÊU]	L IÊU
+LIẾC	[LIẾC]	L IẾ C
+LIẾM	[LIẾM]	L IẾ M
+LIẾN	[LIẾN]	L IẾ N
+LIẾNG	[LIẾNG]	L IẾ NG
+LIỀM	[LIỀM]	L IỀ M
+LIỀN	[LIỀN]	L IỀ N
+LIỀU	[LIỀU]	L IỀU
+LIỄU	[LIỄU]	L IỄU
+LIỆNG	[LIỆNG]	L IỆ NG
+LIỆT	[LIỆT]	L IỆ T
+LIỆU	[LIỆU]	L IỆU
+LO	[LO]	L O
+LOA	[LOA]	L OA
+LOAN	[LOAN]	L OA N
+LOANH	[LOANH]	L OA NH
+LOAY	[LOAY]	L OAY
+LOI	[LOI]	L OI
+LOM	[LOM]	L O M
+LONG	[LONG]	L O NG
+LOÀI	[LOÀI]	L OÀI
+LOÀN	[LOÀN]	L OÀ N
+LOÀNG	[LOÀNG]	L OÀ NG
+LOÃNG	[LOÃNG]	L OÃ NG
+LOÉ	[LOÉ]	L OÉ
+LOÉT	[LOÉT]	L OÉ T
+LOẠI	[LOẠI]	L OẠI
+LOẠN	[LOẠN]	L OẠ N
+LOẠNG	[LOẠNG]	L OẠ NG
+LOẠT	[LOẠT]	L OẠ T
+LOẢNG	[LOẢNG]	L OẢ NG
+LOẮT	[LOẮT]	L OẮ T
+LOẰNG	[LOẰNG]	L OẰ NG
+LU	[LU]	L U
+LUI	[LUI]	L UI
+LUNG	[LUNG]	L U NG
+LUYẾN	[LUYẾN]	L UYẾ N
+LUYỆN	[LUYỆN]	L UYỆ N
+LUÂN	[LUÂN]	L UÂ N
+LUÔN	[LUÔN]	L UÔ N
+LUẨN	[LUẨN]	L UẨ N
+LUẬN	[LUẬN]	L UẬ N
+LUẬT	[LUẬT]	L UẬ T
+LUỐNG	[LUỐNG]	L UỐ NG
+LUỒN	[LUỒN]	L UỒ N
+LUỒNG	[LUỒNG]	L UỒ NG
+LUỖNG	[LUỖNG]	L UỖ NG
+LUỘC	[LUỘC]	L UỘ C
+LY	[LY]	L Y
+LÀ	[LÀ]	L À
+LÀI	[LÀI]	L ÀI
+LÀM	[LÀM]	L À M
+LÀN	[LÀN]	L À N
+LÀNG	[LÀNG]	L À NG
+LÀNH	[LÀNH]	L À NH
+LÀO	[LÀO]	L ÀO
+LÀU	[LÀU]	L ÀU
+LÁ	[LÁ]	L Á
+LÁC	[LÁC]	L Á C
+LÁCH	[LÁCH]	L Á CH
+LÁI	[LÁI]	L ÁI
+LÁNG	[LÁNG]	L Á NG
+LÁNH	[LÁNH]	L Á NH
+LÁO	[LÁO]	L ÁO
+LÁP	[LÁP]	L Á P
+LÁT	[LÁT]	L Á T
+LÁU	[LÁU]	L ÁU
+LÁY	[LÁY]	L ÁY
+LÂM	[LÂM]	L Â M
+LÂN	[LÂN]	L Â N
+LÂNG	[LÂNG]	L Â NG
+LÂU	[LÂU]	L ÂU
+LÂY	[LÂY]	L ÂY
+LÃ	[LÃ]	L Ã
+LÃI	[LÃI]	L ÃI
+LÃM	[LÃM]	L Ã M
+LÃN	[LÃN]	L Ã N
+LÃNG	[LÃNG]	L Ã NG
+LÃNH	[LÃNH]	L Ã NH
+LÃO	[LÃO]	L ÃO
+LÈ	[LÈ]	L È
+LÈO	[LÈO]	L ÈO
+LÉ	[LÉ]	L É
+LÉC	[LÉC]	L É C
+LÉM	[LÉM]	L É M
+LÉN	[LÉN]	L É N
+LÉNG	[LÉNG]	L É NG
+LÉO	[LÉO]	L ÉO
+LÉP	[LÉP]	L É P
+LÉT	[LÉT]	L É T
+LÊ	[LÊ]	L Ê
+LÊN	[LÊN]	L Ê N
+LÊNH	[LÊNH]	L Ê NH
+LÊU	[LÊU]	L ÊU
+LÌ	[LÌ]	L Ì
+LÌA	[LÌA]	L ÌA
+LÌM	[LÌM]	L Ì M
+LÍ	[LÍ]	L Í
+LÍNH	[LÍNH]	L Í NH
+LÍP	[LÍP]	L Í P
+LÍT	[LÍT]	L Í T
+LÍU	[LÍU]	L ÍU
+LÒ	[LÒ]	L Ò
+LÒA	[LÒA]	L ÒA
+LÒI	[LÒI]	L ÒI
+LÒM	[LÒM]	L Ò M
+LÒNG	[LÒNG]	L Ò NG
+LÓC	[LÓC]	L Ó C
+LÓE	[LÓE]	L ÓE
+LÓM	[LÓM]	L Ó M
+LÓNG	[LÓNG]	L Ó NG
+LÓT	[LÓT]	L Ó T
+LÔ	[LÔ]	L Ô
+LÔI	[LÔI]	L ÔI
+LÔM	[LÔM]	L Ô M
+LÔNG	[LÔNG]	L Ô NG
+LÕI	[LÕI]	L ÕI
+LÕM	[LÕM]	L Õ M
+LÕNG	[LÕNG]	L Õ NG
+LÙ	[LÙ]	L Ù
+LÙA	[LÙA]	L ÙA
+LÙI	[LÙI]	L ÙI
+LÙM	[LÙM]	L Ù M
+LÙNG	[LÙNG]	L Ù NG
+LÚ	[LÚ]	L Ú
+LÚA	[LÚA]	L ÚA
+LÚC	[LÚC]	L Ú C
+LÚI	[LÚI]	L ÚI
+LÚM	[LÚM]	L Ú M
+LÚN	[LÚN]	L Ú N
+LÚNG	[LÚNG]	L Ú NG
+LÝ	[LÝ]	L Ý
+LĂM	[LĂM]	L Ă M
+LĂN	[LĂN]	L Ă N
+LĂNG	[LĂNG]	L Ă NG
+LĨNH	[LĨNH]	L Ĩ NH
+LŨ	[LŨ]	L Ũ
+LŨI	[LŨI]	L ŨI
+LŨM	[LŨM]	L Ũ M
+LŨN	[LŨN]	L Ũ N
+LŨNG	[LŨNG]	L Ũ NG
+LŨY	[LŨY]	L ŨY
+LƠ	[LƠ]	L Ơ
+LƠI	[LƠI]	L ƠI
+LƠN	[LƠN]	L Ơ N
+LƯ	[LƯ]	L Ư
+LƯNG	[LƯNG]	L Ư NG
+LƯU	[LƯU]	L ƯU
+LƯƠM	[LƯƠM]	L ƯƠ M
+LƯƠN	[LƯƠN]	L ƯƠ N
+LƯƠNG	[LƯƠNG]	L ƯƠ NG
+LƯỚI	[LƯỚI]	L ƯỚI
+LƯỚNG	[LƯỚNG]	L ƯỚ NG
+LƯỚT	[LƯỚT]	L ƯỚ T
+LƯỜI	[LƯỜI]	L ƯỜI
+LƯỜNG	[LƯỜNG]	L ƯỜ NG
+LƯỠI	[LƯỠI]	L ƯỠI
+LƯỠNG	[LƯỠNG]	L ƯỠ NG
+LƯỢC	[LƯỢC]	L ƯỢ C
+LƯỢM	[LƯỢM]	L ƯỢ M
+LƯỢN	[LƯỢN]	L ƯỢ N
+LƯỢNG	[LƯỢNG]	L ƯỢ NG
+LƯỢT	[LƯỢT]	L ƯỢ T
+LẠ	[LẠ]	L Ạ
+LẠC	[LẠC]	L Ạ C
+LẠCH	[LẠCH]	L Ạ CH
+LẠI	[LẠI]	L ẠI
+LẠM	[LẠM]	L Ạ M
+LẠN	[LẠN]	L Ạ N
+LẠNG	[LẠNG]	L Ạ NG
+LẠNH	[LẠNH]	L Ạ NH
+LẠO	[LẠO]	L ẠO
+LẠP	[LẠP]	L Ạ P
+LẠT	[LẠT]	L Ạ T
+LẠY	[LẠY]	L ẠY
+LẢ	[LẢ]	L Ả
+LẢI	[LẢI]	L ẢI
+LẢM	[LẢM]	L Ả M
+LẢNG	[LẢNG]	L Ả NG
+LẢNH	[LẢNH]	L Ả NH
+LẤM	[LẤM]	L Ấ M
+LẤN	[LẤN]	L Ấ N
+LẤP	[LẤP]	L Ấ P
+LẤT	[LẤT]	L Ấ T
+LẤY	[LẤY]	L ẤY
+LẦM	[LẦM]	L Ầ M
+LẦN	[LẦN]	L Ầ N
+LẦU	[LẦU]	L ẦU
+LẦY	[LẦY]	L ẦY
+LẨM	[LẨM]	L Ẩ M
+LẨN	[LẨN]	L Ẩ N
+LẨU	[LẨU]	L ẨU
+LẪN	[LẪN]	L Ẫ N
+LẪY	[LẪY]	L ẪY
+LẬN	[LẬN]	L Ậ N
+LẬP	[LẬP]	L Ậ P
+LẬT	[LẬT]	L Ậ T
+LẬU	[LẬU]	L ẬU
+LẮC	[LẮC]	L Ắ C
+LẮM	[LẮM]	L Ắ M
+LẮNG	[LẮNG]	L Ắ NG
+LẮP	[LẮP]	L Ắ P
+LẮT	[LẮT]	L Ắ T
+LẰN	[LẰN]	L Ằ N
+LẰNG	[LẰNG]	L Ằ NG
+LẲM	[LẲM]	L Ẳ M
+LẲN	[LẲN]	L Ẳ N
+LẲNG	[LẲNG]	L Ẳ NG
+LẶM	[LẶM]	L Ặ M
+LẶN	[LẶN]	L Ặ N
+LẶNG	[LẶNG]	L Ặ NG
+LẶP	[LẶP]	L Ặ P
+LẶT	[LẶT]	L Ặ T
+LẸ	[LẸ]	L Ẹ
+LẸM	[LẸM]	L Ẹ M
+LẺ	[LẺ]	L Ẻ
+LẺN	[LẺN]	L Ẻ N
+LẺNG	[LẺNG]	L Ẻ NG
+LẼ	[LẼ]	L Ẽ
+LẼN	[LẼN]	L Ẽ N
+LẼO	[LẼO]	L ẼO
+LẾT	[LẾT]	L Ế T
+LẾU	[LẾU]	L ẾU
+LỀ	[LỀ]	L Ề
+LỀNH	[LỀNH]	L Ề NH
+LỀU	[LỀU]	L ỀU
+LỂ	[LỂ]	L Ể
+LỄ	[LỄ]	L Ễ
+LỆ	[LỆ]	L Ệ
+LỆCH	[LỆCH]	L Ệ CH
+LỆNH	[LỆNH]	L Ệ NH
+LỈNH	[LỈNH]	L Ỉ NH
+LỊA	[LỊA]	L ỊA
+LỊCH	[LỊCH]	L Ị CH
+LỊM	[LỊM]	L Ị M
+LỊNH	[LỊNH]	L Ị NH
+LỌ	[LỌ]	L Ọ
+LỌC	[LỌC]	L Ọ C
+LỌNG	[LỌNG]	L Ọ NG
+LỌT	[LỌT]	L Ọ T
+LỎI	[LỎI]	L ỎI
+LỎN	[LỎN]	L Ỏ N
+LỎNG	[LỎNG]	L Ỏ NG
+LỐ	[LỐ]	L Ố
+LỐC	[LỐC]	L Ố C
+LỐI	[LỐI]	L ỐI
+LỐM	[LỐM]	L Ố M
+LỐP	[LỐP]	L Ố P
+LỐT	[LỐT]	L Ố T
+LỒ	[LỒ]	L Ồ
+LỒI	[LỒI]	L ỒI
+LỒM	[LỒM]	L Ồ M
+LỒNG	[LỒNG]	L Ồ NG
+LỔM	[LỔM]	L Ổ M
+LỔNG	[LỔNG]	L Ổ NG
+LỖ	[LỖ]	L Ỗ
+LỖI	[LỖI]	L ỖI
+LỘ	[LỘ]	L Ộ
+LỘC	[LỘC]	L Ộ C
+LỘI	[LỘI]	L ỘI
+LỘN	[LỘN]	L Ộ N
+LỘNG	[LỘNG]	L Ộ NG
+LỘP	[LỘP]	L Ộ P
+LỘT	[LỘT]	L Ộ T
+LỚN	[LỚN]	L Ớ N
+LỚP	[LỚP]	L Ớ P
+LỚT	[LỚT]	L Ớ T
+LỜ	[LỜ]	L Ờ
+LỜI	[LỜI]	L ỜI
+LỜM	[LỜM]	L Ờ M
+LỜN	[LỜN]	L Ờ N
+LỞ	[LỞ]	L Ở
+LỞI	[LỞI]	L ỞI
+LỞN	[LỞN]	L Ở N
+LỠ	[LỠ]	L Ỡ
+LỠM	[LỠM]	L Ỡ M
+LỢI	[LỢI]	L ỢI
+LỢM	[LỢM]	L Ợ M
+LỢN	[LỢN]	L Ợ N
+LỢP	[LỢP]	L Ợ P
+LỤ	[LỤ]	L Ụ
+LỤA	[LỤA]	L ỤA
+LỤC	[LỤC]	L Ụ C
+LỤNG	[LỤNG]	L Ụ NG
+LỤT	[LỤT]	L Ụ T
+LỦ	[LỦ]	L Ủ
+LỦI	[LỦI]	L ỦI
+LỦM	[LỦM]	L Ủ M
+LỦNG	[LỦNG]	L Ủ NG
+LỨA	[LỨA]	L ỨA
+LỨC	[LỨC]	L Ứ C
+LỨT	[LỨT]	L Ứ T
+LỪ	[LỪ]	L Ừ
+LỪA	[LỪA]	L ỪA
+LỪNG	[LỪNG]	L Ừ NG
+LỬ	[LỬ]	L Ử
+LỬA	[LỬA]	L ỬA
+LỬNG	[LỬNG]	L Ử NG
+LỮ	[LỮ]	L Ữ
+LỮA	[LỮA]	L ỮA
+LỮNG	[LỮNG]	L Ữ NG
+LỰA	[LỰA]	L ỰA
+LỰC	[LỰC]	L Ự C
+LỰU	[LỰU]	L ỰU
+LỴ	[LỴ]	L Ỵ
+M	[M]	M 
+MA	[MA]	M A
+MAI	[MAI]	M AI
+MAN	[MAN]	M A N
+MANG	[MANG]	M A NG
+MANH	[MANH]	M A NH
+MAU	[MAU]	M AU
+MAY	[MAY]	M AY
+ME	[ME]	M E
+MEN	[MEN]	M E N
+MI	[MI]	M I
+MIN	[MIN]	M I N
+MINH	[MINH]	M I NH
+MIÊN	[MIÊN]	M IÊ N
+MIÊU	[MIÊU]	M IÊU
+MIẾNG	[MIẾNG]	M IẾ NG
+MIẾT	[MIẾT]	M IẾ T
+MIẾU	[MIẾU]	M IẾU
+MIỀN	[MIỀN]	M IỀ N
+MIỀU	[MIỀU]	M IỀU
+MIỄN	[MIỄN]	M IỄ N
+MIỆN	[MIỆN]	M IỆ N
+MIỆNG	[MIỆNG]	M IỆ NG
+MIỆT	[MIỆT]	M IỆ T
+MO	[MO]	M O
+MONG	[MONG]	M O NG
+MU	[MU]	M U
+MUA	[MUA]	M UA
+MUN	[MUN]	M U N
+MUÔN	[MUÔN]	M UÔ N
+MUÔNG	[MUÔNG]	M UÔ NG
+MUỐI	[MUỐI]	M UỐI
+MUỐN	[MUỐN]	M UỐ N
+MUỐNG	[MUỐNG]	M UỐ NG
+MUỐT	[MUỐT]	M UỐ T
+MUỒI	[MUỒI]	M UỒI
+MUỖI	[MUỖI]	M UỖI
+MUỖM	[MUỖM]	M UỖ M
+MUỖNG	[MUỖNG]	M UỖ NG
+MUỘN	[MUỘN]	M UỘ N
+MY	[MY]	M Y
+MÀ	[MÀ]	M À
+MÀI	[MÀI]	M ÀI
+MÀN	[MÀN]	M À N
+MÀNG	[MÀNG]	M À NG
+MÀNH	[MÀNH]	M À NH
+MÀO	[MÀO]	M ÀO
+MÀU	[MÀU]	M ÀU
+MÀY	[MÀY]	M ÀY
+MÁ	[MÁ]	M Á
+MÁC	[MÁC]	M Á C
+MÁCH	[MÁCH]	M Á CH
+MÁI	[MÁI]	M ÁI
+MÁN	[MÁN]	M Á N
+MÁNG	[MÁNG]	M Á NG
+MÁNH	[MÁNH]	M Á NH
+MÁO	[MÁO]	M ÁO
+MÁT	[MÁT]	M Á T
+MÁU	[MÁU]	M ÁU
+MÁY	[MÁY]	M ÁY
+MÂM	[MÂM]	M Â M
+MÂN	[MÂN]	M Â N
+MÂU	[MÂU]	M ÂU
+MÂY	[MÂY]	M ÂY
+MÃ	[MÃ]	M Ã
+MÃI	[MÃI]	M ÃI
+MÃN	[MÃN]	M Ã N
+MÃNG	[MÃNG]	M Ã NG
+MÃNH	[MÃNH]	M Ã NH
+MÈ	[MÈ]	M È
+MÈN	[MÈN]	M È N
+MÈO	[MÈO]	M ÈO
+MÉ	[MÉ]	M É
+MÉM	[MÉM]	M É M
+MÉN	[MÉN]	M É N
+MÉO	[MÉO]	M ÉO
+MÉP	[MÉP]	M É P
+MÉT	[MÉT]	M É T
+MÊ	[MÊ]	M Ê
+MÊNH	[MÊNH]	M Ê NH
+MÌ	[MÌ]	M Ì
+MÌN	[MÌN]	M Ì N
+MÌNH	[MÌNH]	M Ì NH
+MÍ	[MÍ]	M Í
+MÍA	[MÍA]	M ÍA
+MÍP	[MÍP]	M Í P
+MÍT	[MÍT]	M Í T
+MÍU	[MÍU]	M ÍU
+MÒ	[MÒ]	M Ò
+MÒI	[MÒI]	M ÒI
+MÒN	[MÒN]	M Ò N
+MÒNG	[MÒNG]	M Ò NG
+MÓ	[MÓ]	M Ó
+MÓC	[MÓC]	M Ó C
+MÓI	[MÓI]	M ÓI
+MÓM	[MÓM]	M Ó M
+MÓN	[MÓN]	M Ó N
+MÓNG	[MÓNG]	M Ó NG
+MÓP	[MÓP]	M Ó P
+MÓT	[MÓT]	M Ó T
+MÔ	[MÔ]	M Ô
+MÔI	[MÔI]	M ÔI
+MÔN	[MÔN]	M Ô N
+MÔNG	[MÔNG]	M Ô NG
+MÕ	[MÕ]	M Õ
+MÕM	[MÕM]	M Õ M
+MÙ	[MÙ]	M Ù
+MÙA	[MÙA]	M ÙA
+MÙI	[MÙI]	M ÙI
+MÙN	[MÙN]	M Ù N
+MÙNG	[MÙNG]	M Ù NG
+MÚ	[MÚ]	M Ú
+MÚA	[MÚA]	M ÚA
+MÚI	[MÚI]	M ÚI
+MÚN	[MÚN]	M Ú N
+MÚP	[MÚP]	M Ú P
+MÚT	[MÚT]	M Ú T
+MĂM	[MĂM]	M Ă M
+MĂN	[MĂN]	M Ă N
+MĂNG	[MĂNG]	M Ă NG
+MĨM	[MĨM]	M Ĩ M
+MŨ	[MŨ]	M Ũ
+MŨI	[MŨI]	M ŨI
+MŨM	[MŨM]	M Ũ M
+MƠ	[MƠ]	M Ơ
+MƠN	[MƠN]	M Ơ N
+MƯA	[MƯA]	M ƯA
+MƯU	[MƯU]	M ƯU
+MƯƠI	[MƯƠI]	M ƯƠI
+MƯƠNG	[MƯƠNG]	M ƯƠ NG
+MƯỚN	[MƯỚN]	M ƯỚ N
+MƯỚP	[MƯỚP]	M ƯỚ P
+MƯỚT	[MƯỚT]	M ƯỚ T
+MƯỜI	[MƯỜI]	M ƯỜI
+MƯỜNG	[MƯỜNG]	M ƯỜ NG
+MƯỢN	[MƯỢN]	M ƯỢ N
+MƯỢT	[MƯỢT]	M ƯỢ T
+MẠ	[MẠ]	M Ạ
+MẠC	[MẠC]	M Ạ C
+MẠCH	[MẠCH]	M Ạ CH
+MẠI	[MẠI]	M ẠI
+MẠN	[MẠN]	M Ạ N
+MẠNG	[MẠNG]	M Ạ NG
+MẠNH	[MẠNH]	M Ạ NH
+MẠO	[MẠO]	M ẠO
+MẠP	[MẠP]	M Ạ P
+MẠT	[MẠT]	M Ạ T
+MẠY	[MẠY]	M ẠY
+MẢ	[MẢ]	M Ả
+MẢI	[MẢI]	M ẢI
+MẢNG	[MẢNG]	M Ả NG
+MẢNH	[MẢNH]	M Ả NH
+MẤN	[MẤN]	M Ấ N
+MẤT	[MẤT]	M Ấ T
+MẤU	[MẤU]	M ẤU
+MẤY	[MẤY]	M ẤY
+MẦM	[MẦM]	M Ầ M
+MẦN	[MẦN]	M Ầ N
+MẦU	[MẦU]	M ẦU
+MẨN	[MẨN]	M Ẩ N
+MẨU	[MẨU]	M ẨU
+MẨY	[MẨY]	M ẨY
+MẪN	[MẪN]	M Ẫ N
+MẪU	[MẪU]	M ẪU
+MẬN	[MẬN]	M Ậ N
+MẬP	[MẬP]	M Ậ P
+MẬT	[MẬT]	M Ậ T
+MẬU	[MẬU]	M ẬU
+MẮC	[MẮC]	M Ắ C
+MẮM	[MẮM]	M Ắ M
+MẮN	[MẮN]	M Ắ N
+MẮNG	[MẮNG]	M Ắ NG
+MẮT	[MẮT]	M Ắ T
+MẰN	[MẰN]	M Ằ N
+MẲN	[MẲN]	M Ẳ N
+MẶC	[MẶC]	M Ặ C
+MẶN	[MẶN]	M Ặ N
+MẶT	[MẶT]	M Ặ T
+MẸ	[MẸ]	M Ẹ
+MẸO	[MẸO]	M ẸO
+MẸT	[MẸT]	M Ẹ T
+MẺ	[MẺ]	M Ẻ
+MẼ	[MẼ]	M Ẽ
+MẾCH	[MẾCH]	M Ế CH
+MẾN	[MẾN]	M Ế N
+MẾU	[MẾU]	M ẾU
+MỀ	[MỀ]	M Ề
+MỀM	[MỀM]	M Ề M
+MỀN	[MỀN]	M Ề N
+MỆ	[MỆ]	M Ệ
+MỆNH	[MỆNH]	M Ệ NH
+MỆT	[MỆT]	M Ệ T
+MỈ	[MỈ]	M Ỉ
+MỈA	[MỈA]	M ỈA
+MỈM	[MỈM]	M Ỉ M
+MỊ	[MỊ]	M Ị
+MỊN	[MỊN]	M Ị N
+MỊT	[MỊT]	M Ị T
+MỌ	[MỌ]	M Ọ
+MỌC	[MỌC]	M Ọ C
+MỌI	[MỌI]	M ỌI
+MỌN	[MỌN]	M Ọ N
+MỌNG	[MỌNG]	M Ọ NG
+MỌT	[MỌT]	M Ọ T
+MỎ	[MỎ]	M Ỏ
+MỎI	[MỎI]	M ỎI
+MỎM	[MỎM]	M Ỏ M
+MỎNG	[MỎNG]	M Ỏ NG
+MỐC	[MỐC]	M Ố C
+MỐI	[MỐI]	M ỐI
+MỐT	[MỐT]	M Ố T
+MỒ	[MỒ]	M Ồ
+MỒI	[MỒI]	M ỒI
+MỒM	[MỒM]	M Ồ M
+MỒNG	[MỒNG]	M Ồ NG
+MỔ	[MỔ]	M Ổ
+MỖ	[MỖ]	M Ỗ
+MỖI	[MỖI]	M ỖI
+MỘ	[MỘ]	M Ộ
+MỘC	[MỘC]	M Ộ C
+MỘNG	[MỘNG]	M Ộ NG
+MỘT	[MỘT]	M Ộ T
+MỚ	[MỚ]	M Ớ
+MỚI	[MỚI]	M ỚI
+MỚP	[MỚP]	M Ớ P
+MỜ	[MỜ]	M Ờ
+MỜI	[MỜI]	M ỜI
+MỞ	[MỞ]	M Ở
+MỞN	[MỞN]	M Ở N
+MỠ	[MỠ]	M Ỡ
+MỢ	[MỢ]	M Ợ
+MỤ	[MỤ]	M Ụ
+MỤC	[MỤC]	M Ụ C
+MỤN	[MỤN]	M Ụ N
+MỤP	[MỤP]	M Ụ P
+MỦ	[MỦ]	M Ủ
+MỦI	[MỦI]	M ỦI
+MỦN	[MỦN]	M Ủ N
+MỨC	[MỨC]	M Ứ C
+MỨT	[MỨT]	M Ứ T
+MỪNG	[MỪNG]	M Ừ NG
+MỬA	[MỬA]	M ỬA
+MỰC	[MỰC]	M Ự C
+MỸ	[MỸ]	M Ỹ
+NA	[NA]	N A
+NAI	[NAI]	N AI
+NAM	[NAM]	N A M
+NAN	[NAN]	N A N
+NANG	[NANG]	N A NG
+NANH	[NANH]	N A NH
+NAO	[NAO]	N AO
+NAY	[NAY]	N AY
+NEM	[NEM]	N E M
+NEO	[NEO]	N EO
+NGA	[NGA]	NG A
+NGAI	[NGAI]	NG AI
+NGAN	[NGAN]	NG A N
+NGANG	[NGANG]	NG A NG
+NGAO	[NGAO]	NG AO
+NGAY	[NGAY]	NG AY
+NGHE	[NGHE]	NGH E
+NGHI	[NGHI]	NGH I
+NGHIÊM	[NGHIÊM]	NGH IÊ M
+NGHIÊN	[NGHIÊN]	NGH IÊ N
+NGHIÊNG	[NGHIÊNG]	NGH IÊ NG
+NGHIẾN	[NGHIẾN]	NGH IẾ N
+NGHIỀN	[NGHIỀN]	NGH IỀ N
+NGHIỆM	[NGHIỆM]	NGH IỆ M
+NGHIỆN	[NGHIỆN]	NGH IỆ N
+NGHIỆP	[NGHIỆP]	NGH IỆ P
+NGHIỆT	[NGHIỆT]	NGH IỆ T
+NGHÈ	[NGHÈ]	NGH È
+NGHÈO	[NGHÈO]	NGH ÈO
+NGHÉ	[NGHÉ]	NGH É
+NGHÊ	[NGHÊ]	NGH Ê
+NGHÊNH	[NGHÊNH]	NGH Ê NH
+NGHÊU	[NGHÊU]	NGH ÊU
+NGHÌN	[NGHÌN]	NGH Ì N
+NGHĨ	[NGHĨ]	NGH Ĩ
+NGHĨA	[NGHĨA]	NGH ĨA
+NGHĨNH	[NGHĨNH]	NGH Ĩ NH
+NGHẸN	[NGHẸN]	NGH Ẹ N
+NGHẸO	[NGHẸO]	NGH ẸO
+NGHẸT	[NGHẸT]	NGH Ẹ T
+NGHẺO	[NGHẺO]	NGH ẺO
+NGHẼN	[NGHẼN]	NGH Ẽ N
+NGHẾCH	[NGHẾCH]	NGH Ế CH
+NGHỀ	[NGHỀ]	NGH Ề
+NGHỆ	[NGHỆ]	NGH Ệ
+NGHỈ	[NGHỈ]	NGH Ỉ
+NGHỈU	[NGHỈU]	NGH ỈU
+NGHỊ	[NGHỊ]	NGH Ị
+NGHỊCH	[NGHỊCH]	NGH Ị CH
+NGOA	[NGOA]	NG OA
+NGOAN	[NGOAN]	NG OA N
+NGOANG	[NGOANG]	NG OA NG
+NGOAY	[NGOAY]	NG OAY
+NGOE	[NGOE]	NG OE
+NGOI	[NGOI]	NG OI
+NGON	[NGON]	NG O N
+NGOÀI	[NGOÀI]	NG OÀI
+NGOÀM	[NGOÀM]	NG OÀ M
+NGOÁC	[NGOÁC]	NG OÁ C
+NGOÁCH	[NGOÁCH]	NG OÁ CH
+NGOÁI	[NGOÁI]	NG OÁI
+NGOÁO	[NGOÁO]	NG OÁO
+NGOÁY	[NGOÁY]	NG OÁY
+NGOÃN	[NGOÃN]	NG OÃ N
+NGOÈO	[NGOÈO]	NG OÈO
+NGOÉO	[NGOÉO]	NG OÉO
+NGOẠI	[NGOẠI]	NG OẠI
+NGOẠN	[NGOẠN]	NG OẠ N
+NGOẢNH	[NGOẢNH]	NG OẢ NH
+NGOẮC	[NGOẮC]	NG OẮ C
+NGOẮT	[NGOẮT]	NG OẮ T
+NGOẰN	[NGOẰN]	NG OẰ N
+NGOẰNG	[NGOẰNG]	NG OẰ NG
+NGOẴNG	[NGOẴNG]	NG OẴ NG
+NGOẶC	[NGOẶC]	NG OẶ C
+NGOẶT	[NGOẶT]	NG OẶ T
+NGU	[NGU]	NG U
+NGUY	[NGUY]	NG UY
+NGUYÊN	[NGUYÊN]	NG UYÊ N
+NGUYỀN	[NGUYỀN]	NG UYỀ N
+NGUYỄN	[NGUYỄN]	NG UYỄ N
+NGUYỆN	[NGUYỆN]	NG UYỆ N
+NGUYỆT	[NGUYỆT]	NG UYỆ T
+NGUẨY	[NGUẨY]	NG UẨY
+NGUỒI	[NGUỒI]	NG UỒI
+NGUỒN	[NGUỒN]	NG UỒ N
+NGUỘI	[NGUỘI]	NG UỘI
+NGÀ	[NGÀ]	NG À
+NGÀI	[NGÀI]	NG ÀI
+NGÀM	[NGÀM]	NG À M
+NGÀN	[NGÀN]	NG À N
+NGÀNG	[NGÀNG]	NG À NG
+NGÀNH	[NGÀNH]	NG À NH
+NGÀO	[NGÀO]	NG ÀO
+NGÀY	[NGÀY]	NG ÀY
+NGÁCH	[NGÁCH]	NG Á CH
+NGÁN	[NGÁN]	NG Á N
+NGÁNG	[NGÁNG]	NG Á NG
+NGÁO	[NGÁO]	NG ÁO
+NGÁP	[NGÁP]	NG Á P
+NGÁT	[NGÁT]	NG Á T
+NGÁU	[NGÁU]	NG ÁU
+NGÁY	[NGÁY]	NG ÁY
+NGÂM	[NGÂM]	NG Â M
+NGÂN	[NGÂN]	NG Â N
+NGÂY	[NGÂY]	NG ÂY
+NGÃ	[NGÃ]	NG Ã
+NGÃI	[NGÃI]	NG ÃI
+NGÍA	[NGÍA]	NG ÍA
+NGÒ	[NGÒ]	NG Ò
+NGÒI	[NGÒI]	NG ÒI
+NGÓ	[NGÓ]	NG Ó
+NGÓC	[NGÓC]	NG Ó C
+NGÓE	[NGÓE]	NG ÓE
+NGÓI	[NGÓI]	NG ÓI
+NGÓN	[NGÓN]	NG Ó N
+NGÓNG	[NGÓNG]	NG Ó NG
+NGÓT	[NGÓT]	NG Ó T
+NGÔ	[NGÔ]	NG Ô
+NGÔI	[NGÔI]	NG ÔI
+NGÔN	[NGÔN]	NG Ô N
+NGÔNG	[NGÔNG]	NG Ô NG
+NGÕ	[NGÕ]	NG Õ
+NGÙI	[NGÙI]	NG ÙI
+NGÚC	[NGÚC]	NG Ú C
+NGÚNG	[NGÚNG]	NG Ú NG
+NGÚT	[NGÚT]	NG Ú T
+NGĂN	[NGĂN]	NG Ă N
+NGŨ	[NGŨ]	NG Ũ
+NGƠ	[NGƠ]	NG Ơ
+NGƠI	[NGƠI]	NG ƠI
+NGƯ	[NGƯ]	NG Ư
+NGƯA	[NGƯA]	NG ƯA
+NGƯNG	[NGƯNG]	NG Ư NG
+NGƯU	[NGƯU]	NG ƯU
+NGƯƠI	[NGƯƠI]	NG ƯƠI
+NGƯỚC	[NGƯỚC]	NG ƯỚ C
+NGƯỜI	[NGƯỜI]	NG ƯỜI
+NGƯỞNG	[NGƯỞNG]	NG ƯỞ NG
+NGƯỠNG	[NGƯỠNG]	NG ƯỠ NG
+NGƯỢC	[NGƯỢC]	NG ƯỢ C
+NGƯỢNG	[NGƯỢNG]	NG ƯỢ NG
+NGẠC	[NGẠC]	NG Ạ C
+NGẠI	[NGẠI]	NG ẠI
+NGẠN	[NGẠN]	NG Ạ N
+NGẠO	[NGẠO]	NG ẠO
+NGẠT	[NGẠT]	NG Ạ T
+NGẢ	[NGẢ]	NG Ả
+NGẢI	[NGẢI]	NG ẢI
+NGẢNH	[NGẢNH]	NG Ả NH
+NGẤT	[NGẤT]	NG Ấ T
+NGẤU	[NGẤU]	NG ẤU
+NGẤY	[NGẤY]	NG ẤY
+NGẦM	[NGẦM]	NG Ầ M
+NGẦN	[NGẦN]	NG Ầ N
+NGẦY	[NGẦY]	NG ẦY
+NGẨM	[NGẨM]	NG Ẩ M
+NGẨN	[NGẨN]	NG Ẩ N
+NGẨNG	[NGẨNG]	NG Ẩ NG
+NGẪM	[NGẪM]	NG Ẫ M
+NGẪU	[NGẪU]	NG ẪU
+NGẬM	[NGẬM]	NG Ậ M
+NGẬP	[NGẬP]	NG Ậ P
+NGẬU	[NGẬU]	NG ẬU
+NGẬY	[NGẬY]	NG ẬY
+NGẮC	[NGẮC]	NG Ắ C
+NGẮM	[NGẮM]	NG Ắ M
+NGẮN	[NGẮN]	NG Ắ N
+NGẮT	[NGẮT]	NG Ắ T
+NGẴNG	[NGẴNG]	NG Ẵ NG
+NGẶT	[NGẶT]	NG Ặ T
+NGỌ	[NGỌ]	NG Ọ
+NGỌC	[NGỌC]	NG Ọ C
+NGỌN	[NGỌN]	NG Ọ N
+NGỌNG	[NGỌNG]	NG Ọ NG
+NGỌT	[NGỌT]	NG Ọ T
+NGỎ	[NGỎ]	NG Ỏ
+NGỐC	[NGỐC]	NG Ố C
+NGỒI	[NGỒI]	NG ỒI
+NGỒM	[NGỒM]	NG Ồ M
+NGỒN	[NGỒN]	NG Ồ N
+NGỔ	[NGỔ]	NG Ổ
+NGỔM	[NGỔM]	NG Ổ M
+NGỖ	[NGỖ]	NG Ỗ
+NGỘ	[NGỘ]	NG Ộ
+NGỘN	[NGỘN]	NG Ộ N
+NGỘT	[NGỘT]	NG Ộ T
+NGỚN	[NGỚN]	NG Ớ N
+NGỚT	[NGỚT]	NG Ớ T
+NGỜ	[NGỜ]	NG Ờ
+NGỠ	[NGỠ]	NG Ỡ
+NGỢ	[NGỢ]	NG Ợ
+NGỢI	[NGỢI]	NG ỢI
+NGỢM	[NGỢM]	NG Ợ M
+NGỢP	[NGỢP]	NG Ợ P
+NGỤ	[NGỤ]	NG Ụ
+NGỤA	[NGỤA]	NG ỤA
+NGỤC	[NGỤC]	NG Ụ C
+NGỤM	[NGỤM]	NG Ụ M
+NGỤP	[NGỤP]	NG Ụ P
+NGỦ	[NGỦ]	NG Ủ
+NGỦI	[NGỦI]	NG ỦI
+NGỦN	[NGỦN]	NG Ủ N
+NGỨ	[NGỨ]	NG Ứ
+NGỨA	[NGỨA]	NG ỨA
+NGỪA	[NGỪA]	NG ỪA
+NGỪNG	[NGỪNG]	NG Ừ NG
+NGỬI	[NGỬI]	NG ỬI
+NGỬNG	[NGỬNG]	NG Ử NG
+NGỮ	[NGỮ]	NG Ữ
+NGỰ	[NGỰ]	NG Ự
+NGỰA	[NGỰA]	NG ỰA
+NGỰC	[NGỰC]	NG Ự C
+NHA	[NHA]	NH A
+NHAI	[NHAI]	NH AI
+NHAM	[NHAM]	NH A M
+NHAN	[NHAN]	NH A N
+NHANG	[NHANG]	NH A NG
+NHANH	[NHANH]	NH A NH
+NHAO	[NHAO]	NH AO
+NHAU	[NHAU]	NH AU
+NHAY	[NHAY]	NH AY
+NHE	[NHE]	NH E
+NHEM	[NHEM]	NH E M
+NHEN	[NHEN]	NH E N
+NHEO	[NHEO]	NH EO
+NHI	[NHI]	NH I
+NHIÊN	[NHIÊN]	NH IÊ N
+NHIÊU	[NHIÊU]	NH IÊU
+NHIẾC	[NHIẾC]	NH IẾ C
+NHIẾP	[NHIẾP]	NH IẾ P
+NHIỀU	[NHIỀU]	NH IỀU
+NHIỄM	[NHIỄM]	NH IỄ M
+NHIỄU	[NHIỄU]	NH IỄU
+NHIỆM	[NHIỆM]	NH IỆ M
+NHIỆT	[NHIỆT]	NH IỆ T
+NHO	[NHO]	NH O
+NHOAI	[NHOAI]	NH OAI
+NHOE	[NHOE]	NH OE
+NHOEN	[NHOEN]	NH OE N
+NHOM	[NHOM]	NH O M
+NHONG	[NHONG]	NH O NG
+NHOÀI	[NHOÀI]	NH OÀI
+NHOÁNG	[NHOÁNG]	NH OÁ NG
+NHOÉT	[NHOÉT]	NH OÉ T
+NHOẺN	[NHOẺN]	NH OẺ N
+NHU	[NHU]	NH U
+NHUNG	[NHUNG]	NH U NG
+NHUYỄN	[NHUYỄN]	NH UYỄ N
+NHUẦN	[NHUẦN]	NH UẦ N
+NHUẬN	[NHUẬN]	NH UẬ N
+NHUỆ	[NHUỆ]	NH UỆ
+NHUỐM	[NHUỐM]	NH UỐ M
+NHUỘM	[NHUỘM]	NH UỘ M
+NHÀ	[NHÀ]	NH À
+NHÀI	[NHÀI]	NH ÀI
+NHÀM	[NHÀM]	NH À M
+NHÀN	[NHÀN]	NH À N
+NHÀNG	[NHÀNG]	NH À NG
+NHÀNH	[NHÀNH]	NH À NH
+NHÀO	[NHÀO]	NH ÀO
+NHÀU	[NHÀU]	NH ÀU
+NHÁ	[NHÁ]	NH Á
+NHÁC	[NHÁC]	NH Á C
+NHÁNG	[NHÁNG]	NH Á NG
+NHÁNH	[NHÁNH]	NH Á NH
+NHÁO	[NHÁO]	NH ÁO
+NHÁT	[NHÁT]	NH Á T
+NHÁY	[NHÁY]	NH ÁY
+NHÂM	[NHÂM]	NH Â M
+NHÂN	[NHÂN]	NH Â N
+NHÃ	[NHÃ]	NH Ã
+NHÃI	[NHÃI]	NH ÃI
+NHÃN	[NHÃN]	NH Ã N
+NHÃO	[NHÃO]	NH ÃO
+NHÈ	[NHÈ]	NH È
+NHÈM	[NHÈM]	NH È M
+NHÉ	[NHÉ]	NH É
+NHÉP	[NHÉP]	NH É P
+NHÉT	[NHÉT]	NH É T
+NHÌ	[NHÌ]	NH Ì
+NHÌN	[NHÌN]	NH Ì N
+NHÍ	[NHÍ]	NH Í
+NHÍCH	[NHÍCH]	NH Í CH
+NHÍM	[NHÍM]	NH Í M
+NHÍT	[NHÍT]	NH Í T
+NHÍU	[NHÍU]	NH ÍU
+NHÒE	[NHÒE]	NH ÒE
+NHÒM	[NHÒM]	NH Ò M
+NHÓC	[NHÓC]	NH Ó C
+NHÓI	[NHÓI]	NH ÓI
+NHÓM	[NHÓM]	NH Ó M
+NHÓNG	[NHÓNG]	NH Ó NG
+NHÓP	[NHÓP]	NH Ó P
+NHÓT	[NHÓT]	NH Ó T
+NHÔ	[NHÔ]	NH Ô
+NHÔM	[NHÔM]	NH Ô M
+NHÔN	[NHÔN]	NH Ô N
+NHÔNG	[NHÔNG]	NH Ô NG
+NHÕ	[NHÕ]	NH Õ
+NHÕM	[NHÕM]	NH Õ M
+NHÕN	[NHÕN]	NH Õ N
+NHÕNG	[NHÕNG]	NH Õ NG
+NHÙ	[NHÙ]	NH Ù
+NHÙI	[NHÙI]	NH ÙI
+NHÙNG	[NHÙNG]	NH Ù NG
+NHÚ	[NHÚ]	NH Ú
+NHÚA	[NHÚA]	NH ÚA
+NHÚC	[NHÚC]	NH Ú C
+NHÚN	[NHÚN]	NH Ú N
+NHÚNG	[NHÚNG]	NH Ú NG
+NHÚT	[NHÚT]	NH Ú T
+NHĂM	[NHĂM]	NH Ă M
+NHĂN	[NHĂN]	NH Ă N
+NHĂNG	[NHĂNG]	NH Ă NG
+NHĨ	[NHĨ]	NH Ĩ
+NHŨ	[NHŨ]	NH Ũ
+NHŨNG	[NHŨNG]	NH Ũ NG
+NHƠI	[NHƠI]	NH ƠI
+NHƠN	[NHƠN]	NH Ơ N
+NHƯ	[NHƯ]	NH Ư
+NHƯNG	[NHƯNG]	NH Ư NG
+NHƯỚNG	[NHƯỚNG]	NH ƯỚ NG
+NHƯỜNG	[NHƯỜNG]	NH ƯỜ NG
+NHƯỠNG	[NHƯỠNG]	NH ƯỠ NG
+NHƯỢC	[NHƯỢC]	NH ƯỢ C
+NHƯỢNG	[NHƯỢNG]	NH ƯỢ NG
+NHẠC	[NHẠC]	NH Ạ C
+NHẠI	[NHẠI]	NH ẠI
+NHẠNH	[NHẠNH]	NH Ạ NH
+NHẠO	[NHẠO]	NH ẠO
+NHẠT	[NHẠT]	NH Ạ T
+NHẠY	[NHẠY]	NH ẠY
+NHẢ	[NHẢ]	NH Ả
+NHẢI	[NHẢI]	NH ẢI
+NHẢM	[NHẢM]	NH Ả M
+NHẢNH	[NHẢNH]	NH Ả NH
+NHẢY	[NHẢY]	NH ẢY
+NHẤC	[NHẤC]	NH Ấ C
+NHẤM	[NHẤM]	NH Ấ M
+NHẤN	[NHẤN]	NH Ấ N
+NHẤP	[NHẤP]	NH Ấ P
+NHẤT	[NHẤT]	NH Ấ T
+NHẦM	[NHẦM]	NH Ầ M
+NHẦY	[NHẦY]	NH ẦY
+NHẨM	[NHẨM]	NH Ẩ M
+NHẪN	[NHẪN]	NH Ẫ N
+NHẪY	[NHẪY]	NH ẪY
+NHẬM	[NHẬM]	NH Ậ M
+NHẬN	[NHẬN]	NH Ậ N
+NHẬP	[NHẬP]	NH Ậ P
+NHẬT	[NHẬT]	NH Ậ T
+NHẬU	[NHẬU]	NH ẬU
+NHẮC	[NHẮC]	NH Ắ C
+NHẮM	[NHẮM]	NH Ắ M
+NHẮN	[NHẮN]	NH Ắ N
+NHẮT	[NHẮT]	NH Ắ T
+NHẰM	[NHẰM]	NH Ằ M
+NHẰN	[NHẰN]	NH Ằ N
+NHẰNG	[NHẰNG]	NH Ằ NG
+NHẴN	[NHẴN]	NH Ẵ N
+NHẶM	[NHẶM]	NH Ặ M
+NHẶNG	[NHẶNG]	NH Ặ NG
+NHẶT	[NHẶT]	NH Ặ T
+NHẸ	[NHẸ]	NH Ẹ
+NHẸM	[NHẸM]	NH Ẹ M
+NHẸP	[NHẸP]	NH Ẹ P
+NHẺM	[NHẺM]	NH Ẻ M
+NHẼO	[NHẼO]	NH ẼO
+NHẾCH	[NHẾCH]	NH Ế CH
+NHỆN	[NHỆN]	NH Ệ N
+NHỆU	[NHỆU]	NH ỆU
+NHỈ	[NHỈ]	NH Ỉ
+NHỈNH	[NHỈNH]	NH Ỉ NH
+NHỊ	[NHỊ]	NH Ị
+NHỊN	[NHỊN]	NH Ị N
+NHỊP	[NHỊP]	NH Ị P
+NHỌC	[NHỌC]	NH Ọ C
+NHỌN	[NHỌN]	NH Ọ N
+NHỌT	[NHỌT]	NH Ọ T
+NHỎ	[NHỎ]	NH Ỏ
+NHỎM	[NHỎM]	NH Ỏ M
+NHỐ	[NHỐ]	NH Ố
+NHỐI	[NHỐI]	NH ỐI
+NHỐT	[NHỐT]	NH Ố T
+NHỒI	[NHỒI]	NH ỒI
+NHỒN	[NHỒN]	NH Ồ N
+NHỔM	[NHỔM]	NH Ổ M
+NHỔN	[NHỔN]	NH Ổ N
+NHỘN	[NHỘN]	NH Ộ N
+NHỘT	[NHỘT]	NH Ộ T
+NHỚ	[NHỚ]	NH Ớ
+NHỚP	[NHỚP]	NH Ớ P
+NHỜ	[NHỜ]	NH Ờ
+NHỜN	[NHỜN]	NH Ờ N
+NHỞ	[NHỞ]	NH Ở
+NHỢT	[NHỢT]	NH Ợ T
+NHỤA	[NHỤA]	NH ỤA
+NHỤC	[NHỤC]	NH Ụ C
+NHỤY	[NHỤY]	NH ỤY
+NHỦ	[NHỦ]	NH Ủ
+NHỦN	[NHỦN]	NH Ủ N
+NHỨ	[NHỨ]	NH Ứ
+NHỨC	[NHỨC]	NH Ứ C
+NHỮNG	[NHỮNG]	NH Ữ NG
+NHỰA	[NHỰA]	NH ỰA
+NHỰT	[NHỰT]	NH Ự T
+NI	[NI]	N I
+NIA	[NIA]	N IA
+NIN	[NIN]	N I N
+NINH	[NINH]	N I NH
+NIU	[NIU]	N IU
+NIÊM	[NIÊM]	N IÊ M
+NIÊN	[NIÊN]	N IÊ N
+NIÊU	[NIÊU]	N IÊU
+NIẾT	[NIẾT]	N IẾ T
+NIỀM	[NIỀM]	N IỀ M
+NIỀNG	[NIỀNG]	N IỀ NG
+NIỆM	[NIỆM]	N IỆ M
+NIỆU	[NIỆU]	N IỆU
+NO	[NO]	N O
+NOM	[NOM]	N O M
+NON	[NON]	N O N
+NONG	[NONG]	N O NG
+NUA	[NUA]	N UA
+NUNG	[NUNG]	N U NG
+NUÔI	[NUÔI]	N UÔI
+NUÔNG	[NUÔNG]	N UÔ NG
+NUỐI	[NUỐI]	N UỐI
+NUỐT	[NUỐT]	N UỐ T
+NÀ	[NÀ]	N À
+NÀN	[NÀN]	N À N
+NÀNG	[NÀNG]	N À NG
+NÀNH	[NÀNH]	N À NH
+NÀO	[NÀO]	N ÀO
+NÀY	[NÀY]	N ÀY
+NÁ	[NÁ]	N Á
+NÁCH	[NÁCH]	N Á CH
+NÁM	[NÁM]	N Á M
+NÁN	[NÁN]	N Á N
+NÁO	[NÁO]	N ÁO
+NÁT	[NÁT]	N Á T
+NÁU	[NÁU]	N ÁU
+NÁY	[NÁY]	N ÁY
+NÂNG	[NÂNG]	N Â NG
+NÂU	[NÂU]	N ÂU
+NÂY	[NÂY]	N ÂY
+NÃO	[NÃO]	N ÃO
+NÃY	[NÃY]	N ÃY
+NÈ	[NÈ]	N È
+NÈO	[NÈO]	N ÈO
+NÉ	[NÉ]	N É
+NÉM	[NÉM]	N É M
+NÉN	[NÉN]	N É N
+NÉO	[NÉO]	N ÉO
+NÉP	[NÉP]	N É P
+NÉT	[NÉT]	N É T
+NÊ	[NÊ]	N Ê
+NÊM	[NÊM]	N Ê M
+NÊN	[NÊN]	N Ê N
+NÊU	[NÊU]	N ÊU
+NÌ	[NÌ]	N Ì
+NÌNH	[NÌNH]	N Ì NH
+NÍCH	[NÍCH]	N Í CH
+NÍN	[NÍN]	N Í N
+NÍNH	[NÍNH]	N Í NH
+NÍT	[NÍT]	N Í T
+NÍU	[NÍU]	N ÍU
+NÓ	[NÓ]	N Ó
+NÓC	[NÓC]	N Ó C
+NÓI	[NÓI]	N ÓI
+NÓN	[NÓN]	N Ó N
+NÓNG	[NÓNG]	N Ó NG
+NÓT	[NÓT]	N Ó T
+NÔ	[NÔ]	N Ô
+NÔI	[NÔI]	N ÔI
+NÔM	[NÔM]	N Ô M
+NÔN	[NÔN]	N Ô N
+NÔNG	[NÔNG]	N Ô NG
+NÕN	[NÕN]	N Õ N
+NÙN	[NÙN]	N Ù N
+NÙNG	[NÙNG]	N Ù NG
+NÚC	[NÚC]	N Ú C
+NÚI	[NÚI]	N ÚI
+NÚM	[NÚM]	N Ú M
+NÚNG	[NÚNG]	N Ú NG
+NÚP	[NÚP]	N Ú P
+NÚT	[NÚT]	N Ú T
+NĂM	[NĂM]	N Ă M
+NĂN	[NĂN]	N Ă N
+NĂNG	[NĂNG]	N Ă NG
+NĨA	[NĨA]	N ĨA
+NŨNG	[NŨNG]	N Ũ NG
+NƠI	[NƠI]	N ƠI
+NƠM	[NƠM]	N Ơ M
+NƯ	[NƯ]	N Ư
+NƯƠNG	[NƯƠNG]	N ƯƠ NG
+NƯỚC	[NƯỚC]	N ƯỚ C
+NƯỚNG	[NƯỚNG]	N ƯỚ NG
+NẠ	[NẠ]	N Ạ
+NẠC	[NẠC]	N Ạ C
+NẠI	[NẠI]	N ẠI
+NẠN	[NẠN]	N Ạ N
+NẠNH	[NẠNH]	N Ạ NH
+NẠO	[NẠO]	N ẠO
+NẠP	[NẠP]	N Ạ P
+NẠT	[NẠT]	N Ạ T
+NẢ	[NẢ]	N Ả
+NẢN	[NẢN]	N Ả N
+NẢY	[NẢY]	N ẢY
+NẤC	[NẤC]	N Ấ C
+NẤM	[NẤM]	N Ấ M
+NẤNG	[NẤNG]	N Ấ NG
+NẤU	[NẤU]	N ẤU
+NẤY	[NẤY]	N ẤY
+NẦN	[NẦN]	N Ầ N
+NẦY	[NẦY]	N ẦY
+NẬM	[NẬM]	N Ậ M
+NẬP	[NẬP]	N Ậ P
+NẬU	[NẬU]	N ẬU
+NẮC	[NẮC]	N Ắ C
+NẮM	[NẮM]	N Ắ M
+NẮN	[NẮN]	N Ắ N
+NẮNG	[NẮNG]	N Ắ NG
+NẮP	[NẮP]	N Ắ P
+NẰM	[NẰM]	N Ằ M
+NẰN	[NẰN]	N Ằ N
+NẰNG	[NẰNG]	N Ằ NG
+NẴNG	[NẴNG]	N Ẵ NG
+NẶC	[NẶC]	N Ặ C
+NẶNG	[NẶNG]	N Ặ NG
+NẸP	[NẸP]	N Ẹ P
+NẺ	[NẺ]	N Ẻ
+NẺO	[NẺO]	N ẺO
+NẾM	[NẾM]	N Ế M
+NẾN	[NẾN]	N Ế N
+NẾP	[NẾP]	N Ế P
+NẾT	[NẾT]	N Ế T
+NẾU	[NẾU]	N ẾU
+NỀ	[NỀ]	N Ề
+NỀN	[NỀN]	N Ề N
+NỂ	[NỂ]	N Ể
+NỆ	[NỆ]	N Ệ
+NỆM	[NỆM]	N Ệ M
+NỈ	[NỈ]	N Ỉ
+NỊCH	[NỊCH]	N Ị CH
+NỊNH	[NỊNH]	N Ị NH
+NỊU	[NỊU]	N ỊU
+NỌ	[NỌ]	N Ọ
+NỌC	[NỌC]	N Ọ C
+NỌNG	[NỌNG]	N Ọ NG
+NỌT	[NỌT]	N Ọ T
+NỎ	[NỎ]	N Ỏ
+NỐ	[NỐ]	N Ố
+NỐC	[NỐC]	N Ố C
+NỐI	[NỐI]	N ỐI
+NỐNG	[NỐNG]	N Ố NG
+NỐT	[NỐT]	N Ố T
+NỒ	[NỒ]	N Ồ
+NỒI	[NỒI]	N ỒI
+NỒM	[NỒM]	N Ồ M
+NỒNG	[NỒNG]	N Ồ NG
+NỔ	[NỔ]	N Ổ
+NỔI	[NỔI]	N ỔI
+NỖ	[NỖ]	N Ỗ
+NỖI	[NỖI]	N ỖI
+NỘ	[NỘ]	N Ộ
+NỘC	[NỘC]	N Ộ C
+NỘI	[NỘI]	N ỘI
+NỘN	[NỘN]	N Ộ N
+NỘP	[NỘP]	N Ộ P
+NỚ	[NỚ]	N Ớ
+NỚI	[NỚI]	N ỚI
+NỚP	[NỚP]	N Ớ P
+NỚT	[NỚT]	N Ớ T
+NỞ	[NỞ]	N Ở
+NỠ	[NỠ]	N Ỡ
+NỢ	[NỢ]	N Ợ
+NỤ	[NỤ]	N Ụ
+NỨC	[NỨC]	N Ứ C
+NỨT	[NỨT]	N Ứ T
+NỬA	[NỬA]	N ỬA
+NỮ	[NỮ]	N Ữ
+NỮA	[NỮA]	N ỮA
+NỰ	[NỰ]	N Ự
+NỰC	[NỰC]	N Ự C
+O	[O]	O
+OAI	[OAI]	OAI
+OAN	[OAN]	OA N
+OANH	[OANH]	OA NH
+OE	[OE]	OE
+OI	[OI]	OI
+OM	[OM]	O M
+ONG	[ONG]	O NG
+OÀNH	[OÀNH]	OÀ NH
+OÁCH	[OÁCH]	OÁ CH
+OÁI	[OÁI]	OÁI
+OÁN	[OÁN]	OÁ N
+OĂM	[OĂM]	OĂ M
+OẠP	[OẠP]	OẠ P
+OẢI	[OẢI]	OẢI
+OẮT	[OẮT]	OẮ T
+OẰN	[OẰN]	OẰ N
+PA	[PA]	P A
+PHA	[PHA]	PH A
+PHAN	[PHAN]	PH A N
+PHANH	[PHANH]	PH A NH
+PHAO	[PHAO]	PH AO
+PHE	[PHE]	PH E
+PHI	[PHI]	PH I
+PHIM	[PHIM]	PH I M
+PHIÊN	[PHIÊN]	PH IÊ N
+PHIÊU	[PHIÊU]	PH IÊU
+PHIẾM	[PHIẾM]	PH IẾ M
+PHIẾT	[PHIẾT]	PH IẾ T
+PHIẾU	[PHIẾU]	PH IẾU
+PHIỀN	[PHIỀN]	PH IỀ N
+PHIỆN	[PHIỆN]	PH IỆ N
+PHO	[PHO]	PH O
+PHONG	[PHONG]	PH O NG
+PHU	[PHU]	PH U
+PHUN	[PHUN]	PH U N
+PHUNG	[PHUNG]	PH U NG
+PHUY	[PHUY]	PH UY
+PHÀM	[PHÀM]	PH À M
+PHÀN	[PHÀN]	PH À N
+PHÀO	[PHÀO]	PH ÀO
+PHÁ	[PHÁ]	PH Á
+PHÁC	[PHÁC]	PH Á C
+PHÁCH	[PHÁCH]	PH Á CH
+PHÁI	[PHÁI]	PH ÁI
+PHÁN	[PHÁN]	PH Á N
+PHÁO	[PHÁO]	PH ÁO
+PHÁP	[PHÁP]	PH Á P
+PHÁT	[PHÁT]	PH Á T
+PHÂN	[PHÂN]	PH Â N
+PHÂY	[PHÂY]	PH ÂY
+PHÈ	[PHÈ]	PH È
+PHÈN	[PHÈN]	PH È N
+PHÈO	[PHÈO]	PH ÈO
+PHÉNG	[PHÉNG]	PH É NG
+PHÉP	[PHÉP]	PH É P
+PHÉT	[PHÉT]	PH É T
+PHÊ	[PHÊ]	PH Ê
+PHÌ	[PHÌ]	PH Ì
+PHÌNH	[PHÌNH]	PH Ì NH
+PHÍ	[PHÍ]	PH Í
+PHÍA	[PHÍA]	PH ÍA
+PHÍCH	[PHÍCH]	PH Í CH
+PHÍM	[PHÍM]	PH Í M
+PHÍNH	[PHÍNH]	PH Í NH
+PHÒ	[PHÒ]	PH Ò
+PHÒI	[PHÒI]	PH ÒI
+PHÒNG	[PHÒNG]	PH Ò NG
+PHÓ	[PHÓ]	PH Ó
+PHÓC	[PHÓC]	PH Ó C
+PHÓNG	[PHÓNG]	PH Ó NG
+PHÓT	[PHÓT]	PH Ó T
+PHÔ	[PHÔ]	PH Ô
+PHÙ	[PHÙ]	PH Ù
+PHÙNG	[PHÙNG]	PH Ù NG
+PHÚ	[PHÚ]	PH Ú
+PHÚC	[PHÚC]	PH Ú C
+PHÚNG	[PHÚNG]	PH Ú NG
+PHÚT	[PHÚT]	PH Ú T
+PHĂNG	[PHĂNG]	PH Ă NG
+PHĨNH	[PHĨNH]	PH Ĩ NH
+PHƠ	[PHƠ]	PH Ơ
+PHƠI	[PHƠI]	PH ƠI
+PHƠN	[PHƠN]	PH Ơ N
+PHƯƠNG	[PHƯƠNG]	PH ƯƠ NG
+PHƯỚC	[PHƯỚC]	PH ƯỚ C
+PHƯỚN	[PHƯỚN]	PH ƯỚ N
+PHƯỜNG	[PHƯỜNG]	PH ƯỜ NG
+PHƯỢNG	[PHƯỢNG]	PH ƯỢ NG
+PHẠC	[PHẠC]	PH Ạ C
+PHẠM	[PHẠM]	PH Ạ M
+PHẠNG	[PHẠNG]	PH Ạ NG
+PHẠT	[PHẠT]	PH Ạ T
+PHẢ	[PHẢ]	PH Ả
+PHẢI	[PHẢI]	PH ẢI
+PHẢN	[PHẢN]	PH Ả N
+PHẢY	[PHẢY]	PH ẢY
+PHẤN	[PHẤN]	PH Ấ N
+PHẤT	[PHẤT]	PH Ấ T
+PHẦM	[PHẦM]	PH Ầ M
+PHẦN	[PHẦN]	PH Ầ N
+PHẨM	[PHẨM]	PH Ẩ M
+PHẨY	[PHẨY]	PH ẨY
+PHẪN	[PHẪN]	PH Ẫ N
+PHẪU	[PHẪU]	PH ẪU
+PHẬN	[PHẬN]	PH Ậ N
+PHẬT	[PHẬT]	PH Ậ T
+PHẮC	[PHẮC]	PH Ắ C
+PHẲNG	[PHẲNG]	PH Ẳ NG
+PHẾ	[PHẾ]	PH Ế
+PHẾCH	[PHẾCH]	PH Ế CH
+PHẾT	[PHẾT]	PH Ế T
+PHỀ	[PHỀ]	PH Ề
+PHỀU	[PHỀU]	PH ỀU
+PHỄU	[PHỄU]	PH ỄU
+PHỆ	[PHỆ]	PH Ệ
+PHỆNH	[PHỆNH]	PH Ệ NH
+PHỈ	[PHỈ]	PH Ỉ
+PHỈNH	[PHỈNH]	PH Ỉ NH
+PHỊCH	[PHỊCH]	PH Ị CH
+PHỌT	[PHỌT]	PH Ọ T
+PHỎNG	[PHỎNG]	PH Ỏ NG
+PHỐ	[PHỐ]	PH Ố
+PHỐC	[PHỐC]	PH Ố C
+PHỐI	[PHỐI]	PH ỐI
+PHỒM	[PHỒM]	PH Ồ M
+PHỒNG	[PHỒNG]	PH Ồ NG
+PHỔ	[PHỔ]	PH Ổ
+PHỔI	[PHỔI]	PH ỔI
+PHỔNG	[PHỔNG]	PH Ổ NG
+PHỖNG	[PHỖNG]	PH Ỗ NG
+PHỘNG	[PHỘNG]	PH Ộ NG
+PHỚI	[PHỚI]	PH ỚI
+PHỚT	[PHỚT]	PH Ớ T
+PHỜ	[PHỜ]	PH Ờ
+PHỞ	[PHỞ]	PH Ở
+PHỠN	[PHỠN]	PH Ỡ N
+PHỤ	[PHỤ]	PH Ụ
+PHỤC	[PHỤC]	PH Ụ C
+PHỤNG	[PHỤNG]	PH Ụ NG
+PHỦ	[PHỦ]	PH Ủ
+PHỦI	[PHỦI]	PH ỦI
+PHỨC	[PHỨC]	PH Ứ C
+PIN	[PIN]	P I N
+PIÊU	[PIÊU]	P IÊU
+PÍ	[PÍ]	P Í
+QUA	[QUA]	QU A
+QUAI	[QUAI]	QU AI
+QUAN	[QUAN]	QU A N
+QUANG	[QUANG]	QU A NG
+QUANH	[QUANH]	QU A NH
+QUAY	[QUAY]	QU AY
+QUE	[QUE]	QU E
+QUEN	[QUEN]	QU E N
+QUEO	[QUEO]	QU EO
+QUI	[QUI]	QU I
+QUOẠNG	[QUOẠNG]	QU OẠ NG
+QUY	[QUY]	QU Y
+QUYÊN	[QUYÊN]	QU YÊ N
+QUYẾN	[QUYẾN]	QU YẾ N
+QUYẾT	[QUYẾT]	QU YẾ T
+QUYỀN	[QUYỀN]	QU YỀ N
+QUYỂN	[QUYỂN]	QU YỂ N
+QUYỆN	[QUYỆN]	QU YỆ N
+QUYỆT	[QUYỆT]	QU YỆ T
+QUÀ	[QUÀ]	QU À
+QUÀI	[QUÀI]	QU ÀI
+QUÀNG	[QUÀNG]	QU À NG
+QUÀY	[QUÀY]	QU ÀY
+QUÁ	[QUÁ]	QU Á
+QUÁC	[QUÁC]	QU Á C
+QUÁCH	[QUÁCH]	QU Á CH
+QUÁI	[QUÁI]	QU ÁI
+QUÁN	[QUÁN]	QU Á N
+QUÁNG	[QUÁNG]	QU Á NG
+QUÁNH	[QUÁNH]	QU Á NH
+QUÁT	[QUÁT]	QU Á T
+QUÂN	[QUÂN]	QU Â N
+QUÂY	[QUÂY]	QU ÂY
+QUÃNG	[QUÃNG]	QU Ã NG
+QUÈ	[QUÈ]	QU È
+QUÈN	[QUÈN]	QU È N
+QUÉT	[QUÉT]	QU É T
+QUÊ	[QUÊ]	QU Ê
+QUÊN	[QUÊN]	QU Ê N
+QUÌ	[QUÌ]	QU Ì
+QUÍ	[QUÍ]	QU Í
+QUÍT	[QUÍT]	QU Í T
+QUÝ	[QUÝ]	QU Ý
+QUÝNH	[QUÝNH]	QU Ý NH
+QUÝT	[QUÝT]	QU Ý T
+QUĂM	[QUĂM]	QU Ă M
+QUĂNG	[QUĂNG]	QU Ă NG
+QUĨ	[QUĨ]	QU Ĩ
+QUẠC	[QUẠC]	QU Ạ C
+QUẠCH	[QUẠCH]	QU Ạ CH
+QUẠI	[QUẠI]	QU ẠI
+QUẠNG	[QUẠNG]	QU Ạ NG
+QUẠNH	[QUẠNH]	QU Ạ NH
+QUẠT	[QUẠT]	QU Ạ T
+QUẢ	[QUẢ]	QU Ả
+QUẢI	[QUẢI]	QU ẢI
+QUẢN	[QUẢN]	QU Ả N
+QUẢNG	[QUẢNG]	QU Ả NG
+QUẢY	[QUẢY]	QU ẢY
+QUẤN	[QUẤN]	QU Ấ N
+QUẤT	[QUẤT]	QU Ấ T
+QUẤY	[QUẤY]	QU ẤY
+QUẦN	[QUẦN]	QU Ầ N
+QUẦNG	[QUẦNG]	QU Ầ NG
+QUẦY	[QUẦY]	QU ẦY
+QUẨN	[QUẨN]	QU Ẩ N
+QUẪN	[QUẪN]	QU Ẫ N
+QUẪY	[QUẪY]	QU ẪY
+QUẬN	[QUẬN]	QU Ậ N
+QUẬT	[QUẬT]	QU Ậ T
+QUẬY	[QUẬY]	QU ẬY
+QUẮC	[QUẮC]	QU Ắ C
+QUẮN	[QUẮN]	QU Ắ N
+QUẰN	[QUẰN]	QU Ằ N
+QUẲNG	[QUẲNG]	QU Ẳ NG
+QUẶC	[QUẶC]	QU Ặ C
+QUẶM	[QUẶM]	QU Ặ M
+QUẶN	[QUẶN]	QU Ặ N
+QUẶT	[QUẶT]	QU Ặ T
+QUẸO	[QUẸO]	QU ẸO
+QUẾ	[QUẾ]	QU Ế
+QUẾT	[QUẾT]	QU Ế T
+QUỀNH	[QUỀNH]	QU Ề NH
+QUỆ	[QUỆ]	QU Ệ
+QUỆNH	[QUỆNH]	QU Ệ NH
+QUỈ	[QUỈ]	QU Ỉ
+QUỊ	[QUỊ]	QU Ị
+QUỐC	[QUỐC]	QU Ố C
+QUỚI	[QUỚI]	QU ỚI
+QUỜ	[QUỜ]	QU Ờ
+QUỜN	[QUỜN]	QU Ờ N
+QUỲ	[QUỲ]	QU Ỳ
+QUỲNH	[QUỲNH]	QU Ỳ NH
+QUỴ	[QUỴ]	QU Ỵ
+QUỴT	[QUỴT]	QU Ỵ T
+QUỶ	[QUỶ]	QU Ỷ
+QUỸ	[QUỸ]	QU Ỹ
+RA	[RA]	R A
+RAI	[RAI]	R AI
+RAM	[RAM]	R A M
+RAN	[RAN]	R A N
+RANG	[RANG]	R A NG
+RANH	[RANH]	R A NH
+RAO	[RAO]	R AO
+RAU	[RAU]	R AU
+RAY	[RAY]	R AY
+RE	[RE]	R E
+REN	[REN]	R E N
+REO	[REO]	R EO
+RI	[RI]	R I
+RIA	[RIA]	R IA
+RINH	[RINH]	R I NH
+RIU	[RIU]	R IU
+RIÊNG	[RIÊNG]	R IÊ NG
+RIÊU	[RIÊU]	R IÊU
+RIẾP	[RIẾP]	R IẾ P
+RIẾT	[RIẾT]	R IẾ T
+RIỆT	[RIỆT]	R IỆ T
+RO	[RO]	R O
+ROI	[ROI]	R OI
+ROM	[ROM]	R O M
+RONG	[RONG]	R O NG
+RU	[RU]	R U
+RUA	[RUA]	R UA
+RUN	[RUN]	R U N
+RUNG	[RUNG]	R U NG
+RUỐC	[RUỐC]	R UỐ C
+RUỒI	[RUỒI]	R UỒI
+RUỔI	[RUỔI]	R UỔI
+RUỖNG	[RUỖNG]	R UỖ NG
+RUỘNG	[RUỘNG]	R UỘ NG
+RUỘT	[RUỘT]	R UỘ T
+RÀ	[RÀ]	R À
+RÀNG	[RÀNG]	R À NG
+RÀNH	[RÀNH]	R À NH
+RÀO	[RÀO]	R ÀO
+RÀY	[RÀY]	R ÀY
+RÁC	[RÁC]	R Á C
+RÁCH	[RÁCH]	R Á CH
+RÁI	[RÁI]	R ÁI
+RÁN	[RÁN]	R Á N
+RÁNG	[RÁNG]	R Á NG
+RÁO	[RÁO]	R ÁO
+RÁP	[RÁP]	R Á P
+RÁT	[RÁT]	R Á T
+RÁY	[RÁY]	R ÁY
+RÂM	[RÂM]	R Â M
+RÂN	[RÂN]	R Â N
+RÂU	[RÂU]	R ÂU
+RÃ	[RÃ]	R Ã
+RÃI	[RÃI]	R ÃI
+RÃY	[RÃY]	R ÃY
+RÈM	[RÈM]	R È M
+RÈN	[RÈN]	R È N
+RÈO	[RÈO]	R ÈO
+RÉN	[RÉN]	R É N
+RÉO	[RÉO]	R ÉO
+RÉT	[RÉT]	R É T
+RÊ	[RÊ]	R Ê
+RÊN	[RÊN]	R Ê N
+RÊU	[RÊU]	R ÊU
+RÌ	[RÌ]	R Ì
+RÌA	[RÌA]	R ÌA
+RÌNH	[RÌNH]	R Ì NH
+RÍT	[RÍT]	R Í T
+RÍU	[RÍU]	R ÍU
+RÒI	[RÒI]	R ÒI
+RÒM	[RÒM]	R Ò M
+RÒNG	[RÒNG]	R Ò NG
+RÓ	[RÓ]	R Ó
+RÓC	[RÓC]	R Ó C
+RÓI	[RÓI]	R ÓI
+RÓN	[RÓN]	R Ó N
+RÓT	[RÓT]	R Ó T
+RÔ	[RÔ]	R Ô
+RÕ	[RÕ]	R Õ
+RÙA	[RÙA]	R ÙA
+RÙM	[RÙM]	R Ù M
+RÚ	[RÚ]	R Ú
+RÚC	[RÚC]	R Ú C
+RÚM	[RÚM]	R Ú M
+RÚNG	[RÚNG]	R Ú NG
+RÚT	[RÚT]	R Ú T
+RĂN	[RĂN]	R Ă N
+RĂNG	[RĂNG]	R Ă NG
+RĨ	[RĨ]	R Ĩ
+RŨ	[RŨ]	R Ũ
+RƠ	[RƠ]	R Ơ
+RƠI	[RƠI]	R ƠI
+RƠM	[RƠM]	R Ơ M
+RƠN	[RƠN]	R Ơ N
+RƯNG	[RƯNG]	R Ư NG
+RƯƠI	[RƯƠI]	R ƯƠI
+RƯỚC	[RƯỚC]	R ƯỚ C
+RƯỚI	[RƯỚI]	R ƯỚI
+RƯỚM	[RƯỚM]	R ƯỚ M
+RƯỜI	[RƯỜI]	R ƯỜI
+RƯỞI	[RƯỞI]	R ƯỞI
+RƯỠI	[RƯỠI]	R ƯỠI
+RƯỢI	[RƯỢI]	R ƯỢI
+RƯỢT	[RƯỢT]	R ƯỢ T
+RƯỢU	[RƯỢU]	R ƯỢU
+RẠ	[RẠ]	R Ạ
+RẠCH	[RẠCH]	R Ạ CH
+RẠN	[RẠN]	R Ạ N
+RẠNG	[RẠNG]	R Ạ NG
+RẠO	[RẠO]	R ẠO
+RẠP	[RẠP]	R Ạ P
+RẠT	[RẠT]	R Ạ T
+RẢ	[RẢ]	R Ả
+RẢI	[RẢI]	R ẢI
+RẢNH	[RẢNH]	R Ả NH
+RẢO	[RẢO]	R ẢO
+RẤN	[RẤN]	R Ấ N
+RẤP	[RẤP]	R Ấ P
+RẤT	[RẤT]	R Ấ T
+RẦM	[RẦM]	R Ầ M
+RẦN	[RẦN]	R Ầ N
+RẦU	[RẦU]	R ẦU
+RẦY	[RẦY]	R ẦY
+RẨY	[RẨY]	R ẨY
+RẪY	[RẪY]	R ẪY
+RẬN	[RẬN]	R Ậ N
+RẬP	[RẬP]	R Ậ P
+RẬT	[RẬT]	R Ậ T
+RẮC	[RẮC]	R Ắ C
+RẮM	[RẮM]	R Ắ M
+RẮN	[RẮN]	R Ắ N
+RẰM	[RẰM]	R Ằ M
+RẰNG	[RẰNG]	R Ằ NG
+RẶNG	[RẶNG]	R Ặ NG
+RẸO	[RẸO]	R ẸO
+RẸT	[RẸT]	R Ẹ T
+RẺ	[RẺ]	R Ẻ
+RẼ	[RẼ]	R Ẽ
+RẾ	[RẾ]	R Ế
+RẾN	[RẾN]	R Ế N
+RẾT	[RẾT]	R Ế T
+RỀ	[RỀ]	R Ề
+RỂ	[RỂ]	R Ể
+RỄ	[RỄ]	R Ễ
+RỆ	[RỆ]	R Ệ
+RỆT	[RỆT]	R Ệ T
+RỆU	[RỆU]	R ỆU
+RỈ	[RỈ]	R Ỉ
+RỈA	[RỈA]	R ỈA
+RỈNH	[RỈNH]	R Ỉ NH
+RỊA	[RỊA]	R ỊA
+RỊCH	[RỊCH]	R Ị CH
+RỊN	[RỊN]	R Ị N
+RỊT	[RỊT]	R Ị T
+RỌI	[RỌI]	R ỌI
+RỎI	[RỎI]	R ỎI
+RỐC	[RỐC]	R Ố C
+RỐI	[RỐI]	R ỐI
+RỐN	[RỐN]	R Ố N
+RỐNG	[RỐNG]	R Ố NG
+RỐP	[RỐP]	R Ố P
+RỐT	[RỐT]	R Ố T
+RỒ	[RỒ]	R Ồ
+RỒI	[RỒI]	R ỒI
+RỒNG	[RỒNG]	R Ồ NG
+RỔ	[RỔ]	R Ổ
+RỖI	[RỖI]	R ỖI
+RỖNG	[RỖNG]	R Ỗ NG
+RỘ	[RỘ]	R Ộ
+RỘC	[RỘC]	R Ộ C
+RỘN	[RỘN]	R Ộ N
+RỘNG	[RỘNG]	R Ộ NG
+RỘP	[RỘP]	R Ộ P
+RỚM	[RỚM]	R Ớ M
+RỚT	[RỚT]	R Ớ T
+RỜ	[RỜ]	R Ờ
+RỜI	[RỜI]	R ỜI
+RỜN	[RỜN]	R Ờ N
+RỠ	[RỠ]	R Ỡ
+RỠN	[RỠN]	R Ỡ N
+RỢ	[RỢ]	R Ợ
+RỢI	[RỢI]	R ỢI
+RỢN	[RỢN]	R Ợ N
+RỢP	[RỢP]	R Ợ P
+RỤC	[RỤC]	R Ụ C
+RỤNG	[RỤNG]	R Ụ NG
+RỦ	[RỦ]	R Ủ
+RỦA	[RỦA]	R ỦA
+RỦI	[RỦI]	R ỦI
+RỦNG	[RỦNG]	R Ủ NG
+RỨC	[RỨC]	R Ứ C
+RỨT	[RỨT]	R Ứ T
+RỪNG	[RỪNG]	R Ừ NG
+RỬA	[RỬA]	R ỬA
+RỮA	[RỮA]	R ỮA
+RỰA	[RỰA]	R ỰA
+RỰC	[RỰC]	R Ự C
+SA	[SA]	S A
+SAI	[SAI]	S AI
+SAM	[SAM]	S A M
+SAN	[SAN]	S A N
+SANG	[SANG]	S A NG
+SANH	[SANH]	S A NH
+SAO	[SAO]	S AO
+SAU	[SAU]	S AU
+SAY	[SAY]	S AY
+SE	[SE]	S E
+SEN	[SEN]	S E N
+SI	[SI]	S I
+SIM	[SIM]	S I M
+SINH	[SINH]	S I NH
+SIÊU	[SIÊU]	S IÊU
+SIẾT	[SIẾT]	S IẾ T
+SO	[SO]	S O
+SOI	[SOI]	S OI
+SON	[SON]	S O N
+SONG	[SONG]	S O NG
+SOÁT	[SOÁT]	S OÁ T
+SOẠN	[SOẠN]	S OẠ N
+SOẠNG	[SOẠNG]	S OẠ NG
+SOẠT	[SOẠT]	S OẠ T
+SU	[SU]	S U
+SUM	[SUM]	S U M
+SUN	[SUN]	S U N
+SUNG	[SUNG]	S U NG
+SUY	[SUY]	S UY
+SUYỂN	[SUYỂN]	S UYỂ N
+SUYỄN	[SUYỄN]	S UYỄ N
+SUÝT	[SUÝT]	S UÝ T
+SUẤT	[SUẤT]	S UẤ T
+SUỐI	[SUỐI]	S UỐI
+SUỐT	[SUỐT]	S UỐ T
+SÀ	[SÀ]	S À
+SÀI	[SÀI]	S ÀI
+SÀM	[SÀM]	S À M
+SÀN	[SÀN]	S À N
+SÀNG	[SÀNG]	S À NG
+SÀNH	[SÀNH]	S À NH
+SÀO	[SÀO]	S ÀO
+SÁ	[SÁ]	S Á
+SÁC	[SÁC]	S Á C
+SÁCH	[SÁCH]	S Á CH
+SÁI	[SÁI]	S ÁI
+SÁNG	[SÁNG]	S Á NG
+SÁNH	[SÁNH]	S Á NH
+SÁO	[SÁO]	S ÁO
+SÁP	[SÁP]	S Á P
+SÁT	[SÁT]	S Á T
+SÁU	[SÁU]	S ÁU
+SÂM	[SÂM]	S Â M
+SÂN	[SÂN]	S Â N
+SÂU	[SÂU]	S ÂU
+SÃI	[SÃI]	S ÃI
+SÈO	[SÈO]	S ÈO
+SÉC	[SÉC]	S É C
+SÉT	[SÉT]	S É T
+SÊN	[SÊN]	S Ê N
+SÊNH	[SÊNH]	S Ê NH
+SÊU	[SÊU]	S ÊU
+SÌ	[SÌ]	S Ì
+SÍNH	[SÍNH]	S Í NH
+SÒ	[SÒ]	S Ò
+SÒNG	[SÒNG]	S Ò NG
+SÓC	[SÓC]	S Ó C
+SÓI	[SÓI]	S ÓI
+SÓN	[SÓN]	S Ó N
+SÓNG	[SÓNG]	S Ó NG
+SÓT	[SÓT]	S Ó T
+SÔ	[SÔ]	S Ô
+SÔI	[SÔI]	S ÔI
+SÔNG	[SÔNG]	S Ô NG
+SÕI	[SÕI]	S ÕI
+SÙI	[SÙI]	S ÙI
+SÚ	[SÚ]	S Ú
+SÚC	[SÚC]	S Ú C
+SÚNG	[SÚNG]	S Ú NG
+SÚP	[SÚP]	S Ú P
+SÚT	[SÚT]	S Ú T
+SÚY	[SÚY]	S ÚY
+SĂN	[SĂN]	S Ă N
+SĨ	[SĨ]	S Ĩ
+SŨNG	[SŨNG]	S Ũ NG
+SƠ	[SƠ]	S Ơ
+SƠM	[SƠM]	S Ơ M
+SƠN	[SƠN]	S Ơ N
+SƯ	[SƯ]	S Ư
+SƯA	[SƯA]	S ƯA
+SƯNG	[SƯNG]	S Ư NG
+SƯU	[SƯU]	S ƯU
+SƯƠNG	[SƯƠNG]	S ƯƠ NG
+SƯỚNG	[SƯỚNG]	S ƯỚ NG
+SƯỚT	[SƯỚT]	S ƯỚ T
+SƯỜN	[SƯỜN]	S ƯỜ N
+SƯỜNG	[SƯỜNG]	S ƯỜ NG
+SƯỞI	[SƯỞI]	S ƯỞI
+SƯỢT	[SƯỢT]	S ƯỢ T
+SẠCH	[SẠCH]	S Ạ CH
+SẠM	[SẠM]	S Ạ M
+SẠN	[SẠN]	S Ạ N
+SẠO	[SẠO]	S ẠO
+SẠP	[SẠP]	S Ạ P
+SẠT	[SẠT]	S Ạ T
+SẢN	[SẢN]	S Ả N
+SẢNG	[SẢNG]	S Ả NG
+SẢNH	[SẢNH]	S Ả NH
+SẢO	[SẢO]	S ẢO
+SẢY	[SẢY]	S ẢY
+SẤM	[SẤM]	S Ấ M
+SẤU	[SẤU]	S ẤU
+SẤY	[SẤY]	S ẤY
+SẦM	[SẦM]	S Ầ M
+SẦN	[SẦN]	S Ầ N
+SẦU	[SẦU]	S ẦU
+SẨN	[SẨN]	S Ẩ N
+SẨY	[SẨY]	S ẨY
+SẪM	[SẪM]	S Ẫ M
+SẬP	[SẬP]	S Ậ P
+SẮC	[SẮC]	S Ắ C
+SẮM	[SẮM]	S Ắ M
+SẮN	[SẮN]	S Ắ N
+SẮNG	[SẮNG]	S Ắ NG
+SẮP	[SẮP]	S Ắ P
+SẮT	[SẮT]	S Ắ T
+SẴN	[SẴN]	S Ẵ N
+SẶC	[SẶC]	S Ặ C
+SẸM	[SẸM]	S Ẹ M
+SẸO	[SẸO]	S ẸO
+SẺ	[SẺ]	S Ẻ
+SẺN	[SẺN]	S Ẻ N
+SẼ	[SẼ]	S Ẽ
+SẾP	[SẾP]	S Ế P
+SẾU	[SẾU]	S ẾU
+SỀN	[SỀN]	S Ề N
+SỂ	[SỂ]	S Ể
+SỂNH	[SỂNH]	S Ể NH
+SỄ	[SỄ]	S Ễ
+SỆT	[SỆT]	S Ệ T
+SỊT	[SỊT]	S Ị T
+SỌ	[SỌ]	S Ọ
+SỌM	[SỌM]	S Ọ M
+SỌT	[SỌT]	S Ọ T
+SỎ	[SỎ]	S Ỏ
+SỎI	[SỎI]	S ỎI
+SỐ	[SỐ]	S Ố
+SỐC	[SỐC]	S Ố C
+SỐNG	[SỐNG]	S Ố NG
+SỐT	[SỐT]	S Ố T
+SỒ	[SỒ]	S Ồ
+SỒI	[SỒI]	S ỒI
+SỒN	[SỒN]	S Ồ N
+SỔ	[SỔ]	S Ổ
+SỖ	[SỖ]	S Ỗ
+SỘ	[SỘ]	S Ộ
+SỘT	[SỘT]	S Ộ T
+SỚ	[SỚ]	S Ớ
+SỚI	[SỚI]	S ỚI
+SỚM	[SỚM]	S Ớ M
+SỚN	[SỚN]	S Ớ N
+SỚT	[SỚT]	S Ớ T
+SỜ	[SỜ]	S Ờ
+SỜM	[SỜM]	S Ờ M
+SỜN	[SỜN]	S Ờ N
+SỞ	[SỞ]	S Ở
+SỠ	[SỠ]	S Ỡ
+SỢ	[SỢ]	S Ợ
+SỢI	[SỢI]	S ỢI
+SỤA	[SỤA]	S ỤA
+SỤC	[SỤC]	S Ụ C
+SỤN	[SỤN]	S Ụ N
+SỤT	[SỤT]	S Ụ T
+SỦA	[SỦA]	S ỦA
+SỦI	[SỦI]	S ỦI
+SỨ	[SỨ]	S Ứ
+SỨA	[SỨA]	S ỨA
+SỨC	[SỨC]	S Ứ C
+SỨT	[SỨT]	S Ứ T
+SỪNG	[SỪNG]	S Ừ NG
+SỬ	[SỬ]	S Ử
+SỬA	[SỬA]	S ỬA
+SỬNG	[SỬNG]	S Ử NG
+SỮA	[SỮA]	S ỮA
+SỮNG	[SỮNG]	S Ữ NG
+SỰ	[SỰ]	S Ự
+SỰC	[SỰC]	S Ự C
+SỸ	[SỸ]	S Ỹ
+T	[T]	T 
+TA	[TA]	T A
+TAI	[TAI]	T AI
+TAM	[TAM]	T A M
+TAN	[TAN]	T A N
+TANG	[TANG]	T A NG
+TANH	[TANH]	T A NH
+TAO	[TAO]	T AO
+TAY	[TAY]	T AY
+TEM	[TEM]	T E M
+TEN	[TEN]	T E N
+TEO	[TEO]	T EO
+THA	[THA]	TH A
+THAI	[THAI]	TH AI
+THAM	[THAM]	TH A M
+THAN	[THAN]	TH A N
+THANG	[THANG]	TH A NG
+THANH	[THANH]	TH A NH
+THAO	[THAO]	TH AO
+THAY	[THAY]	TH AY
+THE	[THE]	TH E
+THEN	[THEN]	TH E N
+THEO	[THEO]	TH EO
+THI	[THI]	TH I
+THIA	[THIA]	TH IA
+THIN	[THIN]	TH I N
+THINH	[THINH]	TH I NH
+THIÊM	[THIÊM]	TH IÊ M
+THIÊN	[THIÊN]	TH IÊ N
+THIÊNG	[THIÊNG]	TH IÊ NG
+THIẾC	[THIẾC]	TH IẾ C
+THIẾP	[THIẾP]	TH IẾ P
+THIẾT	[THIẾT]	TH IẾ T
+THIẾU	[THIẾU]	TH IẾU
+THIỀM	[THIỀM]	TH IỀ M
+THIỀN	[THIỀN]	TH IỀ N
+THIỀU	[THIỀU]	TH IỀU
+THIỂN	[THIỂN]	TH IỂ N
+THIỂU	[THIỂU]	TH IỂU
+THIỆN	[THIỆN]	TH IỆ N
+THIỆP	[THIỆP]	TH IỆ P
+THIỆT	[THIỆT]	TH IỆ T
+THIỆU	[THIỆU]	TH IỆU
+THO	[THO]	TH O
+THOA	[THOA]	TH OA
+THOANG	[THOANG]	TH OA NG
+THOI	[THOI]	TH OI
+THON	[THON]	TH O N
+THONG	[THONG]	TH O NG
+THOÁI	[THOÁI]	TH OÁI
+THOÁNG	[THOÁNG]	TH OÁ NG
+THOÁT	[THOÁT]	TH OÁ T
+THOĂN	[THOĂN]	TH OĂ N
+THOẠI	[THOẠI]	TH OẠI
+THOẠT	[THOẠT]	TH OẠ T
+THOẢ	[THOẢ]	TH OẢ
+THOẢI	[THOẢI]	TH OẢI
+THOẢNG	[THOẢNG]	TH OẢ NG
+THOẮT	[THOẮT]	TH OẮ T
+THU	[THU]	TH U
+THUA	[THUA]	TH UA
+THUI	[THUI]	TH UI
+THUN	[THUN]	TH U N
+THUNG	[THUNG]	TH U NG
+THUYÊN	[THUYÊN]	TH UYÊ N
+THUYẾT	[THUYẾT]	TH UYẾ T
+THUYỀN	[THUYỀN]	TH UYỀ N
+THUÊ	[THUÊ]	TH UÊ
+THUẦN	[THUẦN]	TH UẦ N
+THUẪN	[THUẪN]	TH UẪ N
+THUẬN	[THUẬN]	TH UẬ N
+THUẬT	[THUẬT]	TH UẬ T
+THUẾ	[THUẾ]	TH UẾ
+THUỐC	[THUỐC]	TH UỐ C
+THUỒNG	[THUỒNG]	TH UỒ NG
+THUỘC	[THUỘC]	TH UỘ C
+THUỞ	[THUỞ]	TH UỞ
+THUỶ	[THUỶ]	TH UỶ
+THÀ	[THÀ]	TH À
+THÀI	[THÀI]	TH ÀI
+THÀNH	[THÀNH]	TH À NH
+THÀO	[THÀO]	TH ÀO
+THÁC	[THÁC]	TH Á C
+THÁCH	[THÁCH]	TH Á CH
+THÁI	[THÁI]	TH ÁI
+THÁM	[THÁM]	TH Á M
+THÁN	[THÁN]	TH Á N
+THÁNG	[THÁNG]	TH Á NG
+THÁNH	[THÁNH]	TH Á NH
+THÁO	[THÁO]	TH ÁO
+THÁP	[THÁP]	TH Á P
+THÂM	[THÂM]	TH Â M
+THÂN	[THÂN]	TH Â N
+THÂU	[THÂU]	TH ÂU
+THÂY	[THÂY]	TH ÂY
+THÃI	[THÃI]	TH ÃI
+THÈM	[THÈM]	TH È M
+THÈO	[THÈO]	TH ÈO
+THÉP	[THÉP]	TH É P
+THÉT	[THÉT]	TH É T
+THÊ	[THÊ]	TH Ê
+THÊM	[THÊM]	TH Ê M
+THÊNH	[THÊNH]	TH Ê NH
+THÊU	[THÊU]	TH ÊU
+THÌ	[THÌ]	TH Ì
+THÌA	[THÌA]	TH ÌA
+THÌNH	[THÌNH]	TH Ì NH
+THÌU	[THÌU]	TH ÌU
+THÍ	[THÍ]	TH Í
+THÍA	[THÍA]	TH ÍA
+THÍCH	[THÍCH]	TH Í CH
+THÍM	[THÍM]	TH Í M
+THÍN	[THÍN]	TH Í N
+THÍNH	[THÍNH]	TH Í NH
+THÍP	[THÍP]	TH Í P
+THÍT	[THÍT]	TH Í T
+THÒ	[THÒ]	TH Ò
+THÒI	[THÒI]	TH ÒI
+THÒNG	[THÒNG]	TH Ò NG
+THÓ	[THÓ]	TH Ó
+THÓA	[THÓA]	TH ÓA
+THÓC	[THÓC]	TH Ó C
+THÓI	[THÓI]	TH ÓI
+THÓP	[THÓP]	TH Ó P
+THÓT	[THÓT]	TH Ó T
+THÔ	[THÔ]	TH Ô
+THÔI	[THÔI]	TH ÔI
+THÔN	[THÔN]	TH Ô N
+THÔNG	[THÔNG]	TH Ô NG
+THÕNG	[THÕNG]	TH Õ NG
+THÙ	[THÙ]	TH Ù
+THÙM	[THÙM]	TH Ù M
+THÙNG	[THÙNG]	TH Ù NG
+THÙY	[THÙY]	TH ÙY
+THÚ	[THÚ]	TH Ú
+THÚC	[THÚC]	TH Ú C
+THÚNG	[THÚNG]	TH Ú NG
+THÚT	[THÚT]	TH Ú T
+THÚY	[THÚY]	TH ÚY
+THĂM	[THĂM]	TH Ă M
+THĂNG	[THĂNG]	TH Ă NG
+THŨNG	[THŨNG]	TH Ũ NG
+THƠ	[THƠ]	TH Ơ
+THƠI	[THƠI]	TH ƠI
+THƠM	[THƠM]	TH Ơ M
+THƯ	[THƯ]	TH Ư
+THƯA	[THƯA]	TH ƯA
+THƯƠNG	[THƯƠNG]	TH ƯƠ NG
+THƯỚC	[THƯỚC]	TH ƯỚ C
+THƯỜNG	[THƯỜNG]	TH ƯỜ NG
+THƯỞNG	[THƯỞNG]	TH ƯỞ NG
+THƯỠI	[THƯỠI]	TH ƯỠI
+THƯỠN	[THƯỠN]	TH ƯỠ N
+THƯỢC	[THƯỢC]	TH ƯỢ C
+THƯỢNG	[THƯỢNG]	TH ƯỢ NG
+THẠC	[THẠC]	TH Ạ C
+THẠCH	[THẠCH]	TH Ạ CH
+THẠNH	[THẠNH]	TH Ạ NH
+THẠO	[THẠO]	TH ẠO
+THẢ	[THẢ]	TH Ả
+THẢI	[THẢI]	TH ẢI
+THẢM	[THẢM]	TH Ả M
+THẢN	[THẢN]	TH Ả N
+THẢNG	[THẢNG]	TH Ả NG
+THẢNH	[THẢNH]	TH Ả NH
+THẢO	[THẢO]	TH ẢO
+THẢY	[THẢY]	TH ẢY
+THẤM	[THẤM]	TH Ấ M
+THẤP	[THẤP]	TH Ấ P
+THẤT	[THẤT]	TH Ấ T
+THẤU	[THẤU]	TH ẤU
+THẤY	[THẤY]	TH ẤY
+THẦM	[THẦM]	TH Ầ M
+THẦN	[THẦN]	TH Ầ N
+THẦU	[THẦU]	TH ẦU
+THẦY	[THẦY]	TH ẦY
+THẨM	[THẨM]	TH Ẩ M
+THẨN	[THẨN]	TH Ẩ N
+THẪM	[THẪM]	TH Ẫ M
+THẪN	[THẪN]	TH Ẫ N
+THẬM	[THẬM]	TH Ậ M
+THẬN	[THẬN]	TH Ậ N
+THẬP	[THẬP]	TH Ậ P
+THẬT	[THẬT]	TH Ậ T
+THẮC	[THẮC]	TH Ắ C
+THẮN	[THẮN]	TH Ắ N
+THẮNG	[THẮNG]	TH Ắ NG
+THẮP	[THẮP]	TH Ắ P
+THẮT	[THẮT]	TH Ắ T
+THẰN	[THẰN]	TH Ằ N
+THẰNG	[THẰNG]	TH Ằ NG
+THẲM	[THẲM]	TH Ẳ M
+THẲNG	[THẲNG]	TH Ẳ NG
+THẺ	[THẺ]	TH Ẻ
+THẾ	[THẾ]	TH Ế
+THẾCH	[THẾCH]	TH Ế CH
+THẾP	[THẾP]	TH Ế P
+THỀ	[THỀ]	TH Ề
+THỀM	[THỀM]	TH Ề M
+THỀU	[THỀU]	TH ỀU
+THỂ	[THỂ]	TH Ể
+THỆ	[THỆ]	TH Ệ
+THỈ	[THỈ]	TH Ỉ
+THỈNH	[THỈNH]	TH Ỉ NH
+THỊ	[THỊ]	TH Ị
+THỊCH	[THỊCH]	TH Ị CH
+THỊNH	[THỊNH]	TH Ị NH
+THỊT	[THỊT]	TH Ị T
+THỊU	[THỊU]	TH ỊU
+THỌ	[THỌ]	TH Ọ
+THỌC	[THỌC]	TH Ọ C
+THỌT	[THỌT]	TH Ọ T
+THỎ	[THỎ]	TH Ỏ
+THỎA	[THỎA]	TH ỎA
+THỎI	[THỎI]	TH ỎI
+THỎM	[THỎM]	TH Ỏ M
+THỐ	[THỐ]	TH Ố
+THỐI	[THỐI]	TH ỐI
+THỐN	[THỐN]	TH Ố N
+THỐNG	[THỐNG]	TH Ố NG
+THỐT	[THỐT]	TH Ố T
+THỒ	[THỒ]	TH Ồ
+THỒI	[THỒI]	TH ỒI
+THỒN	[THỒN]	TH Ồ N
+THỔ	[THỔ]	TH Ổ
+THỔI	[THỔI]	TH ỔI
+THỚI	[THỚI]	TH ỚI
+THỚT	[THỚT]	TH Ớ T
+THỜ	[THỜ]	TH Ờ
+THỜI	[THỜI]	TH ỜI
+THỞ	[THỞ]	TH Ở
+THỢ	[THỢ]	TH Ợ
+THỤ	[THỤ]	TH Ụ
+THỤC	[THỤC]	TH Ụ C
+THỤNG	[THỤNG]	TH Ụ NG
+THỤP	[THỤP]	TH Ụ P
+THỤT	[THỤT]	TH Ụ T
+THỤY	[THỤY]	TH ỤY
+THỦ	[THỦ]	TH Ủ
+THỦA	[THỦA]	TH ỦA
+THỦI	[THỦI]	TH ỦI
+THỦNG	[THỦNG]	TH Ủ NG
+THỦY	[THỦY]	TH ỦY
+THỨ	[THỨ]	TH Ứ
+THỨC	[THỨC]	TH Ứ C
+THỪ	[THỪ]	TH Ừ
+THỪA	[THỪA]	TH ỪA
+THỪNG	[THỪNG]	TH Ừ NG
+THỬ	[THỬ]	TH Ử
+THỬA	[THỬA]	TH ỬA
+THỮNG	[THỮNG]	TH Ữ NG
+THỰ	[THỰ]	TH Ự
+THỰC	[THỰC]	TH Ự C
+TI	[TI]	T I
+TIA	[TIA]	T IA
+TIM	[TIM]	T I M
+TIN	[TIN]	T I N
+TINH	[TINH]	T I NH
+TIU	[TIU]	T IU
+TIÊM	[TIÊM]	T IÊ M
+TIÊN	[TIÊN]	T IÊ N
+TIÊU	[TIÊU]	T IÊU
+TIẾC	[TIẾC]	T IẾ C
+TIẾM	[TIẾM]	T IẾ M
+TIẾN	[TIẾN]	T IẾ N
+TIẾNG	[TIẾNG]	T IẾ NG
+TIẾP	[TIẾP]	T IẾ P
+TIẾT	[TIẾT]	T IẾ T
+TIẾU	[TIẾU]	T IẾU
+TIỀM	[TIỀM]	T IỀ M
+TIỀN	[TIỀN]	T IỀ N
+TIỂU	[TIỂU]	T IỂU
+TIỄN	[TIỄN]	T IỄ N
+TIỄU	[TIỄU]	T IỄU
+TIỆC	[TIỆC]	T IỆ C
+TIỆM	[TIỆM]	T IỆ M
+TIỆN	[TIỆN]	T IỆ N
+TO	[TO]	T O
+TOA	[TOA]	T OA
+TOAN	[TOAN]	T OA N
+TOANH	[TOANH]	T OA NH
+TOE	[TOE]	T OE
+TONG	[TONG]	T O NG
+TOP	[TOP]	T O P
+TOÀ	[TOÀ]	T OÀ
+TOÀI	[TOÀI]	T OÀI
+TOÀN	[TOÀN]	T OÀ N
+TOÁI	[TOÁI]	T OÁI
+TOÁN	[TOÁN]	T OÁ N
+TOÁT	[TOÁT]	T OÁ T
+TOÉT	[TOÉT]	T OÉ T
+TOẠC	[TOẠC]	T OẠ C
+TOẢ	[TOẢ]	T OẢ
+TOẢN	[TOẢN]	T OẢ N
+TOẸT	[TOẸT]	T OẸ T
+TRA	[TRA]	TR A
+TRAI	[TRAI]	TR AI
+TRANG	[TRANG]	TR A NG
+TRANH	[TRANH]	TR A NH
+TRAO	[TRAO]	TR AO
+TRAU	[TRAU]	TR AU
+TRE	[TRE]	TR E
+TREO	[TREO]	TR EO
+TRI	[TRI]	TR I
+TRINH	[TRINH]	TR I NH
+TRIÊNG	[TRIÊNG]	TR IÊ NG
+TRIẾT	[TRIẾT]	TR IẾ T
+TRIỀN	[TRIỀN]	TR IỀ N
+TRIỀNG	[TRIỀNG]	TR IỀ NG
+TRIỀU	[TRIỀU]	TR IỀU
+TRIỂN	[TRIỂN]	TR IỂ N
+TRIỆNG	[TRIỆNG]	TR IỆ NG
+TRIỆT	[TRIỆT]	TR IỆ T
+TRIỆU	[TRIỆU]	TR IỆU
+TRO	[TRO]	TR O
+TRONG	[TRONG]	TR O NG
+TRU	[TRU]	TR U
+TRUNG	[TRUNG]	TR U NG
+TRUY	[TRUY]	TR UY
+TRUYỀN	[TRUYỀN]	TR UYỀ N
+TRUYỆN	[TRUYỆN]	TR UYỆ N
+TRUÂN	[TRUÂN]	TR UÂ N
+TRUẬT	[TRUẬT]	TR UẬ T
+TRUỒNG	[TRUỒNG]	TR UỒ NG
+TRÀ	[TRÀ]	TR À
+TRÀI	[TRÀI]	TR ÀI
+TRÀM	[TRÀM]	TR À M
+TRÀN	[TRÀN]	TR À N
+TRÀNG	[TRÀNG]	TR À NG
+TRÀNH	[TRÀNH]	TR À NH
+TRÀO	[TRÀO]	TR ÀO
+TRÁ	[TRÁ]	TR Á
+TRÁCH	[TRÁCH]	TR Á CH
+TRÁI	[TRÁI]	TR ÁI
+TRÁM	[TRÁM]	TR Á M
+TRÁN	[TRÁN]	TR Á N
+TRÁNG	[TRÁNG]	TR Á NG
+TRÁNH	[TRÁNH]	TR Á NH
+TRÁO	[TRÁO]	TR ÁO
+TRÁP	[TRÁP]	TR Á P
+TRÁT	[TRÁT]	TR Á T
+TRÂM	[TRÂM]	TR Â M
+TRÂN	[TRÂN]	TR Â N
+TRÂU	[TRÂU]	TR ÂU
+TRÃ	[TRÃ]	TR Ã
+TRÃI	[TRÃI]	TR ÃI
+TRÈO	[TRÈO]	TR ÈO
+TRÉM	[TRÉM]	TR É M
+TRÉO	[TRÉO]	TR ÉO
+TRÊ	[TRÊ]	TR Ê
+TRÊN	[TRÊN]	TR Ê N
+TRÊU	[TRÊU]	TR ÊU
+TRÌ	[TRÌ]	TR Ì
+TRÌNH	[TRÌNH]	TR Ì NH
+TRÌU	[TRÌU]	TR ÌU
+TRÍ	[TRÍ]	TR Í
+TRÍCH	[TRÍCH]	TR Í CH
+TRÒ	[TRÒ]	TR Ò
+TRÒN	[TRÒN]	TR Ò N
+TRÒNG	[TRÒNG]	TR Ò NG
+TRÓC	[TRÓC]	TR Ó C
+TRÓNG	[TRÓNG]	TR Ó NG
+TRÓT	[TRÓT]	TR Ó T
+TRÔI	[TRÔI]	TR ÔI
+TRÔM	[TRÔM]	TR Ô M
+TRÔNG	[TRÔNG]	TR Ô NG
+TRÕN	[TRÕN]	TR Õ N
+TRÙ	[TRÙ]	TR Ù
+TRÙI	[TRÙI]	TR ÙI
+TRÙM	[TRÙM]	TR Ù M
+TRÙN	[TRÙN]	TR Ù N
+TRÙNG	[TRÙNG]	TR Ù NG
+TRÚ	[TRÚ]	TR Ú
+TRÚC	[TRÚC]	TR Ú C
+TRÚM	[TRÚM]	TR Ú M
+TRÚNG	[TRÚNG]	TR Ú NG
+TRÚT	[TRÚT]	TR Ú T
+TRĂM	[TRĂM]	TR Ă M
+TRĂN	[TRĂN]	TR Ă N
+TRĂNG	[TRĂNG]	TR Ă NG
+TRĨ	[TRĨ]	TR Ĩ
+TRĨU	[TRĨU]	TR ĨU
+TRŨNG	[TRŨNG]	TR Ũ NG
+TRƠ	[TRƠ]	TR Ơ
+TRƠI	[TRƠI]	TR ƠI
+TRƠN	[TRƠN]	TR Ơ N
+TRƯ	[TRƯ]	TR Ư
+TRƯA	[TRƯA]	TR ƯA
+TRƯNG	[TRƯNG]	TR Ư NG
+TRƯƠNG	[TRƯƠNG]	TR ƯƠ NG
+TRƯỚC	[TRƯỚC]	TR ƯỚ C
+TRƯỚNG	[TRƯỚNG]	TR ƯỚ NG
+TRƯỜNG	[TRƯỜNG]	TR ƯỜ NG
+TRƯỞNG	[TRƯỞNG]	TR ƯỞ NG
+TRƯỠNG	[TRƯỠNG]	TR ƯỠ NG
+TRƯỢT	[TRƯỢT]	TR ƯỢ T
+TRẠC	[TRẠC]	TR Ạ C
+TRẠI	[TRẠI]	TR ẠI
+TRẠM	[TRẠM]	TR Ạ M
+TRẠNG	[TRẠNG]	TR Ạ NG
+TRẢ	[TRẢ]	TR Ả
+TRẢI	[TRẢI]	TR ẢI
+TRẢO	[TRẢO]	TR ẢO
+TRẢU	[TRẢU]	TR ẢU
+TRẤN	[TRẤN]	TR Ấ N
+TRẤU	[TRẤU]	TR ẤU
+TRẦM	[TRẦM]	TR Ầ M
+TRẦN	[TRẦN]	TR Ầ N
+TRẦU	[TRẦU]	TR ẦU
+TRẦY	[TRẦY]	TR ẦY
+TRẪM	[TRẪM]	TR Ẫ M
+TRẬN	[TRẬN]	TR Ậ N
+TRẬT	[TRẬT]	TR Ậ T
+TRẮC	[TRẮC]	TR Ắ C
+TRẮNG	[TRẮNG]	TR Ắ NG
+TRẰN	[TRẰN]	TR Ằ N
+TRẶC	[TRẶC]	TR Ặ C
+TRẶN	[TRẶN]	TR Ặ N
+TRẸO	[TRẸO]	TR ẸO
+TRẺ	[TRẺ]	TR Ẻ
+TRẼN	[TRẼN]	TR Ẽ N
+TRẾCH	[TRẾCH]	TR Ế CH
+TRỀ	[TRỀ]	TR Ề
+TRỄ	[TRỄ]	TR Ễ
+TRỆ	[TRỆ]	TR Ệ
+TRỆT	[TRỆT]	TR Ệ T
+TRỊ	[TRỊ]	TR Ị
+TRỊA	[TRỊA]	TR ỊA
+TRỊCH	[TRỊCH]	TR Ị CH
+TRỊNH	[TRỊNH]	TR Ị NH
+TRỊT	[TRỊT]	TR Ị T
+TRỌ	[TRỌ]	TR Ọ
+TRỌC	[TRỌC]	TR Ọ C
+TRỌI	[TRỌI]	TR ỌI
+TRỌN	[TRỌN]	TR Ọ N
+TRỌNG	[TRỌNG]	TR Ọ NG
+TRỌT	[TRỌT]	TR Ọ T
+TRỎ	[TRỎ]	TR Ỏ
+TRỐN	[TRỐN]	TR Ố N
+TRỐNG	[TRỐNG]	TR Ố NG
+TRỒ	[TRỒ]	TR Ồ
+TRỒI	[TRỒI]	TR ỒI
+TRỒNG	[TRỒNG]	TR Ồ NG
+TRỔ	[TRỔ]	TR Ổ
+TRỘ	[TRỘ]	TR Ộ
+TRỘM	[TRỘM]	TR Ộ M
+TRỘN	[TRỘN]	TR Ộ N
+TRỚ	[TRỚ]	TR Ớ
+TRỚN	[TRỚN]	TR Ớ N
+TRỜ	[TRỜ]	TR Ờ
+TRỜI	[TRỜI]	TR ỜI
+TRỞ	[TRỞ]	TR Ở
+TRỢ	[TRỢ]	TR Ợ
+TRỢN	[TRỢN]	TR Ợ N
+TRỢT	[TRỢT]	TR Ợ T
+TRỤ	[TRỤ]	TR Ụ
+TRỤA	[TRỤA]	TR ỤA
+TRỤC	[TRỤC]	TR Ụ C
+TRỤI	[TRỤI]	TR ỤI
+TRỤT	[TRỤT]	TR Ụ T
+TRỤY	[TRỤY]	TR ỤY
+TRỨ	[TRỨ]	TR Ứ
+TRỨNG	[TRỨNG]	TR Ứ NG
+TRỪ	[TRỪ]	TR Ừ
+TRỪNG	[TRỪNG]	TR Ừ NG
+TRỬNG	[TRỬNG]	TR Ử NG
+TRỮ	[TRỮ]	TR Ữ
+TRỰC	[TRỰC]	TR Ự C
+TU	[TU]	T U
+TUA	[TUA]	T UA
+TUI	[TUI]	T UI
+TUM	[TUM]	T U M
+TUNG	[TUNG]	T U NG
+TUY	[TUY]	T UY
+TUYÊN	[TUYÊN]	T UYÊ N
+TUYẾN	[TUYẾN]	T UYẾ N
+TUYẾT	[TUYẾT]	T UYẾ T
+TUYỀN	[TUYỀN]	T UYỀ N
+TUYỂN	[TUYỂN]	T UYỂ N
+TUYỆT	[TUYỆT]	T UYỆ T
+TUÂN	[TUÂN]	T UÂ N
+TUÔN	[TUÔN]	T UÔ N
+TUÔNG	[TUÔNG]	T UÔ NG
+TUẤN	[TUẤN]	T UẤ N
+TUẦN	[TUẦN]	T UẦ N
+TUẾ	[TUẾ]	T UẾ
+TUỆ	[TUỆ]	T UỆ
+TUỆCH	[TUỆCH]	T UỆ CH
+TUỐT	[TUỐT]	T UỐ T
+TUỒN	[TUỒN]	T UỒ N
+TUỒNG	[TUỒNG]	T UỒ NG
+TUỔI	[TUỔI]	T UỔI
+TUỘT	[TUỘT]	T UỘ T
+TUỲ	[TUỲ]	T UỲ
+TY	[TY]	T Y
+TÀ	[TÀ]	T À
+TÀI	[TÀI]	T ÀI
+TÀN	[TÀN]	T À N
+TÀNG	[TÀNG]	T À NG
+TÀNH	[TÀNH]	T À NH
+TÀO	[TÀO]	T ÀO
+TÀU	[TÀU]	T ÀU
+TÀY	[TÀY]	T ÀY
+TÁ	[TÁ]	T Á
+TÁC	[TÁC]	T Á C
+TÁCH	[TÁCH]	T Á CH
+TÁI	[TÁI]	T ÁI
+TÁM	[TÁM]	T Á M
+TÁN	[TÁN]	T Á N
+TÁNG	[TÁNG]	T Á NG
+TÁNH	[TÁNH]	T Á NH
+TÁO	[TÁO]	T ÁO
+TÁP	[TÁP]	T Á P
+TÁT	[TÁT]	T Á T
+TÁY	[TÁY]	T ÁY
+TÂM	[TÂM]	T Â M
+TÂN	[TÂN]	T Â N
+TÂY	[TÂY]	T ÂY
+TÃ	[TÃ]	T Ã
+TÃI	[TÃI]	T ÃI
+TÈ	[TÈ]	T È
+TÈN	[TÈN]	T È N
+TÉ	[TÉ]	T É
+TÉC	[TÉC]	T É C
+TÉM	[TÉM]	T É M
+TÉN	[TÉN]	T É N
+TÉP	[TÉP]	T É P
+TÉT	[TÉT]	T É T
+TÊ	[TÊ]	T Ê
+TÊN	[TÊN]	T Ê N
+TÌ	[TÌ]	T Ì
+TÌM	[TÌM]	T Ì M
+TÌNH	[TÌNH]	T Ì NH
+TÍ	[TÍ]	T Í
+TÍA	[TÍA]	T ÍA
+TÍCH	[TÍCH]	T Í CH
+TÍM	[TÍM]	T Í M
+TÍN	[TÍN]	T Í N
+TÍNH	[TÍNH]	T Í NH
+TÍP	[TÍP]	T Í P
+TÍT	[TÍT]	T Í T
+TÍU	[TÍU]	T ÍU
+TÒ	[TÒ]	T Ò
+TÒA	[TÒA]	T ÒA
+TÒE	[TÒE]	T ÒE
+TÒI	[TÒI]	T ÒI
+TÒM	[TÒM]	T Ò M
+TÒNG	[TÒNG]	T Ò NG
+TÓC	[TÓC]	T Ó C
+TÓE	[TÓE]	T ÓE
+TÓM	[TÓM]	T Ó M
+TÓP	[TÓP]	T Ó P
+TÔ	[TÔ]	T Ô
+TÔI	[TÔI]	T ÔI
+TÔM	[TÔM]	T Ô M
+TÔN	[TÔN]	T Ô N
+TÔNG	[TÔNG]	T Ô NG
+TÙ	[TÙ]	T Ù
+TÙNG	[TÙNG]	T Ù NG
+TÙY	[TÙY]	T ÙY
+TÚ	[TÚ]	T Ú
+TÚC	[TÚC]	T Ú C
+TÚI	[TÚI]	T ÚI
+TÚM	[TÚM]	T Ú M
+TÚNG	[TÚNG]	T Ú NG
+TÚT	[TÚT]	T Ú T
+TÚY	[TÚY]	T ÚY
+TÝ	[TÝ]	T Ý
+TĂM	[TĂM]	T Ă M
+TĂN	[TĂN]	T Ă N
+TĂNG	[TĂNG]	T Ă NG
+TĨNH	[TĨNH]	T Ĩ NH
+TŨM	[TŨM]	T Ũ M
+TƠ	[TƠ]	T Ơ
+TƠI	[TƠI]	T ƠI
+TƯ	[TƯ]	T Ư
+TƯA	[TƯA]	T ƯA
+TƯNG	[TƯNG]	T Ư NG
+TƯƠI	[TƯƠI]	T ƯƠI
+TƯƠM	[TƯƠM]	T ƯƠ M
+TƯƠNG	[TƯƠNG]	T ƯƠ NG
+TƯỚC	[TƯỚC]	T ƯỚ C
+TƯỚI	[TƯỚI]	T ƯỚI
+TƯỚNG	[TƯỚNG]	T ƯỚ NG
+TƯỜM	[TƯỜM]	T ƯỜ M
+TƯỜNG	[TƯỜNG]	T ƯỜ NG
+TƯỜU	[TƯỜU]	T ƯỜU
+TƯỞI	[TƯỞI]	T ƯỞI
+TƯỞNG	[TƯỞNG]	T ƯỞ NG
+TƯỢNG	[TƯỢNG]	T ƯỢ NG
+TƯỢP	[TƯỢP]	T ƯỢ P
+TẠ	[TẠ]	T Ạ
+TẠCH	[TẠCH]	T Ạ CH
+TẠI	[TẠI]	T ẠI
+TẠM	[TẠM]	T Ạ M
+TẠNG	[TẠNG]	T Ạ NG
+TẠO	[TẠO]	T ẠO
+TẠP	[TẠP]	T Ạ P
+TẠT	[TẠT]	T Ạ T
+TẢ	[TẢ]	T Ả
+TẢI	[TẢI]	T ẢI
+TẢN	[TẢN]	T Ả N
+TẢNG	[TẢNG]	T Ả NG
+TẢO	[TẢO]	T ẢO
+TẤC	[TẤC]	T Ấ C
+TẤM	[TẤM]	T Ấ M
+TẤN	[TẤN]	T Ấ N
+TẤP	[TẤP]	T Ấ P
+TẤT	[TẤT]	T Ấ T
+TẤU	[TẤU]	T ẤU
+TẤY	[TẤY]	T ẤY
+TẦM	[TẦM]	T Ầ M
+TẦN	[TẦN]	T Ầ N
+TẦNG	[TẦNG]	T Ầ NG
+TẦY	[TẦY]	T ẦY
+TẨM	[TẨM]	T Ẩ M
+TẨN	[TẨN]	T Ẩ N
+TẨY	[TẨY]	T ẨY
+TẬM	[TẬM]	T Ậ M
+TẬN	[TẬN]	T Ậ N
+TẬP	[TẬP]	T Ậ P
+TẬT	[TẬT]	T Ậ T
+TẮC	[TẮC]	T Ắ C
+TẮM	[TẮM]	T Ắ M
+TẮN	[TẮN]	T Ắ N
+TẮT	[TẮT]	T Ắ T
+TẰM	[TẰM]	T Ằ M
+TẲN	[TẲN]	T Ẳ N
+TẶC	[TẶC]	T Ặ C
+TẶNG	[TẶNG]	T Ặ NG
+TẸO	[TẸO]	T ẸO
+TẸP	[TẸP]	T Ẹ P
+TẺ	[TẺ]	T Ẻ
+TẾ	[TẾ]	T Ế
+TẾT	[TẾT]	T Ế T
+TẾU	[TẾU]	T ẾU
+TỂ	[TỂ]	T Ể
+TỄ	[TỄ]	T Ễ
+TỄNH	[TỄNH]	T Ễ NH
+TỆ	[TỆ]	T Ệ
+TỆP	[TỆP]	T Ệ P
+TỈ	[TỈ]	T Ỉ
+TỈA	[TỈA]	T ỈA
+TỈM	[TỈM]	T Ỉ M
+TỈNH	[TỈNH]	T Ỉ NH
+TỊ	[TỊ]	T Ị
+TỊCH	[TỊCH]	T Ị CH
+TỊNH	[TỊNH]	T Ị NH
+TỌA	[TỌA]	T ỌA
+TỌC	[TỌC]	T Ọ C
+TỌP	[TỌP]	T Ọ P
+TỎ	[TỎ]	T Ỏ
+TỎA	[TỎA]	T ỎA
+TỎI	[TỎI]	T ỎI
+TỐ	[TỐ]	T Ố
+TỐC	[TỐC]	T Ố C
+TỐI	[TỐI]	T ỐI
+TỐN	[TỐN]	T Ố N
+TỐNG	[TỐNG]	T Ố NG
+TỐP	[TỐP]	T Ố P
+TỐT	[TỐT]	T Ố T
+TỒI	[TỒI]	T ỒI
+TỒN	[TỒN]	T Ồ N
+TỔ	[TỔ]	T Ổ
+TỔN	[TỔN]	T Ổ N
+TỔNG	[TỔNG]	T Ổ NG
+TỘC	[TỘC]	T Ộ C
+TỘI	[TỘI]	T ỘI
+TỘT	[TỘT]	T Ộ T
+TỚ	[TỚ]	T Ớ
+TỚI	[TỚI]	T ỚI
+TỚN	[TỚN]	T Ớ N
+TỜ	[TỜ]	T Ờ
+TỞM	[TỞM]	T Ở M
+TỢ	[TỢ]	T Ợ
+TỢP	[TỢP]	T Ợ P
+TỤ	[TỤ]	T Ụ
+TỤC	[TỤC]	T Ụ C
+TỤI	[TỤI]	T ỤI
+TỤM	[TỤM]	T Ụ M
+TỤNG	[TỤNG]	T Ụ NG
+TỤT	[TỤT]	T Ụ T
+TỤY	[TỤY]	T ỤY
+TỦ	[TỦ]	T Ủ
+TỦI	[TỦI]	T ỦI
+TỦM	[TỦM]	T Ủ M
+TỦN	[TỦN]	T Ủ N
+TỦY	[TỦY]	T ỦY
+TỨ	[TỨ]	T Ứ
+TỨC	[TỨC]	T Ứ C
+TỪ	[TỪ]	T Ừ
+TỪNG	[TỪNG]	T Ừ NG
+TỬ	[TỬ]	T Ử
+TỬA	[TỬA]	T ỬA
+TỬU	[TỬU]	T ỬU
+TỰ	[TỰ]	T Ự
+TỰA	[TỰA]	T ỰA
+TỰU	[TỰU]	T ỰU
+TỴ	[TỴ]	T Ỵ
+TỶ	[TỶ]	T Ỷ
+U	[U]	U
+UNG	[UNG]	U NG
+UY	[UY]	UY
+UYÊN	[UYÊN]	UYÊ N
+UYỂN	[UYỂN]	UYỂ N
+UẤT	[UẤT]	UẤ T
+UẾ	[UẾ]	UẾ
+UỂ	[UỂ]	UỂ
+UỐN	[UỐN]	UỐ N
+UỐNG	[UỐNG]	UỐ NG
+UỘT	[UỘT]	UỘ T
+UỴCH	[UỴCH]	UỴ CH
+UỶ	[UỶ]	UỶ
+V	[V]	V 
+VA	[VA]	V A
+VAI	[VAI]	V AI
+VAN	[VAN]	V A N
+VANG	[VANG]	V A NG
+VANH	[VANH]	V A NH
+VAO	[VAO]	V AO
+VAY	[VAY]	V AY
+VE	[VE]	V E
+VEN	[VEN]	V E N
+VEO	[VEO]	V EO
+VI	[VI]	V I
+VINH	[VINH]	V I NH
+VIÊM	[VIÊM]	V IÊ M
+VIÊN	[VIÊN]	V IÊ N
+VIẾNG	[VIẾNG]	V IẾ NG
+VIẾT	[VIẾT]	V IẾ T
+VIỀN	[VIỀN]	V IỀ N
+VIỂN	[VIỂN]	V IỂ N
+VIỄN	[VIỄN]	V IỄ N
+VIỆC	[VIỆC]	V IỆ C
+VIỆN	[VIỆN]	V IỆ N
+VIỆT	[VIỆT]	V IỆ T
+VO	[VO]	V O
+VOI	[VOI]	V OI
+VON	[VON]	V O N
+VONG	[VONG]	V O NG
+VU	[VU]	V U
+VUA	[VUA]	V UA
+VUI	[VUI]	V UI
+VUN	[VUN]	V U N
+VUNG	[VUNG]	V U NG
+VUÔNG	[VUÔNG]	V UÔ NG
+VUỐT	[VUỐT]	V UỐ T
+VUỘT	[VUỘT]	V UỘ T
+VY	[VY]	V Y
+VÀ	[VÀ]	V À
+VÀI	[VÀI]	V ÀI
+VÀN	[VÀN]	V À N
+VÀNG	[VÀNG]	V À NG
+VÀNH	[VÀNH]	V À NH
+VÀO	[VÀO]	V ÀO
+VÀY	[VÀY]	V ÀY
+VÁ	[VÁ]	V Á
+VÁC	[VÁC]	V Á C
+VÁCH	[VÁCH]	V Á CH
+VÁI	[VÁI]	V ÁI
+VÁN	[VÁN]	V Á N
+VÁNG	[VÁNG]	V Á NG
+VÁNH	[VÁNH]	V Á NH
+VÁT	[VÁT]	V Á T
+VÁY	[VÁY]	V ÁY
+VÂN	[VÂN]	V Â N
+VÂNG	[VÂNG]	V Â NG
+VÂY	[VÂY]	V ÂY
+VÃ	[VÃ]	V Ã
+VÃI	[VÃI]	V ÃI
+VÃNH	[VÃNH]	V Ã NH
+VÈO	[VÈO]	V ÈO
+VÉ	[VÉ]	V É
+VÉN	[VÉN]	V É N
+VÉT	[VÉT]	V É T
+VÊ	[VÊ]	V Ê
+VÊN	[VÊN]	V Ê N
+VÊNH	[VÊNH]	V Ê NH
+VÌ	[VÌ]	V Ì
+VÍ	[VÍ]	V Í
+VÍA	[VÍA]	V ÍA
+VÍT	[VÍT]	V Í T
+VÍU	[VÍU]	V ÍU
+VÒ	[VÒ]	V Ò
+VÒI	[VÒI]	V ÒI
+VÒM	[VÒM]	V Ò M
+VÒNG	[VÒNG]	V Ò NG
+VÓ	[VÓ]	V Ó
+VÓC	[VÓC]	V Ó C
+VÓT	[VÓT]	V Ó T
+VÔ	[VÔ]	V Ô
+VÔI	[VÔI]	V ÔI
+VÔNG	[VÔNG]	V Ô NG
+VÕ	[VÕ]	V Õ
+VÕNG	[VÕNG]	V Õ NG
+VÙ	[VÙ]	V Ù
+VÙI	[VÙI]	V ÙI
+VÙN	[VÙN]	V Ù N
+VÙNG	[VÙNG]	V Ù NG
+VÚ	[VÚ]	V Ú
+VÚT	[VÚT]	V Ú T
+VĂN	[VĂN]	V Ă N
+VĂNG	[VĂNG]	V Ă NG
+VĨ	[VĨ]	V Ĩ
+VĨNH	[VĨNH]	V Ĩ NH
+VŨ	[VŨ]	V Ũ
+VŨNG	[VŨNG]	V Ũ NG
+VƠ	[VƠ]	V Ơ
+VƯƠN	[VƯƠN]	V ƯƠ N
+VƯƠNG	[VƯƠNG]	V ƯƠ NG
+VƯỚNG	[VƯỚNG]	V ƯỚ NG
+VƯỜN	[VƯỜN]	V ƯỜ N
+VƯỞNG	[VƯỞNG]	V ƯỞ NG
+VƯỢNG	[VƯỢNG]	V ƯỢ NG
+VƯỢT	[VƯỢT]	V ƯỢ T
+VẠ	[VẠ]	V Ạ
+VẠC	[VẠC]	V Ạ C
+VẠCH	[VẠCH]	V Ạ CH
+VẠM	[VẠM]	V Ạ M
+VẠN	[VẠN]	V Ạ N
+VẠT	[VẠT]	V Ạ T
+VẢ	[VẢ]	V Ả
+VẢI	[VẢI]	V ẢI
+VẢNG	[VẢNG]	V Ả NG
+VẢY	[VẢY]	V ẢY
+VẤN	[VẤN]	V Ấ N
+VẤP	[VẤP]	V Ấ P
+VẤT	[VẤT]	V Ấ T
+VẤU	[VẤU]	V ẤU
+VẤY	[VẤY]	V ẤY
+VẦN	[VẦN]	V Ầ N
+VẦNG	[VẦNG]	V Ầ NG
+VẦY	[VẦY]	V ẦY
+VẨN	[VẨN]	V Ẩ N
+VẨY	[VẨY]	V ẨY
+VẪN	[VẪN]	V Ẫ N
+VẪY	[VẪY]	V ẪY
+VẬN	[VẬN]	V Ậ N
+VẬT	[VẬT]	V Ậ T
+VẬY	[VẬY]	V ẬY
+VẮC	[VẮC]	V Ắ C
+VẮN	[VẮN]	V Ắ N
+VẮNG	[VẮNG]	V Ắ NG
+VẮT	[VẮT]	V Ắ T
+VẰN	[VẰN]	V Ằ N
+VẰNG	[VẰNG]	V Ằ NG
+VẲNG	[VẲNG]	V Ẳ NG
+VẶC	[VẶC]	V Ặ C
+VẶN	[VẶN]	V Ặ N
+VẶT	[VẶT]	V Ặ T
+VẸN	[VẸN]	V Ẹ N
+VẸO	[VẸO]	V ẸO
+VẸT	[VẸT]	V Ẹ T
+VẺ	[VẺ]	V Ẻ
+VẼ	[VẼ]	V Ẽ
+VẾ	[VẾ]	V Ế
+VẾCH	[VẾCH]	V Ế CH
+VẾT	[VẾT]	V Ế T
+VỀ	[VỀ]	V Ề
+VỆ	[VỆ]	V Ệ
+VỆN	[VỆN]	V Ệ N
+VỆT	[VỆT]	V Ệ T
+VỈ	[VỈ]	V Ỉ
+VỈA	[VỈA]	V ỈA
+VỊ	[VỊ]	V Ị
+VỊM	[VỊM]	V Ị M
+VỊN	[VỊN]	V Ị N
+VỊNH	[VỊNH]	V Ị NH
+VỊT	[VỊT]	V Ị T
+VỌNG	[VỌNG]	V Ọ NG
+VỌT	[VỌT]	V Ọ T
+VỎ	[VỎ]	V Ỏ
+VỎN	[VỎN]	V Ỏ N
+VỐN	[VỐN]	V Ố N
+VỒNG	[VỒNG]	V Ồ NG
+VỖ	[VỖ]	V Ỗ
+VỘI	[VỘI]	V ỘI
+VỚ	[VỚ]	V Ớ
+VỚI	[VỚI]	V ỚI
+VỚT	[VỚT]	V Ớ T
+VỜ	[VỜ]	V Ờ
+VỜI	[VỜI]	V ỜI
+VỜN	[VỜN]	V Ờ N
+VỞ	[VỞ]	V Ở
+VỞN	[VỞN]	V Ở N
+VỠ	[VỠ]	V Ỡ
+VỢ	[VỢ]	V Ợ
+VỢI	[VỢI]	V ỢI
+VỢT	[VỢT]	V Ợ T
+VỤ	[VỤ]	V Ụ
+VỤN	[VỤN]	V Ụ N
+VỤNG	[VỤNG]	V Ụ NG
+VỤT	[VỤT]	V Ụ T
+VỨT	[VỨT]	V Ứ T
+VỪA	[VỪA]	V ỪA
+VỪNG	[VỪNG]	V Ừ NG
+VỬNG	[VỬNG]	V Ử NG
+VỮA	[VỮA]	V ỮA
+VỮNG	[VỮNG]	V Ữ NG
+VỰC	[VỰC]	V Ự C
+X	[X]	X 
+XA	[XA]	X A
+XANG	[XANG]	X A NG
+XANH	[XANH]	X A NH
+XAO	[XAO]	X AO
+XAY	[XAY]	X AY
+XE	[XE]	X E
+XEM	[XEM]	X E M
+XEN	[XEN]	X E N
+XEO	[XEO]	X EO
+XI	[XI]	X I
+XIA	[XIA]	X IA
+XIN	[XIN]	X I N
+XINH	[XINH]	X I NH
+XIÊM	[XIÊM]	X IÊ M
+XIÊU	[XIÊU]	X IÊU
+XIẾC	[XIẾC]	X IẾ C
+XIẾT	[XIẾT]	X IẾ T
+XOA	[XOA]	X OA
+XOAN	[XOAN]	X OA N
+XOANG	[XOANG]	X OA NG
+XOAY	[XOAY]	X OAY
+XOE	[XOE]	X OE
+XOEN	[XOEN]	X OE N
+XOI	[XOI]	X OI
+XOM	[XOM]	X O M
+XON	[XON]	X O N
+XONG	[XONG]	X O NG
+XOÀI	[XOÀI]	X OÀI
+XOÀN	[XOÀN]	X OÀ N
+XOÀNG	[XOÀNG]	X OÀ NG
+XOÁ	[XOÁ]	X OÁ
+XOÁY	[XOÁY]	X OÁY
+XOÈ	[XOÈ]	X OÈ
+XOÈN	[XOÈN]	X OÈ N
+XOÉT	[XOÉT]	X OÉ T
+XOĂN	[XOĂN]	X OĂ N
+XOẠC	[XOẠC]	X OẠ C
+XOẢNG	[XOẢNG]	X OẢ NG
+XOẮN	[XOẮN]	X OẮ N
+XOẸT	[XOẸT]	X OẸ T
+XU	[XU]	X U
+XUA	[XUA]	X UA
+XUI	[XUI]	X UI
+XUM	[XUM]	X U M
+XUNG	[XUNG]	X U NG
+XUYÊN	[XUYÊN]	X UYÊ N
+XUYẾN	[XUYẾN]	X UYẾ N
+XUÂN	[XUÂN]	X UÂ N
+XUÊ	[XUÊ]	X UÊ
+XUÔI	[XUÔI]	X UÔI
+XUẤT	[XUẤT]	X UẤ T
+XUẨN	[XUẨN]	X UẨ N
+XUỂ	[XUỂ]	X UỂ
+XUỐNG	[XUỐNG]	X UỐ NG
+XUỒNG	[XUỒNG]	X UỒ NG
+XY	[XY]	X Y
+XÀ	[XÀ]	X À
+XÀI	[XÀI]	X ÀI
+XÀM	[XÀM]	X À M
+XÀNG	[XÀNG]	X À NG
+XÀO	[XÀO]	X ÀO
+XÁ	[XÁ]	X Á
+XÁC	[XÁC]	X Á C
+XÁCH	[XÁCH]	X Á CH
+XÁM	[XÁM]	X Á M
+XÁN	[XÁN]	X Á N
+XÁO	[XÁO]	X ÁO
+XÁT	[XÁT]	X Á T
+XÂM	[XÂM]	X Â M
+XÂU	[XÂU]	X ÂU
+XÂY	[XÂY]	X ÂY
+XÃ	[XÃ]	X Ã
+XÈ	[XÈ]	X È
+XÈO	[XÈO]	X ÈO
+XÉ	[XÉ]	X É
+XÉT	[XÉT]	X É T
+XÊ	[XÊ]	X Ê
+XÊNH	[XÊNH]	X Ê NH
+XÌ	[XÌ]	X Ì
+XÌU	[XÌU]	X ÌU
+XÍ	[XÍ]	X Í
+XÍCH	[XÍCH]	X Í CH
+XÍNH	[XÍNH]	X Í NH
+XÍT	[XÍT]	X Í T
+XÍU	[XÍU]	X ÍU
+XÒA	[XÒA]	X ÒA
+XÒNG	[XÒNG]	X Ò NG
+XÓ	[XÓ]	X Ó
+XÓA	[XÓA]	X ÓA
+XÓC	[XÓC]	X Ó C
+XÓM	[XÓM]	X Ó M
+XÓT	[XÓT]	X Ó T
+XÔ	[XÔ]	X Ô
+XÔI	[XÔI]	X ÔI
+XÔM	[XÔM]	X Ô M
+XÔN	[XÔN]	X Ô N
+XÔNG	[XÔNG]	X Ô NG
+XÕA	[XÕA]	X ÕA
+XÙ	[XÙ]	X Ù
+XÙM	[XÙM]	X Ù M
+XÚC	[XÚC]	X Ú C
+XÚM	[XÚM]	X Ú M
+XÚNG	[XÚNG]	X Ú NG
+XĂM	[XĂM]	X Ă M
+XĂNG	[XĂNG]	X Ă NG
+XƠ	[XƠ]	X Ơ
+XƠI	[XƠI]	X ƠI
+XƯA	[XƯA]	X ƯA
+XƯNG	[XƯNG]	X Ư NG
+XƯƠNG	[XƯƠNG]	X ƯƠ NG
+XƯỚNG	[XƯỚNG]	X ƯỚ NG
+XƯỞNG	[XƯỞNG]	X ƯỞ NG
+XẠ	[XẠ]	X Ạ
+XẠC	[XẠC]	X Ạ C
+XẠCH	[XẠCH]	X Ạ CH
+XẠO	[XẠO]	X ẠO
+XẠP	[XẠP]	X Ạ P
+XẢ	[XẢ]	X Ả
+XẢM	[XẢM]	X Ả M
+XẢO	[XẢO]	X ẢO
+XẢY	[XẢY]	X ẢY
+XẤU	[XẤU]	X ẤU
+XẨM	[XẨM]	X Ẩ M
+XẨY	[XẨY]	X ẨY
+XẮC	[XẮC]	X Ắ C
+XẮN	[XẮN]	X Ắ N
+XẮT	[XẮT]	X Ắ T
+XẴNG	[XẴNG]	X Ẵ NG
+XẸO	[XẸO]	X ẸO
+XẸP	[XẸP]	X Ẹ P
+XẺ	[XẺ]	X Ẻ
+XẺNG	[XẺNG]	X Ẻ NG
+XẾ	[XẾ]	X Ế
+XẾCH	[XẾCH]	X Ế CH
+XẾP	[XẾP]	X Ế P
+XỀNH	[XỀNH]	X Ề NH
+XỂ	[XỂ]	X Ể
+XỆCH	[XỆCH]	X Ệ CH
+XỈ	[XỈ]	X Ỉ
+XỈA	[XỈA]	X ỈA
+XỈN	[XỈN]	X Ỉ N
+XỈNH	[XỈNH]	X Ỉ NH
+XỈU	[XỈU]	X ỈU
+XỊ	[XỊ]	X Ị
+XỊT	[XỊT]	X Ị T
+XỌC	[XỌC]	X Ọ C
+XỌP	[XỌP]	X Ọ P
+XỎ	[XỎ]	X Ỏ
+XỐC	[XỐC]	X Ố C
+XỐI	[XỐI]	X ỐI
+XỐN	[XỐN]	X Ố N
+XỐNG	[XỐNG]	X Ố NG
+XỐP	[XỐP]	X Ố P
+XỒNG	[XỒNG]	X Ồ NG
+XỔ	[XỔ]	X Ổ
+XỔI	[XỔI]	X ỔI
+XỔM	[XỔM]	X Ổ M
+XỔNG	[XỔNG]	X Ổ NG
+XỘC	[XỘC]	X Ộ C
+XỘN	[XỘN]	X Ộ N
+XỚI	[XỚI]	X ỚI
+XỚT	[XỚT]	X Ớ T
+XỞ	[XỞ]	X Ở
+XỞI	[XỞI]	X ỞI
+XỢT	[XỢT]	X Ợ T
+XỤ	[XỤ]	X Ụ
+XỤC	[XỤC]	X Ụ C
+XỤI	[XỤI]	X ỤI
+XỨ	[XỨ]	X Ứ
+XỨNG	[XỨNG]	X Ứ NG
+XỬ	[XỬ]	X Ử
+XỬA	[XỬA]	X ỬA
+XỬNG	[XỬNG]	X Ử NG
+Y	[Y]	Y
+YÊN	[YÊN]	YÊ N
+YÊNG	[YÊNG]	YÊ NG
+YÊU	[YÊU]	YÊU
+YẾM	[YẾM]	YẾ M
+YẾN	[YẾN]	YẾ N
+YẾU	[YẾU]	YẾU
+YỂM	[YỂM]	YỂ M
+À	[À]	À
+ÀO	[ÀO]	ÀO
+Á	[Á]	Á
+ÁC	[ÁC]	Á C
+ÁCH	[ÁCH]	Á CH
+ÁI	[ÁI]	ÁI
+ÁM	[ÁM]	Á M
+ÁN	[ÁN]	Á N
+ÁNH	[ÁNH]	Á NH
+ÁO	[ÁO]	ÁO
+ÁP	[ÁP]	Á P
+ÁT	[ÁT]	Á T
+ÁY	[ÁY]	ÁY
+ÂM	[ÂM]	Â M
+ÂN	[ÂN]	Â N
+ÂU	[ÂU]	ÂU
+ÂY	[ÂY]	ÂY
+Ã	[Ã]	Ã
+È	[È]	È
+ÈO	[ÈO]	ÈO
+É	[É]	É
+ÉN	[ÉN]	É N
+ÉO	[ÉO]	ÉO
+ÉP	[ÉP]	É P
+Ê	[Ê]	Ê
+ÊM	[ÊM]	Ê M
+Ì	[Ì]	Ì
+Í	[Í]	Í
+ÍCH	[ÍCH]	Í CH
+ÍT	[ÍT]	Í T
+ÒA	[ÒA]	ÒA
+ÒNG	[ÒNG]	Ò NG
+ÓC	[ÓC]	Ó C
+ÓE	[ÓE]	ÓE
+ÓI	[ÓI]	ÓI
+ÓNG	[ÓNG]	Ó NG
+Ô	[Ô]	Ô
+ÔI	[ÔI]	ÔI
+ÔM	[ÔM]	Ô M
+ÔN	[ÔN]	Ô N
+ÔNG	[ÔNG]	Ô NG
+Ù	[Ù]	Ù
+ÙA	[ÙA]	ÙA
+ÙN	[ÙN]	Ù N
+Ú	[Ú]	Ú
+ÚA	[ÚA]	ÚA
+ÚM	[ÚM]	Ú M
+ÚNG	[ÚNG]	Ú NG
+ÚP	[ÚP]	Ú P
+ÚT	[ÚT]	Ú T
+ÚY	[ÚY]	ÚY
+Ý	[Ý]	Ý
+ĂM	[ĂM]	Ă M
+ĂN	[ĂN]	Ă N
+ĐA	[ĐA]	Đ A
+ĐAI	[ĐAI]	Đ AI
+ĐAM	[ĐAM]	Đ A M
+ĐAN	[ĐAN]	Đ A N
+ĐANG	[ĐANG]	Đ A NG
+ĐANH	[ĐANH]	Đ A NH
+ĐAO	[ĐAO]	Đ AO
+ĐAU	[ĐAU]	Đ AU
+ĐAY	[ĐAY]	Đ AY
+ĐE	[ĐE]	Đ E
+ĐEM	[ĐEM]	Đ E M
+ĐEN	[ĐEN]	Đ E N
+ĐEO	[ĐEO]	Đ EO
+ĐI	[ĐI]	Đ I
+ĐIA	[ĐIA]	Đ IA
+ĐINH	[ĐINH]	Đ I NH
+ĐIÊN	[ĐIÊN]	Đ IÊ N
+ĐIÊU	[ĐIÊU]	Đ IÊU
+ĐIẾC	[ĐIẾC]	Đ IẾ C
+ĐIẾM	[ĐIẾM]	Đ IẾ M
+ĐIẾU	[ĐIẾU]	Đ IẾU
+ĐIỀM	[ĐIỀM]	Đ IỀ M
+ĐIỀN	[ĐIỀN]	Đ IỀ N
+ĐIỀU	[ĐIỀU]	Đ IỀU
+ĐIỂM	[ĐIỂM]	Đ IỂ M
+ĐIỂN	[ĐIỂN]	Đ IỂ N
+ĐIỂU	[ĐIỂU]	Đ IỂU
+ĐIỆM	[ĐIỆM]	Đ IỆ M
+ĐIỆN	[ĐIỆN]	Đ IỆ N
+ĐIỆP	[ĐIỆP]	Đ IỆ P
+ĐIỆU	[ĐIỆU]	Đ IỆU
+ĐO	[ĐO]	Đ O
+ĐOAN	[ĐOAN]	Đ OA N
+ĐOM	[ĐOM]	Đ O M
+ĐONG	[ĐONG]	Đ O NG
+ĐOÀI	[ĐOÀI]	Đ OÀI
+ĐOÀN	[ĐOÀN]	Đ OÀ N
+ĐOÀNG	[ĐOÀNG]	Đ OÀ NG
+ĐOÁN	[ĐOÁN]	Đ OÁ N
+ĐOẠN	[ĐOẠN]	Đ OẠ N
+ĐOẠT	[ĐOẠT]	Đ OẠ T
+ĐOẢNG	[ĐOẢNG]	Đ OẢ NG
+ĐU	[ĐU]	Đ U
+ĐUA	[ĐUA]	Đ UA
+ĐUI	[ĐUI]	Đ UI
+ĐUN	[ĐUN]	Đ U N
+ĐUNG	[ĐUNG]	Đ U NG
+ĐUÔI	[ĐUÔI]	Đ UÔI
+ĐUỐC	[ĐUỐC]	Đ UỐ C
+ĐUỐI	[ĐUỐI]	Đ UỐI
+ĐUỔI	[ĐUỔI]	Đ UỔI
+ĐUỘT	[ĐUỘT]	Đ UỘ T
+ĐÀ	[ĐÀ]	Đ À
+ĐÀI	[ĐÀI]	Đ ÀI
+ĐÀM	[ĐÀM]	Đ À M
+ĐÀN	[ĐÀN]	Đ À N
+ĐÀNG	[ĐÀNG]	Đ À NG
+ĐÀNH	[ĐÀNH]	Đ À NH
+ĐÀO	[ĐÀO]	Đ ÀO
+ĐÁ	[ĐÁ]	Đ Á
+ĐÁC	[ĐÁC]	Đ Á C
+ĐÁI	[ĐÁI]	Đ ÁI
+ĐÁM	[ĐÁM]	Đ Á M
+ĐÁNG	[ĐÁNG]	Đ Á NG
+ĐÁNH	[ĐÁNH]	Đ Á NH
+ĐÁO	[ĐÁO]	Đ ÁO
+ĐÁP	[ĐÁP]	Đ Á P
+ĐÁY	[ĐÁY]	Đ ÁY
+ĐÂM	[ĐÂM]	Đ Â M
+ĐÂU	[ĐÂU]	Đ ÂU
+ĐÂY	[ĐÂY]	Đ ÂY
+ĐÃ	[ĐÃ]	Đ Ã
+ĐÃI	[ĐÃI]	Đ ÃI
+ĐÃNG	[ĐÃNG]	Đ Ã NG
+ĐÈ	[ĐÈ]	Đ È
+ĐÈN	[ĐÈN]	Đ È N
+ĐÈO	[ĐÈO]	Đ ÈO
+ĐÉC	[ĐÉC]	Đ É C
+ĐÉO	[ĐÉO]	Đ ÉO
+ĐÊ	[ĐÊ]	Đ Ê
+ĐÊM	[ĐÊM]	Đ Ê M
+ĐÊNH	[ĐÊNH]	Đ Ê NH
+ĐÊU	[ĐÊU]	Đ ÊU
+ĐÌA	[ĐÌA]	Đ ÌA
+ĐÌNH	[ĐÌNH]	Đ Ì NH
+ĐÌU	[ĐÌU]	Đ ÌU
+ĐÍCH	[ĐÍCH]	Đ Í CH
+ĐÍNH	[ĐÍNH]	Đ Í NH
+ĐÍT	[ĐÍT]	Đ Í T
+ĐÒ	[ĐÒ]	Đ Ò
+ĐÒI	[ĐÒI]	Đ ÒI
+ĐÒM	[ĐÒM]	Đ Ò M
+ĐÒN	[ĐÒN]	Đ Ò N
+ĐÒNG	[ĐÒNG]	Đ Ò NG
+ĐÓ	[ĐÓ]	Đ Ó
+ĐÓA	[ĐÓA]	Đ ÓA
+ĐÓI	[ĐÓI]	Đ ÓI
+ĐÓM	[ĐÓM]	Đ Ó M
+ĐÓN	[ĐÓN]	Đ Ó N
+ĐÓNG	[ĐÓNG]	Đ Ó NG
+ĐÔ	[ĐÔ]	Đ Ô
+ĐÔI	[ĐÔI]	Đ ÔI
+ĐÔN	[ĐÔN]	Đ Ô N
+ĐÔNG	[ĐÔNG]	Đ Ô NG
+ĐÙA	[ĐÙA]	Đ ÙA
+ĐÙI	[ĐÙI]	Đ ÙI
+ĐÙM	[ĐÙM]	Đ Ù M
+ĐÙNG	[ĐÙNG]	Đ Ù NG
+ĐÚ	[ĐÚ]	Đ Ú
+ĐÚC	[ĐÚC]	Đ Ú C
+ĐÚM	[ĐÚM]	Đ Ú M
+ĐÚNG	[ĐÚNG]	Đ Ú NG
+ĐÚP	[ĐÚP]	Đ Ú P
+ĐÚT	[ĐÚT]	Đ Ú T
+ĐĂNG	[ĐĂNG]	Đ Ă NG
+ĐĨ	[ĐĨ]	Đ Ĩ
+ĐĨA	[ĐĨA]	Đ ĨA
+ĐŨA	[ĐŨA]	Đ ŨA
+ĐŨNG	[ĐŨNG]	Đ Ũ NG
+ĐƠ	[ĐƠ]	Đ Ơ
+ĐƠM	[ĐƠM]	Đ Ơ M
+ĐƠN	[ĐƠN]	Đ Ơ N
+ĐƯA	[ĐƯA]	Đ ƯA
+ĐƯƠNG	[ĐƯƠNG]	Đ ƯƠ NG
+ĐƯỚC	[ĐƯỚC]	Đ ƯỚ C
+ĐƯỜNG	[ĐƯỜNG]	Đ ƯỜ NG
+ĐƯỢC	[ĐƯỢC]	Đ ƯỢ C
+ĐẠC	[ĐẠC]	Đ Ạ C
+ĐẠCH	[ĐẠCH]	Đ Ạ CH
+ĐẠI	[ĐẠI]	Đ ẠI
+ĐẠM	[ĐẠM]	Đ Ạ M
+ĐẠN	[ĐẠN]	Đ Ạ N
+ĐẠO	[ĐẠO]	Đ ẠO
+ĐẠP	[ĐẠP]	Đ Ạ P
+ĐẠT	[ĐẠT]	Đ Ạ T
+ĐẢ	[ĐẢ]	Đ Ả
+ĐẢM	[ĐẢM]	Đ Ả M
+ĐẢN	[ĐẢN]	Đ Ả N
+ĐẢNG	[ĐẢNG]	Đ Ả NG
+ĐẢO	[ĐẢO]	Đ ẢO
+ĐẤM	[ĐẤM]	Đ Ấ M
+ĐẤT	[ĐẤT]	Đ Ấ T
+ĐẤU	[ĐẤU]	Đ ẤU
+ĐẤY	[ĐẤY]	Đ ẤY
+ĐẦM	[ĐẦM]	Đ Ầ M
+ĐẦU	[ĐẦU]	Đ ẦU
+ĐẦY	[ĐẦY]	Đ ẦY
+ĐẨU	[ĐẨU]	Đ ẨU
+ĐẨY	[ĐẨY]	Đ ẨY
+ĐẪM	[ĐẪM]	Đ Ẫ M
+ĐẪY	[ĐẪY]	Đ ẪY
+ĐẬM	[ĐẬM]	Đ Ậ M
+ĐẬN	[ĐẬN]	Đ Ậ N
+ĐẬP	[ĐẬP]	Đ Ậ P
+ĐẬT	[ĐẬT]	Đ Ậ T
+ĐẬU	[ĐẬU]	Đ ẬU
+ĐẬY	[ĐẬY]	Đ ẬY
+ĐẮC	[ĐẮC]	Đ Ắ C
+ĐẮM	[ĐẮM]	Đ Ắ M
+ĐẮN	[ĐẮN]	Đ Ắ N
+ĐẮNG	[ĐẮNG]	Đ Ắ NG
+ĐẮP	[ĐẮP]	Đ Ắ P
+ĐẮT	[ĐẮT]	Đ Ắ T
+ĐẰM	[ĐẰM]	Đ Ằ M
+ĐẰNG	[ĐẰNG]	Đ Ằ NG
+ĐẲNG	[ĐẲNG]	Đ Ẳ NG
+ĐẶC	[ĐẶC]	Đ Ặ C
+ĐẶN	[ĐẶN]	Đ Ặ N
+ĐẶNG	[ĐẶNG]	Đ Ặ NG
+ĐẶT	[ĐẶT]	Đ Ặ T
+ĐẸP	[ĐẸP]	Đ Ẹ P
+ĐẺ	[ĐẺ]	Đ Ẻ
+ĐẼ	[ĐẼ]	Đ Ẽ
+ĐẼO	[ĐẼO]	Đ ẼO
+ĐẾ	[ĐẾ]	Đ Ế
+ĐẾM	[ĐẾM]	Đ Ế M
+ĐẾN	[ĐẾN]	Đ Ế N
+ĐỀ	[ĐỀ]	Đ Ề
+ĐỀM	[ĐỀM]	Đ Ề M
+ĐỀN	[ĐỀN]	Đ Ề N
+ĐỀNH	[ĐỀNH]	Đ Ề NH
+ĐỀU	[ĐỀU]	Đ ỀU
+ĐỂ	[ĐỂ]	Đ Ể
+ĐỂNH	[ĐỂNH]	Đ Ể NH
+ĐỂU	[ĐỂU]	Đ ỂU
+ĐỄNH	[ĐỄNH]	Đ Ễ NH
+ĐỆ	[ĐỆ]	Đ Ệ
+ĐỆM	[ĐỆM]	Đ Ệ M
+ĐỈNH	[ĐỈNH]	Đ Ỉ NH
+ĐỊA	[ĐỊA]	Đ ỊA
+ĐỊCH	[ĐỊCH]	Đ Ị CH
+ĐỊNH	[ĐỊNH]	Đ Ị NH
+ĐỊU	[ĐỊU]	Đ ỊU
+ĐỌ	[ĐỌ]	Đ Ọ
+ĐỌC	[ĐỌC]	Đ Ọ C
+ĐỌNG	[ĐỌNG]	Đ Ọ NG
+ĐỎ	[ĐỎ]	Đ Ỏ
+ĐỐ	[ĐỐ]	Đ Ố
+ĐỐC	[ĐỐC]	Đ Ố C
+ĐỐI	[ĐỐI]	Đ ỐI
+ĐỐM	[ĐỐM]	Đ Ố M
+ĐỐN	[ĐỐN]	Đ Ố N
+ĐỐNG	[ĐỐNG]	Đ Ố NG
+ĐỐT	[ĐỐT]	Đ Ố T
+ĐỒ	[ĐỒ]	Đ Ồ
+ĐỒI	[ĐỒI]	Đ ỒI
+ĐỒN	[ĐỒN]	Đ Ồ N
+ĐỒNG	[ĐỒNG]	Đ Ồ NG
+ĐỔ	[ĐỔ]	Đ Ổ
+ĐỔI	[ĐỔI]	Đ ỔI
+ĐỔNG	[ĐỔNG]	Đ Ổ NG
+ĐỖ	[ĐỖ]	Đ Ỗ
+ĐỖI	[ĐỖI]	Đ ỖI
+ĐỘ	[ĐỘ]	Đ Ộ
+ĐỘC	[ĐỘC]	Đ Ộ C
+ĐỘI	[ĐỘI]	Đ ỘI
+ĐỘN	[ĐỘN]	Đ Ộ N
+ĐỘNG	[ĐỘNG]	Đ Ộ NG
+ĐỘP	[ĐỘP]	Đ Ộ P
+ĐỘT	[ĐỘT]	Đ Ộ T
+ĐỚI	[ĐỚI]	Đ ỚI
+ĐỚN	[ĐỚN]	Đ Ớ N
+ĐỜ	[ĐỜ]	Đ Ờ
+ĐỜI	[ĐỜI]	Đ ỜI
+ĐỜM	[ĐỜM]	Đ Ờ M
+ĐỜN	[ĐỜN]	Đ Ờ N
+ĐỠ	[ĐỠ]	Đ Ỡ
+ĐỢI	[ĐỢI]	Đ ỢI
+ĐỢP	[ĐỢP]	Đ Ợ P
+ĐỢT	[ĐỢT]	Đ Ợ T
+ĐỤC	[ĐỤC]	Đ Ụ C
+ĐỤN	[ĐỤN]	Đ Ụ N
+ĐỤNG	[ĐỤNG]	Đ Ụ NG
+ĐỦ	[ĐỦ]	Đ Ủ
+ĐỨA	[ĐỨA]	Đ ỨA
+ĐỨC	[ĐỨC]	Đ Ứ C
+ĐỨNG	[ĐỨNG]	Đ Ứ NG
+ĐỨT	[ĐỨT]	Đ Ứ T
+ĐỪNG	[ĐỪNG]	Đ Ừ NG
+ĐỰNG	[ĐỰNG]	Đ Ự NG
+Ĩ	[Ĩ]	Ĩ
+Ơ	[Ơ]	Ơ
+ƠI	[ƠI]	ƠI
+ƠN	[ƠN]	Ơ N
+Ư	[Ư]	Ư
+ƯA	[ƯA]	ƯA
+ƯNG	[ƯNG]	Ư NG
+ƯU	[ƯU]	ƯU
+ƯƠM	[ƯƠM]	ƯƠ M
+ƯƠNG	[ƯƠNG]	ƯƠ NG
+ƯỚC	[ƯỚC]	ƯỚ C
+ƯỚP	[ƯỚP]	ƯỚ P
+ƯỚT	[ƯỚT]	ƯỚ T
+Ạ	[Ạ]	Ạ
+ẠCH	[ẠCH]	Ạ CH
+ẠT	[ẠT]	Ạ T
+Ả	[Ả]	Ả
+ẢM	[ẢM]	Ả M
+ẢNH	[ẢNH]	Ả NH
+ẢO	[ẢO]	ẢO
+ẤM	[ẤM]	Ấ M
+ẤN	[ẤN]	Ấ N
+ẤP	[ẤP]	Ấ P
+ẤU	[ẤU]	ẤU
+ẤY	[ẤY]	ẤY
+ẦM	[ẦM]	Ầ M
+ẦU	[ẦU]	ẦU
+ẨM	[ẨM]	Ẩ M
+ẨN	[ẨN]	Ẩ N
+ẨU	[ẨU]	ẨU
+ẬM	[ẬM]	Ậ M
+ẮP	[ẮP]	Ắ P
+ẮT	[ẮT]	Ắ T
+ẰNG	[ẰNG]	Ằ NG
+ẴM	[ẴM]	Ẵ M
+ẶC	[ẶC]	Ặ C
+ẺN	[ẺN]	Ẻ N
+Ế	[Ế]	Ế
+ẾCH	[ẾCH]	Ế CH
+ỀNH	[ỀNH]	Ề NH
+ỆCH	[ỆCH]	Ệ CH
+ỆN	[ỆN]	Ệ N
+ỈA	[ỈA]	ỈA
+ỈM	[ỈM]	Ỉ M
+ỈN	[ỈN]	Ỉ N
+ỈU	[ỈU]	ỈU
+ỊCH	[ỊCH]	Ị CH
+ỌC	[ỌC]	Ọ C
+ỌE	[ỌE]	ỌE
+ỎI	[ỎI]	ỎI
+ỎN	[ỎN]	Ỏ N
+ỎNG	[ỎNG]	Ỏ NG
+ỐC	[ỐC]	Ố C
+ỐM	[ỐM]	Ố M
+ỐNG	[ỐNG]	Ố NG
+ỐP	[ỐP]	Ố P
+Ồ	[Ồ]	Ồ
+ỒN	[ỒN]	Ồ N
+ỒNG	[ỒNG]	Ồ NG
+Ổ	[Ổ]	Ổ
+ỔI	[ỔI]	ỔI
+ỔN	[ỔN]	Ổ N
+ỔNG	[ỔNG]	Ổ NG
+ỘC	[ỘC]	Ộ C
+ỘN	[ỘN]	Ộ N
+ỘP	[ỘP]	Ộ P
+Ớ	[Ớ]	Ớ
+ỚI	[ỚI]	ỚI
+ỚN	[ỚN]	Ớ N
+ỚT	[ỚT]	Ớ T
+Ờ	[Ờ]	Ờ
+Ở	[Ở]	Ở
+Ợ	[Ợ]	Ợ
+Ụ	[Ụ]	Ụ
+ỤC	[ỤC]	Ụ C
+Ủ	[Ủ]	Ủ
+ỦA	[ỦA]	ỦA
+ỦI	[ỦI]	ỦI
+ỦN	[ỦN]	Ủ N
+ỦNG	[ỦNG]	Ủ NG
+ỦY	[ỦY]	ỦY
+Ứ	[Ứ]	Ứ
+ỨA	[ỨA]	ỨA
+ỨC	[ỨC]	Ứ C
+ỨNG	[ỨNG]	Ứ NG
+Ừ	[Ừ]	Ừ
+ỬNG	[ỬNG]	Ử NG
+Ỷ	[Ỷ]	Ỷ
