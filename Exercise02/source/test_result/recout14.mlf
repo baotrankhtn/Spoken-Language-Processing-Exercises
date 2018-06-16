@@ -1,0 +1,221 @@
+#!MLF!#
+"D:/Thacsi/NNN/htk1/test_mfc/TEST01_00.rec"
+0 2400000 bary -2529.870850
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST01_01.rec"
+0 2400000 bary -2421.586182
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST01_02.rec"
+0 2600000 bary -2720.923096
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST01_03.rec"
+0 3500000 bary -3261.583740
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST01_04.rec"
+0 3500000 bary -3410.231445
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST01_05.rec"
+0 1400000 bary -1706.433228
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST01_06.rec"
+0 2200000 bary -2406.001465
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST01_07.rec"
+0 1900000 bary -2235.922852
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST01_08.rec"
+0 3700000 bary -3479.087891
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST01_09.rec"
+0 3400000 bary -3451.673584
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST02_00.rec"
+0 3300000 bary -3366.250488
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST02_01.rec"
+0 2100000 ba -2134.036621
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST02_02.rec"
+0 3000000 ba -3074.616943
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST02_03.rec"
+0 1800000 ba -1941.717896
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST02_04.rec"
+0 2300000 bary -2367.464355
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST02_05.rec"
+0 3100000 ba -2843.866455
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST02_06.rec"
+0 2400000 bary -2536.921631
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST02_07.rec"
+0 1700000 bary -2106.662842
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST02_08.rec"
+0 2600000 bary -2375.290283
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST02_09.rec"
+0 2500000 bary -2522.198486
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_100.rec"
+0 5400000 hai -4005.036377
+5400000 10600000 bary -3803.376709
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_101.rec"
+0 4200000 ba -2872.030762
+4200000 10100000 ba -4158.842285
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_102.rec"
+0 4600000 hai -3347.502197
+4600000 8400000 bary -3048.781982
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_103.rec"
+0 4500000 hai -3372.781982
+4500000 8500000 ba -3099.454590
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_104.rec"
+0 1000000 ba -707.042603
+1000000 7300000 ba -4841.583984
+7300000 9000000 hai -1217.789917
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_105.rec"
+0 2800000 hai -2191.238770
+2800000 6400000 ba -2856.401855
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_106.rec"
+0 4300000 hai -3393.730957
+4300000 9100000 bary -3769.200928
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_107.rec"
+0 1300000 sasu -891.823059
+1300000 7200000 bary -4763.964355
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_108.rec"
+0 3900000 hai -2985.244385
+3900000 7300000 ba -2735.980225
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_109.rec"
+0 4200000 chisn -3451.278564
+4200000 7700000 bary -2502.115234
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_200.rec"
+0 5100000 hai -3880.412354
+5100000 9100000 boosn -3005.738037
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_201.rec"
+0 2600000 ba -1975.630005
+2600000 7000000 ba -3375.391113
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_202.rec"
+0 4400000 hai -3284.773438
+4400000 7200000 bary -2395.283691
+7200000 8400000 bary -922.883545
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_203.rec"
+0 3700000 hai -3054.295410
+3700000 7300000 ba -2838.335693
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_204.rec"
+0 7100000 chisn -5671.211426
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_205.rec"
+0 2800000 hai -2329.667725
+2800000 6900000 boosn -3330.996338
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_206.rec"
+0 3100000 hai -2445.957520
+3100000 8400000 ba -3792.215576
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_207.rec"
+0 2900000 hai -2301.964355
+2900000 8200000 bary -4189.534180
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_208.rec"
+0 4400000 hai -3290.986328
+4400000 9800000 ba -3993.679199
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST03_209.rec"
+0 1400000 sasu -954.140076
+1400000 6500000 khoong -4055.752197
+6500000 8700000 bary -1423.526001
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_100.rec"
+0 6000000 bary -4189.099121
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_101.rec"
+0 6300000 nawm -4562.213379
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_102.rec"
+0 2600000 hai -1830.635620
+2600000 8300000 bary -3784.775635
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_103.rec"
+0 2300000 hai -1837.287598
+2300000 9600000 bary -4756.520508
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_104.rec"
+0 1700000 ba -1142.304688
+1700000 8000000 ba -4588.161133
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_105.rec"
+0 2200000 hai -1710.450684
+2200000 6400000 bary -2683.464111
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_106.rec"
+0 1300000 ba -1025.924927
+1300000 7600000 bary -4520.941406
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_107.rec"
+0 2700000 ba -1885.709229
+2700000 7900000 bary -3627.528076
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_108.rec"
+0 2600000 hai -1976.515747
+2600000 7700000 ba -3360.482178
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_109.rec"
+0 4400000 chisn -3242.641357
+4400000 6400000 bary -1341.955444
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_200.rec"
+0 2100000 ba -1549.367188
+2100000 6800000 bary -3237.129639
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_201.rec"
+0 2200000 chisn -1536.600952
+2200000 6400000 bary -3019.470459
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_202.rec"
+0 2300000 hai -1606.358032
+2300000 5400000 bary -2065.225586
+5400000 9900000 ba -2972.502930
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_203.rec"
+0 7600000 bary -5284.029297
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_204.rec"
+0 2200000 hai -1635.650635
+2200000 7200000 bary -3469.847168
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_205.rec"
+0 3100000 hai -2220.844971
+3100000 8500000 ba -3424.336914
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_206.rec"
+0 1800000 ba -1336.415405
+1800000 6800000 bary -3755.289795
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_207.rec"
+0 1200000 bary -917.692200
+1200000 6700000 bary -3885.445557
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_208.rec"
+0 1000000 sasu -703.796204
+1000000 6400000 bary -3732.552979
+.
+"D:/Thacsi/NNN/htk1/test_mfc/TEST04_209.rec"
+0 4100000 chisn -2944.829590
+4100000 6400000 ba -1591.660156
+.

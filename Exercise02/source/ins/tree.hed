@@ -1,0 +1,110 @@
+RO 20 stats
+TR 0
+QS "l_b" {b-*}
+QS "l_a" {a-*}
+QS "l_ary" {ary-*}
+QS "l_oos" {oos-*}
+QS "l_n" {n-*}
+QS "l_ch" {ch-*}
+QS "l_is" {is-*}
+QS "l_h" {h-*}
+QS "l_ai" {ai-*}
+QS "l_kh" {kh-*}
+QS "l_oo" {oo-*}
+QS "l_ng" {ng-*}
+QS "l_m" {m-*}
+QS "l_ooj" {ooj-*}
+QS "l_t" {t-*}
+QS "l_aw" {aw-*}
+QS "l_s" {s-*}
+QS "l_asu" {asu-*}
+QS "l_as" {as-*}
+QS "l_sil" {sil-*}
+
+QS "r_b" {*+b}
+QS "r_a" {*+a}
+QS "r_ary" {*+ary}
+QS "r_oos" {*+oos}
+QS "r_n" {*+n}
+QS "r_ch" {*+ch}
+QS "r_is" {*+is}
+QS "r_h" {*+h}
+QS "r_ai" {*+ai}
+QS "r_kh" {*+kh}
+QS "r_oo" {*+oo}
+QS "r_ng" {*+ng}
+QS "r_m" {*+m}
+QS "r_ooj" {*+ooj}
+QS "r_t" {*+t}
+QS "r_aw" {*+aw}
+QS "r_s" {*+s}
+QS "r_asu" {*+asu}
+QS "r_as" {*+as}
+QS "r_sil" {*+sil}
+TR 2
+TB 40 "st_b_2_" {("b","*-b+*","b+*","*-b").state[2]}
+TB 40 "st_a_2_" {("a","*-a+*","a+*","*-a").state[2]}
+TB 40 "st_ary_2_" {("ary","*-ary+*","ary+*","*-ary").state[2]}
+TB 40 "st_oos_2_" {("oos","*-oos+*","oos+*","*-oos").state[2]}
+TB 40 "st_n_2_" {("n","*-n+*","n+*","*-n").state[2]}
+TB 40 "st_ch_2_" {("ch","*-ch+*","ch+*","*-ch").state[2]}
+TB 40 "st_is_2_" {("is","*-is+*","is+*","*-is").state[2]}
+TB 40 "st_h_2_" {("h","*-h+*","h+*","*-h").state[2]}
+TB 40 "st_ai_2_" {("ai","*-ai+*","ai+*","*-ai").state[2]}
+TB 40 "st_kh_2_" {("kh","*-kh+*","kh+*","*-kh").state[2]}
+TB 40 "st_oo_2_" {("oo","*-oo+*","oo+*","*-oo").state[2]}
+TB 40 "st_ng_2_" {("ng","*-ng+*","ng+*","*-ng").state[2]}
+TB 40 "st_m_2_" {("m","*-m+*","m+*","*-m").state[2]}
+TB 40 "st_ooj_2_" {("ooj","*-ooj+*","ooj+*","*-ooj").state[2]}
+TB 40 "st_t_2_" {("t","*-t+*","t+*","*-t").state[2]}
+TB 40 "st_aw_2_" {("aw","*-aw+*","aw+*","*-aw").state[2]}
+TB 40 "st_s_2_" {("s","*-s+*","s+*","*-s").state[2]}
+TB 40 "st_asu_2_" {("asu","*-asu+*","asu+*","*-asu").state[2]}
+TB 40 "st_as_2_" {("as","*-as+*","as+*","*-as").state[2]}
+TB 40 "st_sil_2_" {("sil","*-sil+*","sil+*","*-sil").state[2]}
+
+TB 40 "st_b_3_" {("b","*-b+*","b+*","*-b").state[3]}
+TB 40 "st_a_3_" {("a","*-a+*","a+*","*-a").state[3]}
+TB 40 "st_ary_3_" {("ary","*-ary+*","ary+*","*-ary").state[3]}
+TB 40 "st_oos_3_" {("oos","*-oos+*","oos+*","*-oos").state[3]}
+TB 40 "st_n_3_" {("n","*-n+*","n+*","*-n").state[3]}
+TB 40 "st_ch_3_" {("ch","*-ch+*","ch+*","*-ch").state[3]}
+TB 40 "st_is_3_" {("is","*-is+*","is+*","*-is").state[3]}
+TB 40 "st_h_3_" {("h","*-h+*","h+*","*-h").state[3]}
+TB 40 "st_ai_3_" {("ai","*-ai+*","ai+*","*-ai").state[3]}
+TB 40 "st_kh_3_" {("kh","*-kh+*","kh+*","*-kh").state[3]}
+TB 40 "st_oo_3_" {("oo","*-oo+*","oo+*","*-oo").state[3]}
+TB 40 "st_ng_3_" {("ng","*-ng+*","ng+*","*-ng").state[3]}
+TB 40 "st_m_3_" {("m","*-m+*","m+*","*-m").state[3]}
+TB 40 "st_ooj_3_" {("ooj","*-ooj+*","ooj+*","*-ooj").state[3]}
+TB 40 "st_t_3_" {("t","*-t+*","t+*","*-t").state[3]}
+TB 40 "st_aw_3_" {("aw","*-aw+*","aw+*","*-aw").state[3]}
+TB 40 "st_s_3_" {("s","*-s+*","s+*","*-s").state[3]}
+TB 40 "st_asu_3_" {("asu","*-asu+*","asu+*","*-asu").state[3]}
+TB 40 "st_as_3_" {("as","*-as+*","as+*","*-as").state[3]}
+TB 40 "st_sil_3_" {("sil","*-sil+*","sil+*","*-sil").state[3]}
+
+TB 40 "st_b_4_" {("b","*-b+*","b+*","*-b").state[4]}
+TB 40 "st_a_4_" {("a","*-a+*","a+*","*-a").state[4]}
+TB 40 "st_ary_4_" {("ary","*-ary+*","ary+*","*-ary").state[4]}
+TB 40 "st_oos_4_" {("oos","*-oos+*","oos+*","*-oos").state[4]}
+TB 40 "st_n_4_" {("n","*-n+*","n+*","*-n").state[4]}
+TB 40 "st_ch_4_" {("ch","*-ch+*","ch+*","*-ch").state[4]}
+TB 40 "st_is_4_" {("is","*-is+*","is+*","*-is").state[4]}
+TB 40 "st_h_4_" {("h","*-h+*","h+*","*-h").state[4]}
+TB 40 "st_ai_4_" {("ai","*-ai+*","ai+*","*-ai").state[4]}
+TB 40 "st_kh_4_" {("kh","*-kh+*","kh+*","*-kh").state[4]}
+TB 40 "st_oo_4_" {("oo","*-oo+*","oo+*","*-oo").state[4]}
+TB 40 "st_ng_4_" {("ng","*-ng+*","ng+*","*-ng").state[4]}
+TB 40 "st_m_4_" {("m","*-m+*","m+*","*-m").state[4]}
+TB 40 "st_ooj_4_" {("ooj","*-ooj+*","ooj+*","*-ooj").state[4]}
+TB 40 "st_t_4_" {("t","*-t+*","t+*","*-t").state[4]}
+TB 40 "st_aw_4_" {("aw","*-aw+*","aw+*","*-aw").state[4]}
+TB 40 "st_s_4_" {("s","*-s+*","s+*","*-s").state[4]}
+TB 40 "st_asu_4_" {("asu","*-asu+*","asu+*","*-asu").state[4]}
+TB 40 "st_as_4_" {("as","*-as+*","as+*","*-as").state[4]}
+TB 40 "st_sil_4_" {("sil","*-sil+*","sil+*","*-sil").state[4]}
+TR 1
+AU "D:/Thacsi/NNN/htk1/ph/fulllist"
+CO "D:/Thacsi/NNN/htk1/ph/tiedlist"
+ST "D:/Thacsi/NNN/htk1/ph/trees"

@@ -1,0 +1,129 @@
+prompts -> telex lower case
+python D:/Thacsi/NNN/htk1/script/vietnameseToTelex.py D:/Thacsi/NNN/htk1/train/prompts.txt D:/Thacsi/NNN/htk1/txt/prompts.txt
+
+D:/Thacsi/NNN/htk1/
+
+prompts -> wlist
+perl D:/Thacsi/NNN/htk1/script/prompts2wlist.pl D:/Thacsi/NNN/htk1/txt/prompts.txt D:/Thacsi/NNN/htk1/txt/wlist.txt
+
+tao gram.txt
+python D:/Thacsi/NNN/htk1/script/wlistToGram.py D:/Thacsi/NNN/htk1/txt/wlist.txt D:/Thacsi/NNN/htk1/txt/gram.txt
+
+tao wdnet.txt
+D:/Thacsi/NNN/htk1/htk/HParse.exe D:/Thacsi/NNN/htk1/txt/gram.txt D:/Thacsi/NNN/htk1/txt/wdnet.txt
+
+Tao srcDict
+python D:/Thacsi/NNN/htk1/script/splitWord.py D:/Thacsi/NNN/htk1/txt/wlist.txt D:/Thacsi/NNN/htk1/txt/srcDict.txt
+
+Tao HTK Dict & monophones
+D:/Thacsi/NNN/htk1/htk/HDMan.exe -m -w D:/Thacsi/NNN/htk1/txt/wlist.txt -n D:/Thacsi/NNN/htk1/ph/monophones.txt -l dlog D:/Thacsi/NNN/htk1/txt/dict.txt D:/Thacsi/NNN/htk1/txt/srcDict.txt
+
+Tao cac monophones khac
+perl D:/Thacsi/NNN/htk1/script/mkMonophones.pl D:/Thacsi/NNN/htk1/ph/monophones.txt D:/Thacsi/NNN/htk1/ph/monophones0.txt D:/Thacsi/NNN/htk1/ph/monophones1.txt
+
+Tao transcription file
+MLF words
+perl D:/Thacsi/NNN/htk1/script/prompts2mlf.pl D:/Thacsi/NNN/htk1/mlf/words.mlf D:/Thacsi/NNN/htk1/txt/prompts.txt
+
+MLF phones
+D:/Thacsi/NNN/htk1/htk/HLEd.exe -l "*" -d D:/Thacsi/NNN/htk1/txt/srcDict.txt -i D:/Thacsi/NNN/htk1/mlf/phones0.mlf D:/Thacsi/NNN/htk1/ins/mkphones0.led D:/Thacsi/NNN/htk1/mlf/words.mlf
+D:/Thacsi/NNN/htk1/htk/HLEd.exe -l "*" -d D:/Thacsi/NNN/htk1/txt/srcDict.txt -i D:/Thacsi/NNN/htk1/mlf/phones1.mlf D:/Thacsi/NNN/htk1/ins/mkphones1.led D:/Thacsi/NNN/htk1/mlf/words.mlf
+
+Tao list file train
+python script/listwavmfc.py D:/Thacsi/NNN/htk1/train/ D:/Thacsi/NNN/htk1/train_mfc/ D:/Thacsi/NNN/htk1/txt/train.scp D:/Thacsi/NNN/htk1/txt/train_mfc.scp
+
+Tao list file test
+
+Rut dac trung bo train
+D:/Thacsi/NNN/htk1/htk/HCopy.exe -T 1 -C D:/Thacsi/NNN/htk1/cfg/HCopy.cfg -S D:/Thacsi/NNN/htk1/txt/train.scp
+
+Tao proto 
+D:/Thacsi/NNN/htk1/htk/HCompV.exe -C D:/Thacsi/NNN/htk1/cfg/HCompV.cfg -f 0.01 -m -S txt/train_mfc.scp -M  D:/Thacsi/NNN/htk1/hmm/hmm0 D:/Thacsi/NNN/htk1/hmm/hmm0/proto
+
+Tao macros tu ðong 
+perl D:/Thacsi/NNN/htk1/script/mkMacrosFile.pl D:/Thacsi/NNN/htk1/hmm/hmm0/vFloors D:/Thacsi/NNN/htk1/hmm/hmm0/macros
+
+Tao hmmdefs tu ðong
+perl D:/Thacsi/NNN/htk1/script/mkHmmdefsFile.pl D:/Thacsi/NNN/htk1/hmm/hmm0/proto D:/Thacsi/NNN/htk1/ph/monophones0.txt D:/Thacsi/NNN/htk1/hmm/hmm0/hmmdefs
+
+HRest uoc luong tham so trong hmmdefs, Hmm1
+D:/Thacsi/NNN/htk1/htk/HERest.exe -C D:/Thacsi/NNN/htk1/cfg/HERest.cfg -I D:/Thacsi/NNN/htk1/mlf/phones0.mlf -t 250.0 150.0 1000.0 -S D:/Thacsi/NNN/htk1/txt/train_mfc.scp -H D:/Thacsi/NNN/htk1/hmm/hmm0/macros -H D:/Thacsi/NNN/htk1/hmm/hmm0/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm1 D:/Thacsi/NNN/htk1/ph/monophones0.txt
+
+Huan luyen Hmm2
+D:/Thacsi/NNN/htk1/htk/HERest.exe -C D:/Thacsi/NNN/htk1/cfg/HERest.cfg -I D:/Thacsi/NNN/htk1/mlf/phones0.mlf -t 250.0 150.0 1000.0 -S D:/Thacsi/NNN/htk1/txt/train_mfc.scp -H D:/Thacsi/NNN/htk1/hmm/hmm1/macros -H D:/Thacsi/NNN/htk1/hmm/hmm1/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm2 D:/Thacsi/NNN/htk1/ph/monophones0.txt
+
+Huan luyen Hmm3
+D:/Thacsi/NNN/htk1/htk/HERest.exe -C D:/Thacsi/NNN/htk1/cfg/HERest.cfg -I D:/Thacsi/NNN/htk1/mlf/phones0.mlf -t 250.0 150.0 1000.0 -S D:/Thacsi/NNN/htk1/txt/train_mfc.scp -H D:/Thacsi/NNN/htk1/hmm/hmm2/macros -H D:/Thacsi/NNN/htk1/hmm/hmm2/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm3 D:/Thacsi/NNN/htk1/ph/monophones0.txt
+
+Huan luyen Hmm4
+D:/Thacsi/NNN/htk1/htk/HERest.exe -C D:/Thacsi/NNN/htk1/cfg/HERest.cfg -I D:/Thacsi/NNN/htk1/mlf/phones0.mlf -t 250.0 150.0 1000.0 -S D:/Thacsi/NNN/htk1/txt/train_mfc.scp -H D:/Thacsi/NNN/htk1/hmm/hmm3/macros -H D:/Thacsi/NNN/htk1/hmm/hmm3/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm4 D:/Thacsi/NNN/htk1/ph/monophones0.txt
+
+Them mo hinh sp vao hmmdefs4
+perl D:/Thacsi/NNN/htk1/script/makesp.pl D:/Thacsi/NNN/htk1/hmm/hmm3/hmmdefs D:/Thacsi/NNN/htk1/hmm/hmm4/hmmdefs D:/Thacsi/NNN/htk1/hmm/hmm3/macros D:/Thacsi/NNN/htk1/hmm/hmm4/macros
+
+HHed troi buoc mo hinh sil va sp , Hmm5
+D:/Thacsi/NNN/htk1/htk/HHEd.exe -H D:/Thacsi/NNN/htk1/hmm/hmm4/macros -H D:/Thacsi/NNN/htk1/hmm/hmm4/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm5 D:/Thacsi/NNN/htk1/ins/sil.led D:/Thacsi/NNN/htk1/ph/monophones1.txt
+
+Huan luyen Hmm6
+D:/Thacsi/NNN/htk1/htk/HERest.exe -C D:/Thacsi/NNN/htk1/cfg/HERest.cfg -I D:/Thacsi/NNN/htk1/mlf/phones0.mlf -t 250.0 150.0 1000.0 -S D:/Thacsi/NNN/htk1/txt/train_mfc.scp -H D:/Thacsi/NNN/htk1/hmm/hmm5/macros -H D:/Thacsi/NNN/htk1/hmm/hmm5/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm6 D:/Thacsi/NNN/htk1/ph/monophones1.txt
+
+Huan luyen Hmm7
+D:/Thacsi/NNN/htk1/htk/HERest.exe -C D:/Thacsi/NNN/htk1/cfg/HERest.cfg -I D:/Thacsi/NNN/htk1/mlf/phones0.mlf -t 250.0 150.0 1000.0 -S D:/Thacsi/NNN/htk1/txt/train_mfc.scp -H D:/Thacsi/NNN/htk1/hmm/hmm6/macros -H D:/Thacsi/NNN/htk1/hmm/hmm6/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm7 D:/Thacsi/NNN/htk1/ph/monophones1.txt
+
+HVite Hmm7
+D:/Thacsi/NNN/htk1/htk/HVite.exe -l * -o SWT -b silence -a -H D:/Thacsi/NNN/htk1/hmm/hmm7/macros -H D:/Thacsi/NNN/htk1/hmm/hmm7/hmmdefs -i D:/Thacsi/NNN/htk1/mlf/aligned.mlf -m -t 250.0 -y lab -I D:/Thacsi/NNN/htk1/mlf/words.mlf -S txt/train_mfc.scp D:/Thacsi/NNN/htk1/txt/srcDict.txt D:/Thacsi/NNN/htk1/ph/monophones1.txt
+
+Huan luyen Hmm8
+D:/Thacsi/NNN/htk1/htk/HERest.exe -B -C D:/Thacsi/NNN/htk1/cfg/HERest.cfg -I D:/Thacsi/NNN/htk1/mlf/aligned.mlf -t 250.0 150.0 1000.0 -s stats -S D:/Thacsi/NNN/htk1/txt/train_mfc.scp -H D:/Thacsi/NNN/htk1/hmm/hmm7/macros -H D:/Thacsi/NNN/htk1/hmm/hmm7/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm8 D:/Thacsi/NNN/htk1/ph/monophones1.txt
+
+Huan luyen Hmm9
+D:/Thacsi/NNN/htk1/htk/HERest.exe -B -C D:/Thacsi/NNN/htk1/cfg/HERest.cfg -I D:/Thacsi/NNN/htk1/mlf/aligned.mlf -t 250.0 150.0 1000.0 -s stats -S D:/Thacsi/NNN/htk1/txt/train_mfc.scp -H D:/Thacsi/NNN/htk1/hmm/hmm8/macros -H D:/Thacsi/NNN/htk1/hmm/hmm8/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm9 D:/Thacsi/NNN/htk1/ph/monophones1.txt
+
+Tao triphones tu monophones
+D:/Thacsi/NNN/htk1/htk/HLEd.exe -n D:/Thacsi/NNN/htk1/ph/triphones1 -l * -i D:/Thacsi/NNN/htk1/mlf/wintri.mlf D:/Thacsi/NNN/htk1/ins/mktri.led D:/Thacsi/NNN/htk1/mlf/aligned.mlf
+
+Tao mktri.hed
+perl D:/Thacsi/NNN/htk1/script/mkTriHed.pl D:/Thacsi/NNN/htk1/ph/monophones1 D:/Thacsi/NNN/htk1/ph/triphones1 D:/Thacsi/NNN/htk1/ins/mktri.hed
+
+Nhai mo hinh monophones trong Hmm9, tao ra Hmm10
+D:/Thacsi/NNN/htk1/htk/HHEd.exe -B -H D:/Thacsi/NNN/htk1/hmm/hmm9/macros -H D:/Thacsi/NNN/htk1/hmm/hmm9/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm10 D:/Thacsi/NNN/htk1/ins/mktri.hed D:/Thacsi/NNN/htk1/ph/monophones1.txt
+
+Uoc luong mo hinh triphones, Hmm11
+D:/Thacsi/NNN/htk1/htk/HERest.exe -B -C D:/Thacsi/NNN/htk1/cfg/HERest.cfg -I D:/Thacsi/NNN/htk1/mlf/wintri.mlf -t 250.0 150.0 1000.0 -s stats -S D:/Thacsi/NNN/htk1/txt/train_mfc.scp -H D:/Thacsi/NNN/htk1/hmm/hmm10/macros -H D:/Thacsi/NNN/htk1/hmm/hmm10/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm11 D:/Thacsi/NNN/htk1/ph/triphones1
+
+Huan luyen Hmm12
+D:/Thacsi/NNN/htk1/htk/HERest.exe -B -C D:/Thacsi/NNN/htk1/cfg/HERest.cfg -I D:/Thacsi/NNN/htk1/mlf/wintri.mlf -t 250.0 150.0 1000.0 -s stats -S D:/Thacsi/NNN/htk1/txt/train_mfc.scp -H D:/Thacsi/NNN/htk1/hmm/hmm11/macros -H D:/Thacsi/NNN/htk1/hmm/hmm11/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm12 D:/Thacsi/NNN/htk1/ph/triphones1
+
+Tao Fullist
+perl D:/Thacsi/NNN/htk1/script/mkFullList.pl D:/Thacsi/NNN/htk1/ph/monophones0.txt D:/Thacsi/NNN/htk1/ph/fulllist
+
+Tao tree.hed
+perl D:/Thacsi/NNN/htk1/script/mkTree.pl 40 D:/Thacsi/NNN/htk1/ph/monophones0.txt D:/Thacsi/NNN/htk1/ins/tree.hed
+
+Tao tied state triphones, Hmm13
+D:/Thacsi/NNN/htk1/htk/HHEd.exe -B -H D:/Thacsi/NNN/htk1/hmm/hmm12/macros -H D:/Thacsi/NNN/htk1/hmm/hmm12/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm13 D:/Thacsi/NNN/htk1/ins/tree.hed D:/Thacsi/NNN/htk1/ph/triphones1 > D:/Thacsi/NNN/htk1/txt/log.txt
+
+Huan luyen Hmm14
+D:/Thacsi/NNN/htk1/htk/HERest.exe -B -C D:/Thacsi/NNN/htk1/cfg/HERest.cfg -I D:/Thacsi/NNN/htk1/mlf/wintri.mlf -t 250.0 150.0 1000.0 -s stats -S D:/Thacsi/NNN/htk1/txt/train_mfc.scp -H D:/Thacsi/NNN/htk1/hmm/hmm13/macros -H D:/Thacsi/NNN/htk1/hmm/hmm13/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm14 D:/Thacsi/NNN/htk1/ph/tiedlist
+
+Huan luyen Hmm15
+D:/Thacsi/NNN/htk1/htk/HERest.exe -B -C D:/Thacsi/NNN/htk1/cfg/HERest.cfg -I D:/Thacsi/NNN/htk1/mlf/wintri.mlf -t 250.0 150.0 1000.0 -s stats -S D:/Thacsi/NNN/htk1/txt/train_mfc.scp -H D:/Thacsi/NNN/htk1/hmm/hmm14/macros -H D:/Thacsi/NNN/htk1/hmm/hmm14/hmmdefs -M D:/Thacsi/NNN/htk1/hmm/hmm15 D:/Thacsi/NNN/htk1/ph/tiedlist
+
+**TEST**
+Tao list file test
+python D:/Thacsi/NNN/htk1/script/listwavmfc.py D:/Thacsi/NNN/htk1/test/ D:/Thacsi/NNN/htk1/test_mfc/ D:/Thacsi/NNN/htk1/txt/test.scp D:/Thacsi/NNN/htk1/txt/test_mfc.scp
+
+Rut trich dac trung test
+D:/Thacsi/NNN/htk1/htk/HCopy.exe -T 1 -C D:/Thacsi/NNN/htk1/cfg/HCopy.cfg -S D:/Thacsi/NNN/htk1/txt/test.scp
+
+Telex lower case prompts
+python D:/Thacsi/NNN/htk1/script/vietnameseToTelex.py D:/Thacsi/NNN/htk1/test/prompts.txt D:/Thacsi/NNN/htk1/test_result/prompts.txt
+
+Tao word.mlf cho test
+perl D:/Thacsi/NNN/htk1/script/prompts2mlf.pl D:/Thacsi/NNN/htk1/test_result/words.mlf D:/Thacsi/NNN/htk1/test_result/prompts.txt
+
+*Danh gia du lieu
+D:/Thacsi/NNN/htk1/htk/HVite.exe -C D:/Thacsi/NNN/htk1/cfg/Hvite.cfg -H D:/Thacsi/NNN/htk1/hmm/hmm15/macros -H D:/Thacsi/NNN/htk1/hmm/hmm15/hmmdefs -S D:/Thacsi/NNN/htk1/txt/test_mfc.scp -i D:/Thacsi/NNN/htk1/test_result/recout.mlf -w D:/Thacsi/NNN/htk1/txt/wdnet.txt D:/Thacsi/NNN/htk1/txt/srcDict.txt D:/Thacsi/NNN/htk1/ph/tiedlist
+
+Xuat ket qua
+D:/Thacsi/NNN/htk1/htk/HResults.exe -f -t -I D:/Thacsi/NNN/htk1/test_result/words.mlf D:/Thacsi/NNN/htk1/ph/tiedlist D:/Thacsi/NNN/htk1/test_result/recout.mlf > D:/Thacsi/NNN/htk1/test_result/result.txt

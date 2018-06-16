@@ -1,0 +1,11 @@
+ba	b a sp
+bary	b ary sp
+boosn	b oos n sp
+chisn	ch is n sp
+hai	h ai sp
+khoong	kh oo ng sp
+moojt	m ooj t sp
+nawm	n aw m sp
+sasu	s asu sp
+tasm	t as m sp
+silence	sil

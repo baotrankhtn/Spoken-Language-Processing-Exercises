@@ -1,0 +1,241 @@
+------------------------ Sentence Scores --------------------------
+====================== HTK Results Analysis =======================
+  Date: Sat Jun 16 20:20:39 2018
+  Ref : D:/Thacsi/NNN/htk1/test_result/words.mlf
+  Rec : D:/Thacsi/NNN/htk1/test_result/recout14.mlf
+-------------------------- File Results ---------------------------
+TEST01_00.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST01_00.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST01_00.rec
+ LAB: khoong 
+ REC: bary   
+TEST01_01.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST01_01.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST01_01.rec
+ LAB: moojt 
+ REC: bary  
+TEST01_02.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST01_02.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST01_02.rec
+ LAB: hai  
+ REC: bary 
+TEST01_03.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST01_03.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST01_03.rec
+ LAB: ba   
+ REC: bary 
+TEST01_04.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST01_04.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST01_04.rec
+ LAB: boosn 
+ REC: bary  
+TEST01_05.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST01_05.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST01_05.rec
+ LAB: nawm 
+ REC: bary 
+TEST01_06.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST01_06.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST01_06.rec
+ LAB: sasu 
+ REC: bary 
+TEST01_07.rec:  100.00(100.00)  [H=   1, D=  0, S=  0, I=  0, N=  1]
+TEST01_08.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST01_08.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST01_08.rec
+ LAB: tasm 
+ REC: bary 
+TEST01_09.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST01_09.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST01_09.rec
+ LAB: chisn 
+ REC: bary  
+TEST02_00.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST02_00.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST02_00.rec
+ LAB: khoong 
+ REC: bary   
+TEST02_01.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST02_01.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST02_01.rec
+ LAB: moojt 
+ REC: ba    
+TEST02_02.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST02_02.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST02_02.rec
+ LAB: hai 
+ REC: ba  
+TEST02_03.rec:  100.00(100.00)  [H=   1, D=  0, S=  0, I=  0, N=  1]
+TEST02_04.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST02_04.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST02_04.rec
+ LAB: boosn 
+ REC: bary  
+TEST02_05.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST02_05.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST02_05.rec
+ LAB: nawm 
+ REC: ba   
+TEST02_06.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST02_06.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST02_06.rec
+ LAB: sasu 
+ REC: bary 
+TEST02_07.rec:  100.00(100.00)  [H=   1, D=  0, S=  0, I=  0, N=  1]
+TEST02_08.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST02_08.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST02_08.rec
+ LAB: tasm 
+ REC: bary 
+TEST02_09.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST02_09.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST02_09.rec
+ LAB: chisn 
+ REC: bary  
+TEST03_100.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_100.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_100.rec
+ LAB:     khoong 
+ REC: hai bary   
+TEST03_101.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_101.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_101.rec
+ LAB:    moojt 
+ REC: ba ba    
+TEST03_102.rec:  100.00(  0.00)  [H=   1, D=  0, S=  0, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_102.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_102.rec
+ LAB: hai      
+ REC: hai bary 
+TEST03_103.rec:  100.00(  0.00)  [H=   1, D=  0, S=  0, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_103.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_103.rec
+ LAB:     ba 
+ REC: hai ba 
+TEST03_104.rec:    0.00(-200.00)  [H=   0, D=  0, S=  1, I=  2, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_104.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_104.rec
+ LAB:       boosn 
+ REC: ba ba hai   
+TEST03_105.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_105.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_105.rec
+ LAB:     nawm 
+ REC: hai ba   
+TEST03_106.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_106.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_106.rec
+ LAB:     sasu 
+ REC: hai bary 
+TEST03_107.rec:  100.00(  0.00)  [H=   1, D=  0, S=  0, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_107.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_107.rec
+ LAB:      bary 
+ REC: sasu bary 
+TEST03_108.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_108.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_108.rec
+ LAB:     tasm 
+ REC: hai ba   
+TEST03_109.rec:  100.00(  0.00)  [H=   1, D=  0, S=  0, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_109.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_109.rec
+ LAB: chisn      
+ REC: chisn bary 
+TEST03_200.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_200.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_200.rec
+ LAB:     khoong 
+ REC: hai boosn  
+TEST03_201.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_201.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_201.rec
+ LAB:    moojt 
+ REC: ba ba    
+TEST03_202.rec:  100.00(-100.00)  [H=   1, D=  0, S=  0, I=  2, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_202.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_202.rec
+ LAB: hai           
+ REC: hai bary bary 
+TEST03_203.rec:  100.00(  0.00)  [H=   1, D=  0, S=  0, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_203.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_203.rec
+ LAB:     ba 
+ REC: hai ba 
+TEST03_204.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_204.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_204.rec
+ LAB: boosn 
+ REC: chisn 
+TEST03_205.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_205.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_205.rec
+ LAB:     nawm  
+ REC: hai boosn 
+TEST03_206.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_206.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_206.rec
+ LAB:     sasu 
+ REC: hai ba   
+TEST03_207.rec:  100.00(  0.00)  [H=   1, D=  0, S=  0, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_207.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_207.rec
+ LAB:     bary 
+ REC: hai bary 
+TEST03_208.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_208.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_208.rec
+ LAB:     tasm 
+ REC: hai ba   
+TEST03_209.rec:    0.00(-200.00)  [H=   0, D=  0, S=  1, I=  2, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST03_209.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST03_209.rec
+ LAB:             chisn 
+ REC: sasu khoong bary  
+TEST04_100.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_100.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_100.rec
+ LAB: khoong 
+ REC: bary   
+TEST04_101.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_101.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_101.rec
+ LAB: moojt 
+ REC: nawm  
+TEST04_102.rec:  100.00(  0.00)  [H=   1, D=  0, S=  0, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_102.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_102.rec
+ LAB: hai      
+ REC: hai bary 
+TEST04_103.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_103.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_103.rec
+ LAB:     ba   
+ REC: hai bary 
+TEST04_104.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_104.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_104.rec
+ LAB:    boosn 
+ REC: ba ba    
+TEST04_105.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_105.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_105.rec
+ LAB:     nawm 
+ REC: hai bary 
+TEST04_106.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_106.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_106.rec
+ LAB:    sasu 
+ REC: ba bary 
+TEST04_107.rec:  100.00(  0.00)  [H=   1, D=  0, S=  0, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_107.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_107.rec
+ LAB:    bary 
+ REC: ba bary 
+TEST04_108.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_108.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_108.rec
+ LAB:     tasm 
+ REC: hai ba   
+TEST04_109.rec:  100.00(  0.00)  [H=   1, D=  0, S=  0, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_109.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_109.rec
+ LAB: chisn      
+ REC: chisn bary 
+TEST04_200.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_200.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_200.rec
+ LAB:    khoong 
+ REC: ba bary   
+TEST04_201.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_201.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_201.rec
+ LAB:       moojt 
+ REC: chisn bary  
+TEST04_202.rec:  100.00(-100.00)  [H=   1, D=  0, S=  0, I=  2, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_202.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_202.rec
+ LAB: hai         
+ REC: hai bary ba 
+TEST04_203.rec:    0.00(  0.00)  [H=   0, D=  0, S=  1, I=  0, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_203.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_203.rec
+ LAB: ba   
+ REC: bary 
+TEST04_204.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_204.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_204.rec
+ LAB:     boosn 
+ REC: hai bary  
+TEST04_205.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_205.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_205.rec
+ LAB:     nawm 
+ REC: hai ba   
+TEST04_206.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_206.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_206.rec
+ LAB:    sasu 
+ REC: ba bary 
+TEST04_207.rec:  100.00(  0.00)  [H=   1, D=  0, S=  0, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_207.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_207.rec
+ LAB:      bary 
+ REC: bary bary 
+TEST04_208.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_208.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_208.rec
+ LAB:      tasm 
+ REC: sasu bary 
+TEST04_209.rec:    0.00(-100.00)  [H=   0, D=  0, S=  1, I=  1, N=  1]
+Aligned transcription: D:/Thacsi/NNN/htk1/test_mfc/TEST04_209.lab vs D:/Thacsi/NNN/htk1/test_mfc/TEST04_209.rec
+ LAB:       CHISN 
+ REC: chisn ba    
+------------------------ Overall Results --------------------------
+SENT: %Correct=5.00 [H=3, S=57, N=60]
+WORD: %Corr=25.00, Acc=-41.67 [H=15, D=0, S=45, I=40, N=60]
+===================================================================

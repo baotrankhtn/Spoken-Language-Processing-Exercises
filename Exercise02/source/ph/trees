@@ -1,0 +1,222 @@
+QS 'l_b' { "b-*" }
+QS 'l_oos' { "oos-*" }
+QS 'l_n' { "n-*" }
+QS 'l_ch' { "ch-*" }
+QS 'l_is' { "is-*" }
+QS 'l_h' { "h-*" }
+QS 'l_kh' { "kh-*" }
+QS 'l_oo' { "oo-*" }
+QS 'l_m' { "m-*" }
+QS 'l_ooj' { "ooj-*" }
+QS 'l_t' { "t-*" }
+QS 'l_aw' { "aw-*" }
+QS 'l_s' { "s-*" }
+QS 'l_as' { "as-*" }
+QS 'r_a' { "*+a" }
+QS 'r_ary' { "*+ary" }
+QS 'r_oos' { "*+oos" }
+QS 'r_n' { "*+n" }
+QS 'r_is' { "*+is" }
+QS 'r_ai' { "*+ai" }
+QS 'r_oo' { "*+oo" }
+QS 'r_ng' { "*+ng" }
+QS 'r_m' { "*+m" }
+QS 'r_ooj' { "*+ooj" }
+QS 'r_t' { "*+t" }
+QS 'r_aw' { "*+aw" }
+QS 'r_asu' { "*+asu" }
+QS 'r_as' { "*+as" }
+
+b[2]
+{
+   0                  'r_ary'  "st_b_2_1"  "st_b_2_2" 
+}
+
+a[2]
+   "st_a_2_1"
+
+ary[2]
+   "st_ary_2_1"
+
+oos[2]
+   "st_oos_2_1"
+
+n[2]
+{
+   0                  'l_oos'  "st_n_2_1"  "st_n_2_2" 
+}
+
+ch[2]
+   "st_ch_2_1"
+
+is[2]
+   "st_is_2_1"
+
+h[2]
+   "st_h_2_1"
+
+ai[2]
+   "st_ai_2_1"
+
+kh[2]
+   "st_kh_2_1"
+
+oo[2]
+   "st_oo_2_1"
+
+ng[2]
+   "st_ng_2_1"
+
+m[2]
+   "st_m_2_1"
+
+ooj[2]
+   "st_ooj_2_1"
+
+t[2]
+   "st_t_2_1"
+
+aw[2]
+   "st_aw_2_1"
+
+s[2]
+   "st_s_2_1"
+
+asu[2]
+   "st_asu_2_1"
+
+as[2]
+   "st_as_2_1"
+
+sil[2]
+   "st_sil_2_1"
+
+b[3]
+{
+   0                    'r_a'  "st_b_3_1"  "st_b_3_2" 
+}
+
+a[3]
+   "st_a_3_1"
+
+ary[3]
+   "st_ary_3_1"
+
+oos[3]
+   "st_oos_3_1"
+
+n[3]
+   "st_n_3_1"
+
+ch[3]
+   "st_ch_3_1"
+
+is[3]
+   "st_is_3_1"
+
+h[3]
+   "st_h_3_1"
+
+ai[3]
+   "st_ai_3_1"
+
+kh[3]
+   "st_kh_3_1"
+
+oo[3]
+   "st_oo_3_1"
+
+ng[3]
+   "st_ng_3_1"
+
+m[3]
+   "st_m_3_1"
+
+ooj[3]
+   "st_ooj_3_1"
+
+t[3]
+{
+   0                  'l_ooj'  "st_t_3_1"  "st_t_3_2" 
+}
+
+aw[3]
+   "st_aw_3_1"
+
+s[3]
+   "st_s_3_1"
+
+asu[3]
+   "st_asu_3_1"
+
+as[3]
+   "st_as_3_1"
+
+sil[3]
+   "st_sil_3_1"
+
+b[4]
+   "st_b_4_1"
+
+a[4]
+   "st_a_4_1"
+
+ary[4]
+   "st_ary_4_1"
+
+oos[4]
+   "st_oos_4_1"
+
+n[4]
+{
+   0                   'l_is'      -1     "st_n_4_3" 
+  -1                  'l_oos'  "st_n_4_1"  "st_n_4_2" 
+}
+
+ch[4]
+   "st_ch_4_1"
+
+is[4]
+   "st_is_4_1"
+
+h[4]
+   "st_h_4_1"
+
+ai[4]
+   "st_ai_4_1"
+
+kh[4]
+   "st_kh_4_1"
+
+oo[4]
+   "st_oo_4_1"
+
+ng[4]
+   "st_ng_4_1"
+
+m[4]
+   "st_m_4_1"
+
+ooj[4]
+   "st_ooj_4_1"
+
+t[4]
+{
+   0                  'l_ooj'  "st_t_4_1"  "st_t_4_2" 
+}
+
+aw[4]
+   "st_aw_4_1"
+
+s[4]
+   "st_s_4_1"
+
+asu[4]
+   "st_asu_4_1"
+
+as[4]
+   "st_as_4_1"
+
+sil[4]
+   "st_sil_4_1"
+

@@ -1,0 +1,2 @@
+$word = ba | bary | boosn | chisn | hai | khoong | moojt | nawm | sasu | tasm;
+(<$word>)
